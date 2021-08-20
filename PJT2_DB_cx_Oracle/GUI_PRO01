@@ -1,0 +1,19 @@
+--------------------------------------------------------
+--  파일이 생성됨 - 수요일-8월-18-2021   
+--------------------------------------------------------
+--------------------------------------------------------
+--  DDL for Procedure GUI_PRO01
+--------------------------------------------------------
+set define off;
+
+  CREATE OR REPLACE PROCEDURE "SCOTT"."GUI_PRO01" 
+(P_GUI OUT SYS_REFCURSOR)
+AS
+BEGIN
+    OPEN P_GUI FOR
+        SELECT PNAME, IMG_LINK
+        FROM GUI_DB
+        WHERE ROWNUM < 4;
+END GUI_PRO01;
+
+/
