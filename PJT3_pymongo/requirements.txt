@@ -1,5 +1,8 @@
-
 beautifulsoup4
+selenium
 requests
 cx_Oracle
-pillow
+tensorflow
+pymongo
+konlpy
+JPype1 #버전에 따라 설치 파일 달라짐.
