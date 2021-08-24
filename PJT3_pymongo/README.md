@@ -39,9 +39,7 @@
     import tkinter.ttk
     from tkinter.scrolledtext import ScrolledText
     from tkinter import *
-    from ScrapingToFIle import ScrapingToFile
-    import FileToOracle
-    import OracleToMongoDB
+
 
 # 모듈 설치 방법
     pip install -r requirements.txt
