@@ -45,5 +45,6 @@
     pip install -r requirements.txt
 
 # 결과
-<img width="80%" src="https://user-images.githubusercontent.com/84650224/130190867-ae33cb7b-1521-4c14-a5a4-7e0263d837b9.jpg"/>
-<img width="80%" src="https://user-images.githubusercontent.com/84650224/130190970-85686d06-307d-4b53-82b
+
+<img width="80%" src="https://user-images.githubusercontent.com/84650224/130593675-950252f6-7c74-4ae0-841d-804ceac6b35b.jpg"/>
+
