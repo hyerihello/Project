@@ -1,0 +1,4996 @@
+[
+  {
+    "_id": {
+      "$oid": "6125fd3a7d2ae2070876d422"
+    },
+    "rate": 1,
+    "note": "\uc624\ub298 \uc601\ud654\uad00\uac00\uc11c \ubcf4\uace0 \uc654\uc5b4\uc694. \uc794\uc794\ud55c \uac10\ub3d9\uc744 \ubc1b\uc558\uc2b5\ub2c8\ub2e4.\ud55c \uac00\uc9c0 \uadfc\ub370 \uc758\ubb38\uc778\uac74 \ub370\uc774\ube57 \uc2ec\uc7a5\uac80\uc9c4\ud55c \ub4a4\uc5d0 \ub3c4\ub9e4\uc810\uc5d0\uc11c \ub0a9\ud488 \uacc4\uc57d\ud558\uace0 \ub3cc\uc544\uc624\ub824\ub294\ub370 \ud55c\uc608\ub9ac\uac00 \ub530\ub85c \uc2a4\ud2f0\ube10 \uc5f0\uc744 \ubd88\ub7ec\uc11c \uc2e4\ub9dd\ud588\ub2e4\uace0 \uc598\uae30\ud558\uc796\uc544\uc694? \uc5b4\ub5a4 \uc810 \ub54c\ubb38\uc5d0 ...",
+    "date": "2021.03.05",
+    "good": 18,
+    "bad": 8,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3a7d2ae2070876d423"
+    },
+    "rate": 4,
+    "note": "\ubab0\uc785\uac10\uc774 \uc788\uc5c8\uace0 \uc778\ubb3c\ub4e4\uc744 \ub2e4 \ub108\ubb34 \uc798 \uadf8\ub824\ub0b8 \uc791\ud488. \uc544\ud504\uba74\uc11c\ub3c4 \uac00\uc871\ub4e4\uc5d0\uac8c \ud3d0\ub07c\uce58\uae30 \uc2eb\uc5b4\ud558\uace0 \ubcf8\uc758\uc544\ub2c8\uac8c \ubd88\uc744 \ub0b4\uace0\ub294 \uba39\uba39\ud558\uac8c \uac78\uc5b4\uac00\ub294 \ubaa8\uc2b5 \uc6b0\ub9ac \ud560\uba38\ub2c8 \uc0dd\uac01\ub3c4 \ub098\uace0 \ub9c8\uc74c\uc774 \uc544\ud320\uc5b4\uc694.",
+    "date": "2021.03.20",
+    "good": 19,
+    "bad": 9,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3a7d2ae2070876d424"
+    },
+    "rate": 6,
+    "note": "\uc694\uc998 \ub5a0\ub4e4\uc369\ud558\uac8c \uc720\uba85\ud55c \uc601\ud654\ub77c \ub118 \uae30\ub300\ud558\uc2dc\uba74 \uc2e4\ub9dd\ud558\uc2e4 \uc218\ub3c4 \uc788\uc5b4\uc694 \uc601\uc0c1\ubbf8\uac00 \uc608\uc058\uace0 \uc794\uc794\ud558\uac8c \uac10\ub3d9\uc744 \uc8fc\ub294 \uac00\uc871\uc601\ud654\uc608\uc694 \uac1c\uc778\uc801\uc73c\ub85c\ub294 \uc2a4\ud2f0\ube10\uc5f0\uc774 \ub9de\uc740 \ubc30\uc5ed\uc774\uc544\ubc84\uc9c0\uc758 \uc80a\uc740 \ub0a0\uc744 \ubcf4\ub294 \ub4ef\ud55c \ub290\ub08c\uc774\uc5c8\uc5b4\uc694..\ud2b9\ud788 \uc785\uace0 \ub098\uc624\ub294 \uc637...",
+    "date": "2021.03.06",
+    "good": 20,
+    "bad": 10,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3a7d2ae2070876d425"
+    },
+    "rate": 2,
+    "note": "\ub2e4 \uc54c\ubc14\uc778 \uac70 \uac19\ub2e4...",
+    "date": "2021.03.24",
+    "good": 9,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3a7d2ae2070876d426"
+    },
+    "rate": 2,
+    "note": "\ubb34\uc2a8 \ub0b4\uc6a9\uc778\uc9c0 \ubaa8\ub974\uaca0\uc5b4\uc694 .. \uc758\ubbf8 \uac10\ub3d9 \ub2e4 \uc5c6\uc74c",
+    "date": "2021.03.21",
+    "good": 9,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3a7d2ae2070876d427"
+    },
+    "rate": 6,
+    "note": "\uc7ac\ubbf8\uad50\ud3ec\ub4e4\uc774\ub098 \uac10\ub3d9\ud560 \uc601\ud654\uac19\uc74c.. \uc2a4\ud2f0\ube10\uc5f0 \ub9d0\ud22c\uac00 \uc0b4\uc9dd \uc5ec\ud0dc\uae4c\uc9c0 \ub0a0 \ubbf8\ud589\ud55c\uace0\uc57c \uac19\uc544\uc11c \ub118 \ubcc4\ub85c\uc5ff\uc74c",
+    "date": "2021.05.26",
+    "good": 10,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3a7d2ae2070876d428"
+    },
+    "rate": 2,
+    "note": "\ub09c \uc0c1\ucd94\uac00 \ubd88\uba74\uc911\uc5d0 \ub3c4\uc6c0\uc774 \ub418\ub294 \uc904 \uc54c\uc558\ub294\ub370\ubbf8\ub098\ub9ac\uc57c \ub9d0\ub85c \ucd5c\uace0\uc758 \ubd88\uba74\uc99d \uce58\ub8cc\uc81c\uc778\uac78 \uc774\uc81c\uc57c \uc54c\uac8c\ub410\ub2e4.",
+    "date": "2021.03.27",
+    "good": 10,
+    "bad": 1,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3b7d2ae2070876d429"
+    },
+    "rate": 7,
+    "note": "\uc544\uae4c\uc804\uc5d0 \ubcf4\uace0 \uc654\ub294\ub370 \uc7ac\ubc0c\uc9c4 \uc54a\uc544\uc694.\uc9c0\ub8e8\ud558\uace0\uc794\uc794\ud558\uace0\uc870\uc6a9\ud55c \uc601\ud654\uc5d0\uc694.\ubb34\uc2a8 \ub0b4\uc6a9\uc778\uc9c0 \uc798\uc740 \ubaa8\ub974\uaca0\uc9c0\ub9cc \ubc30\uc6b0 \uc724\uc5ec\uc815\ub2d8\uc774 \ub098\uc624\uc154\uc11c \ubcf4\ub294 \ub9db\uc740 \uc870\uae08 \uc194\uc194\ud588\uc9c0\ub9cc \uc7ac\ubbf8\ub294 \uc5c6\uc5c8\uc5b4\uc694",
+    "date": "2021.05.18",
+    "good": 11,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3b7d2ae2070876d42a"
+    },
+    "rate": 1,
+    "note": "\ub72c\uae08\uc5c6\uc774 \ub05d\ub098\uc11c \uc544\uc26c\uc6cc\uc694",
+    "date": "2021.04.30",
+    "good": 12,
+    "bad": 3,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3b7d2ae2070876d42b"
+    },
+    "rate": 1,
+    "note": "\ub178\uc7bc.. \uae30\ub300\uac00 \ub108\ubb34 \ucef8\ub098\ubd04",
+    "date": "2021.04.28",
+    "good": 12,
+    "bad": 3,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3b7d2ae2070876d42c"
+    },
+    "rate": 6,
+    "note": "\uc878\ub824..",
+    "date": "2021.03.20",
+    "good": 12,
+    "bad": 3,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3b7d2ae2070876d42d"
+    },
+    "rate": 6,
+    "note": "\ud558\ub098 \uac19\uc774 \uc5f0\uae30\uc790\ub4e4 \uc5f0\uae30\uac00 \ubd95\ub72c \uc5b4\uc0c9\ud55c...   \uc800\ub9c8\ub2e4\uc758 \ub530\ub85c \uad6d\ubc25\uc2dd \uc5f0\uae30\uc5d0 1\uc810",
+    "date": "2021.03.03",
+    "good": 12,
+    "bad": 3,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3b7d2ae2070876d42e"
+    },
+    "rate": 1,
+    "note": "\uac4d\uc2ec\uc2ec\ud480\uc774\uc6a9 \uc7ac\ubbf8\uc5c6\uc74c",
+    "date": "2021.03.13",
+    "good": 13,
+    "bad": 4,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3b7d2ae2070876d42f"
+    },
+    "rate": 1,
+    "note": "\ub86f\ub370\uc2dc\ub124\ub9c8 \uba85\ub3d9 \uad00\ub78c - \uc601\ud654\ubcf4\ub2e4 \ub4dc\ub77c\ub9c8 \ubcf4\ub294 \uac83 \uac19\uc740 \ub290\ub08c\uc73c\ub85c \ubd24\uc5b4\uc694.\ud55c\ubc88\uc5d0 \ub2f4\uae30\uc5d0\ub294 \ubb54\uac00 \ubd80\uc871\ud55c \uc804\uac1c.\ubc30\uacbd\ub3c4 \uc678\uad6d \uac19\uc740 \ub290\ub08c \uac70\uc758 \uc5c6\uace0 \uadf8\ub0e5 \uc2dc\uace8 \ub290\ub08c\ub9cc \uc794\uc794\ud55c \uac10\ub3d9\uc774 \uc788\uc744 \uc904 \uc54c\uc558\ub294\ub370? \ubcf4\ub294 \uad00\uc810\uc5d0 \ub530\ub77c \ub2e4...",
+    "date": "2021.03.07",
+    "good": 14,
+    "bad": 5,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3b7d2ae2070876d430"
+    },
+    "rate": 1,
+    "note": "\uc678\uad6d\uc778\ub4e4 \ub208\uc5d0\ub294 \uc601\ud654\uac00 \uc2e0\uc120\ud588\ub098\ubcf4\ub2e4. \ub098\uc5d0\uac90 \uc2a4\ud2f0\ube10 \uc5f0 \ud55c\uad6d\ub9d0 \ub9ce\uc774 \ub298\uc5c8\ub124 \uc815\ub3c4\uc758 \uac10\ud765.",
+    "date": "2021.03.14",
+    "good": 15,
+    "bad": 6,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3b7d2ae2070876d431"
+    },
+    "rate": 4,
+    "note": "\uc0dd\uac01\ubcf4\ub2e4 \ub9ce\uc774 \ubcc4\ub85c\uc600\uc5b4\uc694.  \uacb0\ub9d0\ub3c4 \uadf8\ub807\uace0 \ub9c8\uce58 10\ubd80\uc791 \ub4dc\ub77c\ub9c8\uc911 1\ubd80\ub9cc \ubcf8\uac83\uac19\uc740 \ub290\ub08c.",
+    "date": "2021.03.14",
+    "good": 15,
+    "bad": 6,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3b7d2ae2070876d432"
+    },
+    "rate": 8,
+    "note": "2021.03.07 (\uc77c) 2\uc2dc\uac04\uc774 \uc0ac\ub77c\uc84c\ub2e4",
+    "date": "2021.03.03",
+    "good": 15,
+    "bad": 6,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3b7d2ae2070876d433"
+    },
+    "rate": 6,
+    "note": "\uc601\ud654\uc5d0 \uc7ac\ubbf8\ub97c \ube7c\uba74 \uadf8\uac8c \ubb34\uc2a8 \uc601\ud654\uc784? \uace0\ubb38\uc774\uc9c0\u314b\u314b",
+    "date": "2021.04.20",
+    "good": 16,
+    "bad": 7,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3b7d2ae2070876d434"
+    },
+    "rate": 10,
+    "note": "\uc804\ud615\uc801\uc778.\uc77c\ubc8c\ub824\ub193\ub294 \uc61b\ub0a0 \uc6b0\ub9ac\ub124 \uc544\ube60\ub4e4 \uc774\uc57c\uae30\uac19\uc544\uc11c \uc18d\uc774\ub2f5\ub2f5\ud588\ub124\uc694 \ucc38\ub2e4\ubcf4\uba74 \uc88b\uc740\ub0a0\uc774\uc628\ub2e4\ub294\uac8c \ud329\ud2b8\uc77c\uae4c\uc694",
+    "date": "2021.03.03",
+    "good": 17,
+    "bad": 8,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3b7d2ae2070876d435"
+    },
+    "rate": 1,
+    "note": "\uc678\uad6d\uc778\ub4e4\uc758 \uc2dc\uc120\uacfc \ud55c\uad6d\uc778\ub4e4\uc758 \uc2dc\uc120\uc758 \ud655\uc5f0\ud55c \ucc28\uc774\u3160",
+    "date": "2021.03.03",
+    "good": 20,
+    "bad": 11,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3b7d2ae2070876d436"
+    },
+    "rate": 1,
+    "note": "\uc2a4\ud2f0\ube10\uc5f0 \ud55c\uad6d\uc5b4 \uc9c4\uc9dc \uc5f0\uc2b5 \ud588\ub098\ubcf4\ub2e4\u314b\u314b\u314b\u314b \ud55c\uad6d\uc5b4 \ubc1c\uc74c\uc774 \uc548\uc5b4\uc0c9\ud574",
+    "date": "2021.03.03",
+    "good": 21,
+    "bad": 12,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3b7d2ae2070876d437"
+    },
+    "rate": 10,
+    "note": "\uac00\uc2b4\uc5d0 \uc190\uc744 \uc5b9\uace0 \ub9d0\ud574\ubcf4\uc790...\uc774\uac8c \uc7ac\ubbf8\uc788\ub0d0?\u314b\u314b\u314b \uc678\uad6d\uc5d0\uc11c \uc0c1 \ud558\ub098 \ub358\uc838\uc8fc\ub2c8 \uc544\uc8fc \ub300\ub2e8\ud55c \uc791\ud488\uc778 \uac83\ucc98\ub7fc \uc0dd\uac01\ud558\uace0 \ube68\uc544\ub300\ub294 \ubaa8\uc2b5\uc774 \uc664\ucf00 \uc6c3\uae30\ub0d0",
+    "date": "2021.03.03",
+    "good": 28,
+    "bad": 19,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3b7d2ae2070876d438"
+    },
+    "rate": 2,
+    "note": "\ub2e4\ub4e4 \uc88b\uc740 \ud3c9\uc744 \ub0b4\uace0 \uc788\ub294 \ub9c8\ub2f9\uc5d0...\uac10\ub3c5\uacfc \uc81c\uc791\uc9c4 \uac70\uc758 \ubaa8\ub450 \ud55c\uad6d\uc778\uc774 \uc544\ub2cc\ub370 \ub108\ubb34 \ub9ce\uc740 \ub9e4\uc2a4\ucef4\uc5d0\uc11c \ub9c8\uce58 \uc790\ub791\uc2a4\ub7f0 \ud55c\uad6d\uc778\uc774 \ub9cc\ub4e0 \ud55c\uad6d\uc601\ud654\uc778\ub0e5 \uc740\uadfc\uc2ac\uca4d \uc791\ud488\uad6d\uc801\uc744 \ub454\uac11\uc2dc\ud0a4\uace0 \uc788\ub2e4\ub294 \uc0dd\uac01\uc744 \ud588\ub2e4. \uc804\ud615\uc801\uc778 \ub3d9\uc591\uc5ec\uc131\uc758 \uc678...",
+    "date": "2021.03.27",
+    "good": 9,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3b7d2ae2070876d439"
+    },
+    "rate": 2,
+    "note": "\uae30\ub300\ub97c \ub108\ubb34 \ub9ce\uc774\ud558\uace0 \ubd10\uc11c \uadf8\ub7f0\uc9c0 \uc544\uc26c\uc6e0\uc5b4\uc694. \ucd08\ubc18 \uc124\uc815 \ube7c\uace0\ub294 \ub4a4\ub85c \uac08\uc218\ub85d \ub108\ubb34 \uc9c0\ub8e8\ud558\uace0 \uac10\ub3c5\uc758 \uba54\uc138\uc9c0\ub3c4 \uc804 \uc798 \ubaa8\ub974\uaca0\uc5b4\uc694 \u3160\u3160 \ud55c\uc608\ub9ac\uc528 \ud32c\uc778\ub370\ub3c4 \ubd88\uad6c\ud558\uace0 \uc5f0\uae30\ub3c4 \uc544\uc26c\uc6e0\uace0 \uc724\uc5ec\uc815\ub2d8\uc740 \uac00\uc9c0\uace0 \uc788\ub294 \ub9e4\ub825\uc744 1\ub3c4 \ubabb\ubcf4...",
+    "date": "2021.03.22",
+    "good": 9,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3b7d2ae2070876d43a"
+    },
+    "rate": 1,
+    "note": "\uad81\uae08\ud574\uc11c \uac1c\ubd09\ud558\uc790 \ub9c8\uc790 \ubd24\uc2b5\ub2c8\ub2e4.  \uc790\uc5f0\uc740\uc544\ub984\ub2f5\uace0 \ub113\uc9c0\ub9cc \ubbf8\uad6d\uc774\ubbfc \uc2dc\uace8\uc0dd\ud65c \ub9ce\uc774 \ud798\ub4e4\uc5c8\uaca0\uc5b4\uc694",
+    "date": "2021.05.02",
+    "good": 10,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3b7d2ae2070876d43b"
+    },
+    "rate": 1,
+    "note": "\ucd5c\uc545\uc758 \uc601\ud654. \uc774\ub7f0 \uc601\ud654\uac00 \ub2e8\uc9c0 \ud55c\uad6d\uc5b4 \uc601\ud654\ub780 \uc774\uc720\ub9cc\uc73c\ub85c \uad6d\uc81c\ubb34\ub300\uc5d0 \uc870\uba85 \ubc1b\ub294 \uac83\uc774 \ucabd\ud314\ub9ac\uba70 \uc624\ud788\ub824 \uc870\ub871\ubc1b\ub294 \uae30\ubd84\uc774\ub2e4. \uc624\ub298 \uc601\ud654\uad00\uc5d0 \uac00\uc11c \ubd24\ub294\ub370 \uc815\ub9d0 \uc9c0\ub8e8\ud558\uace0 \uc544\ubb34\uac83\ub3c4 \uc544\ub2cc \uc774\uc57c\uae30\ub97c \ub9c8\uce58 \ub300\ub2e8\ud55c \uc2a4\ud1a0\ub9ac\uc778 \uc591 \uac10\ub3c5...",
+    "date": "2021.05.02",
+    "good": 10,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3b7d2ae2070876d43c"
+    },
+    "rate": 1,
+    "note": "\uac1c \uc4f0\ub808\uae30\uac19\uc740 \uc601\ud654\uc5b8\ub860\ud50c\ub808\uc774\uc5d0 \uc644\uc804 \uc18d\uc558\uc74c\uc774\uac83\ub3c4 \uc601\ud654\ub77c\uace0 \ub9cc\ub4e4\uc5c8\ub0d0",
+    "date": "2021.05.02",
+    "good": 10,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3b7d2ae2070876d43d"
+    },
+    "rate": 1,
+    "note": "\uc11c\uc591\uc778\ub4e4\uc740 \uc774\uac78 \ubcf4\uba74\uc11c \uc5b4\ub5a4 \uac10\ub3d9\uc744 \ub290\ub080 \uac78\uae4c\uc694 \ubbf8\ub098\ub9ac \uc990\uaca8\uba39\ub294 \uae40\uce58\ub9e8\uc740 \uc774 \uc601\ud654\uc758 \uac00\uce58\ub97c \uc804\ud600 \ubaa8\ub974\uaca0\ub124\uc694",
+    "date": "2021.04.27",
+    "good": 10,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3b7d2ae2070876d43e"
+    },
+    "rate": 1,
+    "note": "\uac1c\ub178\uc7bc \uc218\uba74\uc81c \uc601\ud654\uc724\uc5ec\uc815 \uc5f0\uae30\ub294 \uc798\ud558\ub294\ub370 \ubb34\uc2a8 \uc0c1\uc744 \ud729\uc4f8\ub9cc\ud55c \uadf8\uc815\ub3c4\ub294 \uc544\ub2cc\ub4ef",
+    "date": "2021.03.22",
+    "good": 10,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3b7d2ae2070876d43f"
+    },
+    "rate": 1,
+    "note": "\uc194\uc9c1\ud788 \uc7ac\ubbf8\ub3c4\uc5c6\uace0 \uac10\ub3d9\ub3c4\uc5c6\uace0...\uc65c \uc0c1\ud0d3\ub294\uc9c0 \uc758\ubb38\uc774\ub4e4\uc815\ub3c4...",
+    "date": "2021.03.21",
+    "good": 10,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3b7d2ae2070876d440"
+    },
+    "rate": 1,
+    "note": "\ub370\uce58\uae30\ub9cc \ud55c \uc544\ubb34 \uc591\ub150\ub3c4 \uc5c6\ub294 \ubbf8\ub098\ub9ac \ub098\ubb3c. \uc5b4\ub5a4 \uac10\ub3d9\ub3c4 \ub290\uaef4\uc9c0\uc9c0 \uc54a\uc558\ub2e4.",
+    "date": "2021.03.21",
+    "good": 10,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3b7d2ae2070876d441"
+    },
+    "rate": 1,
+    "note": "\ud3c9\uc810\ubcf4\uace0 \uc18d\uc544\uc11c \ubd24\ub294\ub370 \uc815\ub9d0 \uc2e4\ub9dd\ud588\ub124\uc694 \uac10\ub3d9\ud3ec\uc778\ud2b8\ub3c4 \uc5c6\uace0 \uacb0\ub9d0\ub3c4 \uc774\uc0c1\ud558\uace0 \uc911\uac04\uc911\uac04 \ub625\uac1c\uadf8 \uc5c6\uc5c8\uc73c\uba74 \ubb34\ud45c\uc815\uc73c\ub85c \ub05d\uae4c\uc9c0 \ubd24\uc744\ub4ef\ud558\ub124\uc694",
+    "date": "2021.03.07",
+    "good": 13,
+    "bad": 5,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3b7d2ae2070876d442"
+    },
+    "rate": 1,
+    "note": "\uc804 \ub108\ubb34\ub108\ubb34 \uacf5\uac10\uc774 \uc548\ub410\uc5b4\uc694",
+    "date": "2021.03.07",
+    "good": 13,
+    "bad": 5,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3b7d2ae2070876d443"
+    },
+    "rate": 1,
+    "note": "\uc9c0\ub8e8\ud558\uace0\ubcc4\ub85c\ub124\uc6a9....\ub178\uc7ac\ubb34",
+    "date": "2021.03.07",
+    "good": 13,
+    "bad": 5,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3b7d2ae2070876d444"
+    },
+    "rate": 1,
+    "note": "\uc7ac\ubbf8 \uc9c4\uc9dc \uc5c6\uc74c \uc774 \uc5ec\uc12f \uae00\uc790\ub3c4 \uc544\uae4c\uc6c0",
+    "date": "2021.04.28",
+    "good": 14,
+    "bad": 6,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3b7d2ae2070876d445"
+    },
+    "rate": 6,
+    "note": "\ubb34\uc5c7\uc744 \ub9d0\ud558\ub824\ub294\uac74\uc9c0 \uadf8\ub0e5 \ud3c9\ubc94\ud560 \ub0a8\uc758 \uc77c\uc0c1\uc744 \ub3c8\ub0b4\uace0 \ubcf4\ub294 \ub0ad\ube44",
+    "date": "2021.03.20",
+    "good": 14,
+    "bad": 6,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3b7d2ae2070876d446"
+    },
+    "rate": 1,
+    "note": "\ud55c\uc904\ud3c9 \ucca8 \uc368\ubd05\ub2c8\ub2e4. \ud734",
+    "date": "2021.03.11",
+    "good": 14,
+    "bad": 6,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3c7d2ae2070876d447"
+    },
+    "rate": 1,
+    "note": "\ubbf8\ub098\ub9ac\ub294 \ubbf8\uad6d\uc601\ud654\uc774\uace0 \ubbf8\uad6d\uc778 \ube0c\ub798\ub4dc \ud53c\ud2b8\uac00 \uc81c\uc791\uc790\uc774\uace0 \ubbf8\uad6d\uc778\uc774 \uac10\ub3c5\uc778 \uc601\ud654\ub2e4. \uadf8 \uc601\ud654\uc5d0 \ud55c\uad6d\uc778 \uc5ec\ubc30\uc6b0\uac00 \ub4f1\uc7a5\uc744 \ud588\ub2e4. \ud55c\uad6d\uc778\uc774 \uc81c\uc791\uc790\uc600\uace0 \ud55c\uad6d\uc778\uc774 \uac10\ub3c5\uc774\uace0 \uc81c\uc791\ube44\uac00 20\uc5b5\uc774\uc5c8\ub2e4\uba74? \uc791\ub144\uc5d0 \uc2ec\uc740\uacbd\uc740 \uc544\uce74\ub370\ubbf8\uc5d0\uc11c \uc8fc\uc5f0...",
+    "date": "2021.03.06",
+    "good": 14,
+    "bad": 6,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3c7d2ae2070876d448"
+    },
+    "rate": 2,
+    "note": "\uae30\ub300\uac00 \ub108\ubb34 \ucef7\ub294\uc9c0  \ub108\ubb34  \uae30\ub300\uc774\ud558\uc785\ub2c8\ub2e4",
+    "date": "2021.03.30",
+    "good": 16,
+    "bad": 8,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3c7d2ae2070876d449"
+    },
+    "rate": 6,
+    "note": "\uac00\uc7a5 \ud070 \ubb38\uc81c\ub294 \uc2a4\ud2f0\ube10 \uc5f0\uc774 \uc5f0\uae30\ub97c \uc798 \ubabb\ud55c\ub2e4.\uc774\ub2e4.",
+    "date": "2021.03.06",
+    "good": 16,
+    "bad": 8,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3c7d2ae2070876d44a"
+    },
+    "rate": 2,
+    "note": "\ubcf4\ub294 \ub0b4\ub0b4 \uc9dc\uc99d\ub09c\uac74 \ub098\ub9cc \uadf8\ub7f0\uac00...",
+    "date": "2021.03.04",
+    "good": 16,
+    "bad": 8,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3c7d2ae2070876d44b"
+    },
+    "rate": 1,
+    "note": "\ubb34\uc5bc \uc5f0\ucd9c\ud558\uace0\uc2f6\uc740\uc9c0 \ubab0\ub974\uac9f\uc5b4\uc694\uacb0\ub9d0\ub3c4 \uc5b4\uc774\uc5c6\uace0..",
+    "date": "2021.03.23",
+    "good": 18,
+    "bad": 10,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3c7d2ae2070876d44c"
+    },
+    "rate": 9,
+    "note": "\ub09c\ud574\ud588\uc2b5\ub2c8\ub2e4. \ud574\uc11d\uc774 \uc5b4\ub824\uc6cc\uc694",
+    "date": "2021.03.03",
+    "good": 27,
+    "bad": 19,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3c7d2ae2070876d44d"
+    },
+    "rate": 7,
+    "note": "\uc774\uac8c \uc65c \uc0c1\uc744 \ubc1b\uc740\uac74\uc9c0 \ubaa8\ub974\uaca0\ub2e4. 2\ubc30\uc18d\uc73c\ub85c \ubcf4\uace0 \uc2f6\uc5b4\uc9c8 \uc815\ub3c4\ub85c \ud55c\uc7a5\uba74 \ud55c\uc7a5\uba74\uc774 \ub298\uc5b4\uc9c0\ub294\uac8c... \uc9c0\ub8e8\ud558\ub2e4\ub294 \ub290\ub08c",
+    "date": "2021.05.01",
+    "good": 7,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3c7d2ae2070876d44e"
+    },
+    "rate": 10,
+    "note": "...\uc774\uac8c\ubb58\uae4c....\ub418\uac8c \uc5b4\uc0c9\ud55c \ub2e4\ud050\ub97c \ubcf4\ub294\ub370 \ubcc4 \ub0b4\uc6a9\ub3c4 \uc5c6\ub354\ub77c..",
+    "date": "2021.05.05",
+    "good": 8,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3c7d2ae2070876d44f"
+    },
+    "rate": 1,
+    "note": "\ubaa8\ub450\ub4e4 \uc5f0\uae30\uac00 \ub118 \uc88b\uc558\uc2b5\ub2c8\ub2e4.",
+    "date": "2021.04.30",
+    "good": 8,
+    "bad": 1,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3c7d2ae2070876d450"
+    },
+    "rate": 2,
+    "note": "\uc800\ub294 \ud55c\uc608\ub9ac\uc640 \uaf2c\ub9c8 \uc544\ub4e4 \uc5f0\uae30\uac00 \uc778\uc0c1\uae4a\uc5c8\uc5b4\uc694. \uc724\uc5ec\uc815 \uc5f0\uae30\ub294 \uc0ac\uc2e4 \uacc4\uc18d \ubd10\uc654\ub358 \ubaa8\uc2b5\uc774\ub77c \uc548\uc815\uac10\uc774 \uc788\uc5c8\uc8e0. \uac1c\uc778\uc801\uc73c\ub85c\ub294 \ub178\uc608 12\ub144\uc744 \ubcf4\ub294 \ub4ef\ud55c \ub290\ub08c\uc744 \ubc1b\uc558\uc5b4\uc694.",
+    "date": "2021.04.26",
+    "good": 8,
+    "bad": 1,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3c7d2ae2070876d451"
+    },
+    "rate": 1,
+    "note": "\ub2e4 \uc783\uace0\ub3c4 \ub2e4\uc2dc \uc2dc\uc791\ud558\ub294 \ubaa8\ub4e0\uc0ac\ub78c\ub4e4\uc5d0\uac8c \uc751\uc6d0\uc758 \ubc15\uc218\ub97c \ubcf4\ub0b4\uace0\uc2f6\uc740 \ubb49\ud074\ud55c \uc774\uc57c\uae30",
+    "date": "2021.03.13",
+    "good": 8,
+    "bad": 1,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3c7d2ae2070876d452"
+    },
+    "rate": 1,
+    "note": "\uc9c4\uc9dc \uc601\ud654\uac00 \ub108\ubb34 \ud3c9\ubc94\ud558\ub2e4 \ubabb\ud574... \uc544.. \uc5f0\uae30\ub825\uc740 \uadf8\ub0e5 \ub108\ubb34\ub3c4 \ud3c9\ubc94\ud588\ub2e4. \uc194\uc9c1\ud788 \uc65c \uc0c1\uc744 \ubc1b\uc744\ub9cc\ud588\ub294\uc9c0 \uc804\ud600 \uc774\ud574\ub97c \ubabb\ud558\uaca0\uc74c. \uac10\ub3d9\ub3c4 \uc7ac\ubbf8\ub3c4 \uc804\ud600 \uc5c6\ub294 \uadf8\ub7f0 \uc601\ud654.",
+    "date": "2021.04.30",
+    "good": 9,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3c7d2ae2070876d453"
+    },
+    "rate": 1,
+    "note": "\uc5ec\ub7ec\uac00\uc9c0 \uc0c1\uc744 \ud729\uc4f8\uc5b4 \ud638\uae30\uc2ec\uacfc \uae30\ub300\uac10\uc73c\ub85c \ubaa8\ucc98\ub7fc\uc758 \uc601\ud654\uad00 \ub098\ub4e4\uc774\ub97c \ud588\ub294\ub370 \uacb0\ub860 \ubd80\ud130 \ub9d0\uc500\ub4dc\ub9ac\uba74 \ub300\uc2e4\ub9dd~ \ud5c8\ud0c8\ud569\ub2c8\ub2e4. \uc2a4\ud1a0\ub9ac \uc9c4\ubd80\ud558\uace0 \ubc30\uc6b0\ub4e4\uc758 \uc5f0\uae30\ub294 \uadf8\uc800 \ud3c9\ubc94 \uadf8\uc774\uc0c1 \uc774\ud558\ub3c4 \uc544\ub2d8! \uac10\ub3d9\uc774\ub098 \uba54\uc138\uc9c0\ub3c4 \uc804\ud600 \uc5c6\ub294 \ub531 \uc0bc...",
+    "date": "2021.04.30",
+    "good": 9,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3c7d2ae2070876d454"
+    },
+    "rate": 9,
+    "note": "\ubcc4\ud55c\uac1c\ub3c4 \uc544\uae4c\uc6c0..\uc774\uac8c\ubb50\ub78c??? \ub0b4\uac00 \uc601\ud654\ub97c \uadf8\ub807\uac8c \ub9c8\ub2c8\ubd24\uc5b4\ub3c4..\uc544\ud734 \uc9c4\uc9dc \uc774\uac78 2\uc2dc\uac04\uc744\ubd24\ub124",
+    "date": "2021.04.02",
+    "good": 9,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3c7d2ae2070876d455"
+    },
+    "rate": 1,
+    "note": "\uc601\uc0c1\ubbf8 \uc74c\uc545\uc740 \uc88b\uc73c\ub098\uc77c\ub2e8 \uc601\ud654\ub77c\ub294 \uac74 \uc7ac\ubbf8 \uc788\uc5b4\uc57c \ub418\uc9c0 \uc54a\ub098 \uc2f6\ub2e4\ub3c8 \uc544\uae5d\ub2e4",
+    "date": "2021.03.24",
+    "good": 9,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3c7d2ae2070876d456"
+    },
+    "rate": 1,
+    "note": "\uc309\ub178\uc7bc\uc774\uc600\uc5b4\uc694 \ub3c8\uc544\uae4c\uc6cc\ub77c",
+    "date": "2021.03.22",
+    "good": 9,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3c7d2ae2070876d457"
+    },
+    "rate": 1,
+    "note": "\uc2a4\ud3ec\uc77c\ub7ec\uac00 \ud3ec\ud568\ub41c \uac10\uc0c1\ud3c9\uc785\ub2c8\ub2e4. \uac10\uc0c1\ud3c9 \ubcf4\uae30",
+    "date": "2021.03.20",
+    "good": 9,
+    "bad": 2,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3c7d2ae2070876d458"
+    },
+    "rate": 1,
+    "note": "\ud55c\uad6d\uc601\ud654 \ud2b9\uc720\uc758 \uc5b5\uc9c0\uc2a4\ub7ec\uc6b4 \uc2e0\ud30c\uc5c6\uc774 \uc544\uc8fc \uc808\uc81c\ub41c \uac10\uc815\uc73c\ub85c \ub108\ubb34\ub098 \uc798 \ud480\uc5b4\ub0b8 \uc601\ud654. \uc5ec\uc6b4\uc774 \uc815\ub9d0 \uc9c4\ud558\uac8c \ub0a8\ub294\ub2e4. \ub9c8\uc9c0\ub9c9 \ud560\uba38\ub2c8\uc758 \uc2e4\uc218\uac00 \uac00\uc871\uc5d0\uac8c \uad6c\uc6d0\uc774 \ub418\uc5c8\ub2e4\ub294 \uac83\uc774 \uc815\ub9d0 \uc544\uc774\ub7ec\ub2c8\ud558...",
+    "date": "2021.03.17",
+    "good": 9,
+    "bad": 2,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3c7d2ae2070876d459"
+    },
+    "rate": 8,
+    "note": "\uc194\uc9c1\ud788 \ub3c8\uc544\uae4c\uc6c0",
+    "date": "2021.03.07",
+    "good": 10,
+    "bad": 3,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3c7d2ae2070876d45a"
+    },
+    "rate": 6,
+    "note": "\ub4dc\ub77c\ub9c8 \uc2dc\ud2f0 \uc544\uce78\uc18c\ud310... \ucf54\ub85c\ub098\ub85c \uc601\ud654\uac00 \uc5c6\uc73c\ub2c8..",
+    "date": "2021.05.02",
+    "good": 11,
+    "bad": 4,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3c7d2ae2070876d45b"
+    },
+    "rate": 1,
+    "note": "\uc800 \uc9c0\uae08 \ubd24\ub294\ub370\uc694\uc774\uac70 \ubb34\uc2a8 \u3161\u3161 \ub0b4\uc6a9\uc774 \uc5c6\ub294\ub370\uc694??? \uc8fc\ub9d0 \ub450\uba85\uc5d0 \uac70\uc758 4\ub9cc\uc6d0 \ub3c8 \ub0b4\uace0 \ubd24\ub294\ub370\uc544 \uc9c4\uc9dc \uc7a5\ub09c\ud558\ub098\u314b\u314b\uc601\ud654\uad11 \uc800\ud76c \uc5c4\ub9c8\uac003\ucc98\ub10c \uc9dc\ub9ac \ub3c5\ub9bd\uc601\ud654 \uc218\uc900\uc774\ub77c\uba70\u314b\u314b\ubb50 \ub2e4 \ub290\ub07c\ub294 \ubc14\uac00 \ub2e4\ub974\uaca0\uc9c0\ub9cc\uc815\ub9d0 \ub3c8\uc544\uae5d\ub124\uc694 \u314b...",
+    "date": "2021.03.21",
+    "good": 11,
+    "bad": 4,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3c7d2ae2070876d45c"
+    },
+    "rate": 1,
+    "note": "\uc774\uac8c \uc194\uc9c1\ud788 \uc7ac\ubc0c\ub0d0? \uc2dc\uac04\uc544\uae4c\uc6c0",
+    "date": "2021.03.11",
+    "good": 11,
+    "bad": 4,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3c7d2ae2070876d45d"
+    },
+    "rate": 6,
+    "note": "\ub108\ubb34\ub098 \ub9c8\uc74c\uc774 \ubb34\uac70\uc6e0\uc5b4\uc694\ub098\uc758 \uac10\uc815\uc774 \uc774\uc785 \ub418\uba74\uc11c \ub098 \uc790\uc2e0\uc744 \ud1a0\ub2e5\uc5ec \uc92c\uc5b4\uc694.\ubaa8\ub450\uac00 \ud589\ubcf5\ud558\uae38 \uc18c\uc6d0\ud574 \ubcf4\ub294 \uc2dc\uac04\uc774\uc5c8\uc5b4\uc694",
+    "date": "2021.03.08",
+    "good": 11,
+    "bad": 4,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3c7d2ae2070876d45e"
+    },
+    "rate": 6,
+    "note": "\uc804\ubc18\uc801\uc778 \uc2a4\ud1a0\ub9ac \uc9c4\ud589\uc774 \ubb34\ubbf8\uac74\uc870\ud574\uc11c \uc9c0\ub8e8\ud558\ub124\uc694",
+    "date": "2021.03.22",
+    "good": 12,
+    "bad": 5,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3c7d2ae2070876d45f"
+    },
+    "rate": 4,
+    "note": "\ub3c8 \uc544\uae5d\ub2e4. \uc194\uc9c1\ud558\uac8c\ub4e4 \ud6c4\uae30 \uc801\uc5b4\uc8fc\uc138\uc694. \u3160 \u315c \uad6d\ubf55\uc5d0 \ucde8\ud574\uc11c \ubb50 \uc788\ub294\ub4ef\uc774 \ud558\uace0\ub4e4 \uc788\uc9c0\ub9cc \uc194\uc9c1\ud788 \ub3c8 \uc544\uae5d\uc9c6\uc544\uc694. \u3160 \uc2e4\ub9dd\uc2a4\ub7fd\uc796\uc544\uc694... \u3160 \u315c",
+    "date": "2021.03.21",
+    "good": 12,
+    "bad": 5,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3c7d2ae2070876d460"
+    },
+    "rate": 4,
+    "note": "\uc2a4\ud3ec\uc77c\ub7ec\uac00 \ud3ec\ud568\ub41c \uac10\uc0c1\ud3c9\uc785\ub2c8\ub2e4. \uac10\uc0c1\ud3c9 \ubcf4\uae30",
+    "date": "2021.03.12",
+    "good": 12,
+    "bad": 5,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3c7d2ae2070876d461"
+    },
+    "rate": 2,
+    "note": "\uc9c4\uc9dc \u3148\ub178\uc7bc\uc778\ub370 \ub313\uae00\uc54c\ubc14\uac00 \uc591\uc2ec\ucc59\uaca8",
+    "date": "2021.03.08",
+    "good": 12,
+    "bad": 5,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3c7d2ae2070876d462"
+    },
+    "rate": 6,
+    "note": "\uc7ac\ubc0c\uace0 \uc7ac\ubbf8\uc5c6\uc5b4\uc694 \uc774\ubbfc\uc790\ub77c\uba74 \uacf5\uac10\ud560 \ub0b4\uc6a9 \ud558\uc9c0\ub9cc \uc804 \uc774\ubbfc\uc790\uac00 \uc544\ub2c8\uc5ec\uc11c \uadf8\ub7f0\uc9c0 \uc798 \ubaa8\ub974\uaca0\uc5b4\uc694",
+    "date": "2021.03.03",
+    "good": 12,
+    "bad": 5,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3c7d2ae2070876d463"
+    },
+    "rate": 9,
+    "note": "\uc815\uc11c\uac00 \ub2e4\ub978\uac74\uc9c0.. \uc694\uc998 \uc0ac\ud68c\uc5d0\uc11c \ub118 \ub180\ub77c\uc6b4 \uc77c\ub4e4\uc774 \ub9ce\uc774 \uc0dd\uaca8\uc11c \uc660\ub9cc\ud55c \uc815\uc11c\ub294 \uc548\ub2e4\uac00\uc624\ub294\uac74\uc9c0\ub294 \ubaa8\ub974\uaca0\ub294\ub370.. \uc804.. \uc798 \ubaa8\ub974\uaca0\ub354\ub77c\uace0\uc694. \uc5b4\ub5a4 \ud3ec\uc778\ud2b8\uac00 \uac10\ub3d9\uc801\uc778\uc9c0..  \ubb58 \ub290\uaef4\uc57c\ud558\ub294\uc9c0 \uc870\ucc28\ub3c4\uc694.",
+    "date": "2021.03.03",
+    "good": 12,
+    "bad": 5,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3c7d2ae2070876d464"
+    },
+    "rate": 6,
+    "note": "\uc544\ubb34\uac83\ub3c4 \ubaa8\ub974\uace0 \uc601\ud654\uc21c\uc704\ub192\uc740\uac83\ub9cc \ubcf4\uace0 \ubd24\ub294\ub370 \ubb50\uac00 \ub354 \ub098\uc62c\uc904\uc54c\uace0 \uc5c4\uccad \uc9d1\uc911\ud574\uc11c \ubd24\ub294\ub370 \uadf8\ub0e5 \uadf8\ub300\ub85c \ub05d\ub0ac\ub124\uc694..\ub531 \ub05d\ub098\uba74 \ubb50\uc9c0?\uc2f6\uc5b4\uc694...\uc5f0\ucd9c\uc774\ub791 \ubab0\uc785\uac10\uc740 \uc88b\uc558\uace0 \ud604\uc2e4\uc801\uc774\uc600\uc5b4\uc694 \ud558\uc9c0\ub9cc \uc800\ud55c\ud14c\ub294 \uc880 \uc9c0\ub8e8\ud588\uc5b4\uc694..",
+    "date": "2021.04.21",
+    "good": 13,
+    "bad": 6,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3c7d2ae2070876d465"
+    },
+    "rate": 4,
+    "note": "\ubbf8\ub098\ub9ac \uc218\uc0c1 \uc774\uc720.\ucf54x\ub098\ub85c \uac1c\ubd09 \uc601\ud654\uac00 \uc5c6\uc5b4\uc11c.",
+    "date": "2021.03.19",
+    "good": 13,
+    "bad": 6,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3c7d2ae2070876d466"
+    },
+    "rate": 8,
+    "note": "\uc774 \uc601\ud654\uac00 \uac1c\ubd09\ub418\uae30\ub97c \uae30\ub2e4\ub824\uc654\ub2e4. \ubcf4\uace0\uc2f6\uc5c8\uace0 \uad81\uae08\ud588\ub2e4. \uadf8\ub9ac\uace0 \uc624\ub298 \uc601\ud654\ub97c \ubcf4\uc558\ub2e4. \uae30\ub300\ub97c \ub5a0\ub098\uc11c \ucd5c\uc18c\ud55c\uc758 \uc601\ud654\uc801 \uac10\ub3d9\uc120\uc774 \uc788\uc5b4\uc57c \ud558\ub294\ub370 \ubcf4\ub294 \ub0b4\ub0b4 \uace0\uac1c\ub97c \uac38\uc6b0\ub6b1\ud560 \uc218\ubc16\uc5d0 \uc5c6\uc5c8\ub2e4. \uc2a4\ud1a0\ub9ac\ub3c4 \uc601\uc0c1\ubbf8\ub3c4 \uc5c6\uc5c8\ub2e4. \uadf8\ub7ac\ub2e4\ub294...",
+    "date": "2021.03.10",
+    "good": 13,
+    "bad": 6,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3c7d2ae2070876d467"
+    },
+    "rate": 4,
+    "note": "\ubbf8\ub098\ub9ac\uac00 \ubbf8\uad6d\uc5d0\uc11c \uc8fc\ubaa9 \ubc1b\ub294 \uc774\uc720\ub294 \ucf54\ub85c\ub098\ub85c \uc778\ud55c \uc544\uc2dc\uc544\uc778 \ud610\uc624\uc640 \ub9de\ubb3c\ub824 \uc778\uc885 \uac04\uc758 \ucc28\ubcc4\uc774 \uc5c6\ub358 \uc2dc\uc808\uc5d0 \ub300\ud55c \ud5a5\uc218\uc640 \uc9c0\uc9c0\uc5d0 \uc8fc\ubaa9\ud558\ub294 \ud0c0\uc774\ubc0d\uc774 \uc808\ubb18\ud588\uae30 \ub54c\ubb38\uc774\uc9c0 \uc601\ud654\uc801 \uc644\uc131\ub3c4\uac00 \ub6f0\uc5b4\ub098\uc11c\ub294 \uc544\ub2c8\ub2e4.",
+    "date": "2021.04.11",
+    "good": 15,
+    "bad": 8,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3c7d2ae2070876d468"
+    },
+    "rate": 10,
+    "note": "\ub0b4\ubc00\ud558\uace0 \uc9c4\uc194\ud55c \uacbd\ud5d8\uc774 \uc6b0\ub9ac \uc0b6\uc758 \ub180\ub77c\uc6b4 \ucc2c\uac00\uac00 \ub418\ub2e4.",
+    "date": "2021.03.04",
+    "good": 16,
+    "bad": 9,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3d7d2ae2070876d469"
+    },
+    "rate": 2,
+    "note": "\ud070 \uae30\ub300\uac10\uc5d0\ub294 \ubabb \ubbf8\ucce4\ub2e4.",
+    "date": "2021.07.02",
+    "good": 6,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3d7d2ae2070876d46a"
+    },
+    "rate": 2,
+    "note": "\uac38\uc6c3\ub6b1? \uc798 \ubaa8\ub974\uaca0\uc5b4\uc694.\ub9c8\uc9c0\ub9c9 \uc564\ub529\uc7a5\uba74...\uae30\ub300\uc5d0 \ubd80\uc751\ud558\uc9c0 \ubabb\ud55c \uc601\ud654...",
+    "date": "2021.04.28",
+    "good": 6,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3d7d2ae2070876d46b"
+    },
+    "rate": 2,
+    "note": "\ud55c\uad6d \ud2b9\uc720\uc758 \uc2e0\ud30c\uac00 \uc5c6\uc5b4\uc11c \uc88b\uc558\uc5b4\uc694",
+    "date": "2021.04.27",
+    "good": 6,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3d7d2ae2070876d46c"
+    },
+    "rate": 2,
+    "note": "\uae30\ub300\uc5d0 \ub9ce\uc774 \ubabb\ubbf8\uce58\ub294...\uac10\ub3d9\uc774 \uc5c6\uc5b4 \uc544\uc26c\uc6b4 \uc601\ud654\uc785\ub2c8\ub2e4",
+    "date": "2021.04.26",
+    "good": 6,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3d7d2ae2070876d46d"
+    },
+    "rate": 2,
+    "note": "\uc5b4\ub290 \uacf3\uc774\ub4e0\uc9c0 \ubfcc\ub9ac \ub0b4\ub9ac\uace0 \uc798 \uc790\ub77c\ub294 \ubbf8\ub098\ub9ac\uc640 \uac19\uc740 \uc6b0\ub9ac\ub4e4\uc758 \uc0b6\uc744 \uadf8\ub9b0 \uc601\ud654. \uc0ac\uc2e4\uc801\uc774\uc5b4\uc11c \uc544\ud504\uae30\ub3c4\ud558\uc9c0\ub9cc \ub610 \uc0ac\uc2e4\uc801\uc774\uc5b4\uc11c \ub530\ub73b\ud558\ub2e4. \ucf54\ub85c\ub098\ub85c \uc0b6\uc774 \ub9ce\uc774 \ubcc0\ud654 \ud55c \uc624\ub298\ub3c4 \uc6b0\ub9ac \ubaa8\ub450 \uc801\uc751\ud558\uace0 \uc0b4\uc544\uac00\ub294 \uac83\ucc98\ub7fc \uadf8\ub7fc\uc5d0\ub3c4 ...",
+    "date": "2021.04.26",
+    "good": 6,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3d7d2ae2070876d46e"
+    },
+    "rate": 2,
+    "note": "\uc9c4\uc9dc \uc539\ub178\uc7bc\uc774\ub124 \u314b\u314b\u314b \ub300\uc5ec\ub8cc \uc544\uae4c\uc6cc\uc11c 2\uc2dc\uac04 \ub2e4\ubd24\uac74\ub9cc... \uc815\ub9d0 \uc7ac\ubbf8\uac00 \uc5c6\ub294 \uc601\ud654\ub2e4. \uc544\ub2c8 \uc7ac\ubbf8\uac00 \uc5c6\ub2e4\uae30 \ubcf4\ub2e4\ub294 \uac1c\ud310\uc774\ub77c\uace0 \ubcf4\ub294\uac8c \ub9de\uc744 \ub4ef \ud558\ub2e4. \uc815\uc801\uc774\uace0 \uc794\uc794\ud55c \uac70\ub791 \uc7ac\ubbf8\uc5c6\ub294 \uac70\ub791\uc740 \ud655\uc2e4\ud788 \uad6c\ubd84 \ub418\uc5b4\uc57c\ub418\ub2c8\uae4c. \uc77c...",
+    "date": "2021.03.24",
+    "good": 6,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3d7d2ae2070876d46f"
+    },
+    "rate": 8,
+    "note": "\ubd81\ubbf8\uc5d0\uc11c \uc678\ub798\uc885 \uc2dd\ubb3c\uc778 \ubbf8\ub098\ub9ac\ub97c \uc800\ub807\uac8c \ubb34\uac1c\ub150\ud558\uac8c \uc2ec\uc5b4\uc11c\uc57c...\ud55c\ub958(\ubbf8\ub098\ub9ac)\ub97c \uc2ec\uc5b4\uc11c \ubbf8\uad6d \ud1a0\uc885\uc744 \uc791\uc0b4\ub0b4\uace0 \ubc88\uc131\ud558\uc790\ub294 \ubaa8\ud2f0\ube0c\uc778\uac00",
+    "date": "2021.03.04",
+    "good": 6,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3d7d2ae2070876d470"
+    },
+    "rate": 6,
+    "note": "\uac04\ub9cc\uc5d0 \uafc0\uc7a0 \uc7a4\ub2e4 \uc774\ub534\uac83 \ub9cc\ub4e4\uc9c0\ub9c8\ub77c",
+    "date": "2021.05.08",
+    "good": 7,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3d7d2ae2070876d471"
+    },
+    "rate": 1,
+    "note": "\uc774\ub807\uac8c \ub0b4\uc6a9\ub3c4 \uc5c6\uace0 \uc7bc\uc5c6\ub294 \uc601\ud654 \ucca8 \ubd04.",
+    "date": "2021.05.02",
+    "good": 7,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3d7d2ae2070876d472"
+    },
+    "rate": 2,
+    "note": "\ubcc4\ub8e8\ub0b4\uc694 \uadfc\ub300 \uba38\ub54c\uba54 \ub0a0\ub9ac\ub09c\uac83\ub9cc\ub0e5 \uc628\ubc29\uc1a1 \ub9c8\ub2e4 \ub098\uc624\ub294\uc9c0 \ub300\ud1b5\ub839 \uc5f0\uc124\ubcf4\ub2e4 \ubc29\uc1a15\uccb4\ub110\uc5d0\uc11c \ubc29\uc601\uc744 \ud574\ub300\ub0b4\uc694 \uadf8\uc815\ub3c4\ub294 \uc544\ub2cc\uac00\uc694 \ub3cc\ub9ac\ub294\uccb4\ub110 \ub9c8\ub2e4 \ubbf8\ub098\ub9ac \ubbf8\ub098\ub9ac \ubbf8\ub098\ub9ac \ubbf8\ub098\ub9ac \ubbf8\ub098\ub9ac\uba39\uace0 \ubbf8\uccab\ub098\uc694 \uc678\ub4e4\uadf8\ub7ec\ub294\uac70\uc5d0\uc694 \ub0ae\uc5d0 \uccb4\ub110 \ub3cc\ub9ac...",
+    "date": "2021.05.01",
+    "good": 7,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3d7d2ae2070876d473"
+    },
+    "rate": 2,
+    "note": "\uae00\uc384 \uae30\uc0dd\ucda9\ub9cc\ud07c \uc13c\uc138\uc774\uc158\uc744 \uc77c\uc73c\uae38 \uc815\ub3c4 \uc778\uac00 \uc2f6\ub2e4..\uc544\ub9c8 \uc678\uad6d\uc778\uc758 \uc2dc\uc120\uc774\ub77c \uadf8\ub7f0\uac00? \ubc30\uc6b0\ub4e4 \uc5f0\uc798\ud558\ub294\uac74 \uc54c\uaca0\uace0..\uc774\uc81c \ud55c\uad6d \ubc30\uc6b0\ub97c \uc54c\uc544\ubcf4\ub294\uad6c\ub098 \ub77c\ub294 \uc0dd\uac01\uc774 \ub4e0\ub2e4.. \ubaa8\ub4e0 \uac00\uce58\uac00 \ubc31\uc778\uc6b0\uc6d4\uc8fc\uc758\uc5d0\uc11c \ube44\ub86f\ub41c\uac8c \uc544\ub2d0\uae4c?  \ud55c\uad6d...",
+    "date": "2021.05.01",
+    "good": 7,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3d7d2ae2070876d474"
+    },
+    "rate": 1,
+    "note": "\uc628\uac16 \ub9c9\uc7a5\uc73c\ub85c \ub2e8\ub828\ub41c \ud55c\uad6d\uc778\uc5d0\uac8c \ub108\ubb34 \uc21c\ud55c\ub9db",
+    "date": "2021.04.13",
+    "good": 7,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3d7d2ae2070876d475"
+    },
+    "rate": 1,
+    "note": "\uc601\ud654 \uc804\ubd80 \uc5c9\ub9dd\uc9c4\ucc3d \uc774\ub2e4",
+    "date": "2021.04.07",
+    "good": 7,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3d7d2ae2070876d476"
+    },
+    "rate": 8,
+    "note": "\uc544\ub2c8 \uc774\uac8c \ub300\uccb4 \ubb54 \ub0b4\uc6a9\uc774\uc5ec\uc5d1\uc18c\uc2dc\uc2a4\ud2b8\uc784 \ubbf8\ub098\ub9ac \uce90\ub294 \ub0b4\uc6a9\uc784",
+    "date": "2021.04.05",
+    "good": 7,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3d7d2ae2070876d477"
+    },
+    "rate": 5,
+    "note": "\ubbf8\ub098\ub9ac\uc5d0 \uc0bc\uacb9\uc0b4\uc774 \ub354 \ub9db\uc788\uc2b5\ub2c8\ub2e4",
+    "date": "2021.03.09",
+    "good": 7,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3d7d2ae2070876d478"
+    },
+    "rate": 8,
+    "note": "\uac10\ub3d9 \ud765\ubbf8 \ub2e4 \ub0b4 \uad00\uc810\uc5d0\uc120 \uc544\ub2c8\ub2e4...\ubcf4\uace0\ub098\ub2c8 \ub09a\uc600\ub2e4\ub294 \uae30\ubd84\ubc16\uc5d0 \uc548\ub4e0\ub2e4...",
+    "date": "2021.03.08",
+    "good": 7,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3d7d2ae2070876d479"
+    },
+    "rate": 8,
+    "note": "\ubd09\uc900\ud638 \uac10\ub3c5\uc774 \ubcf4\ud3b8\uc801\uc774\uace0 \uc544\ub984\ub2f5\ub2e4\ub77c\uace0 \ub9d0\ud55c\uac78 \uc790\ub791\uc2a4\ub7fd\uac8c \uc608\uace0\ud3b8\uc5d0 \uc601\uc0c1\uc5d0 \ub123\uc5c8\ub294\ub370 ;;; \ubcf4\ud3b8\uc801\uc774\ub2e4\ub294\uac8c \uacb0\uad6d\uc740 \ud754\ud558\ub2e4\ub294\uac70 \uc544\ub2d8?",
+    "date": "2021.03.04",
+    "good": 7,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3d7d2ae2070876d47a"
+    },
+    "rate": 6,
+    "note": "\uadf8\ub0e5 \uc9c0\ub8e8\ud558\uace0 \uc5f0\uae30\ub3c4 \ubabb\ud574\uc11c \uc9d1\uc911\uc774 \uc548\ub428.\ub3c8\uc544\uae4c\uc6cc\uc694...",
+    "date": "2021.05.19",
+    "good": 8,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3d7d2ae2070876d47b"
+    },
+    "rate": 2,
+    "note": "\uc74c.. \uc774\ub807\uac8c \ub05d\ub09c\ub2e4\uace0????\ud560\ub54c \uc601\ud654\ub05d\ub0a8\u314b\u314b\u314b",
+    "date": "2021.04.28",
+    "good": 8,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3d7d2ae2070876d47c"
+    },
+    "rate": 7,
+    "note": "\uae30\ub300\ubcf4\ub2e4\ub294 \uc2a4\ud1a0\ub9ac\uac00 \ud070 \uac10\ud765\uc740 \uc5c6\uc2b5\ub2c8\ub2e4\uc5f0\uae30\ub294 \uc794\uc794\ud558\uac8c \ubcfc \ub9cc \ud569\ub2c8\ub2e4",
+    "date": "2021.03.03",
+    "good": 798,
+    "bad": 251,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3d7d2ae2070876d47d"
+    },
+    "rate": 6,
+    "note": "\uc57d\uac04 \uc9c0\ub8e8\ud558\uace0 \uacb0\ub9d0\uc774 \uc544\uc26c\uc6cc\uc694.",
+    "date": "2021.03.03",
+    "good": 876,
+    "bad": 355,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3d7d2ae2070876d47e"
+    },
+    "rate": 8,
+    "note": "\uc6b8\ub9ac\uc9c0 \uc54a\uc544\uc11c \ub354 \uc88b\uc558\uc5b4\uc694.",
+    "date": "2021.03.03",
+    "good": 510,
+    "bad": 75,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3d7d2ae2070876d47f"
+    },
+    "rate": 10,
+    "note": "\uba54\uc2dc\uc9c0\ub294 \ucc28\uce58\ud558\uace0 \uac10\uac01\uc801\uc73c\ub85c(\uc2dc\uac01 \uccad\uac01) \ud669\ud640\ud588\ub2e4. \uc601\ud654\ub294 \uac00\ub2a5\ud558\uace0 \uc18c\uc124\uc740 \ubd88\uac00\ub2a5\ud55c \uac83. \uc601\ud654\ub294 \ub3c4\ub2ec\ud560 \uc218 \uc788\uace0 \uc18c\uc124\uc740 \ub3c4\ub2ec\ud560 \uc218 \uc5c6\ub294 \uac83. \uc601\ud654\ub294 \uccb4\ud5d8\uc2dc\ud0ac \uc218 \uc788\uace0 \uc18c\uc124\uc740 \uccb4\ud5d8\uc2dc\ud0ac \uc218 \uc5c6\ub294 \uac83. \ub354 \ud655\uc7a5\ud558\uba74...",
+    "date": "2021.03.03",
+    "good": 888,
+    "bad": 510,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3d7d2ae2070876d480"
+    },
+    "rate": 10,
+    "note": "\uac1c\ubd09\uc77c\uc744 \uae30\ub2e4\ub824 \ubaa8\ucc98\ub7fc \ud314\uc21c\uc758 \uce5c\uc815\uc5b4\uba38\ub2c8\uc640 \ub86f\ub370 \uc2dc\ub124\ub9c8\uc5d0\uc11c \ubcf4\uc558\uc5b4\uc694. \uc794\uc794\ud55c \uc2dc\ub0c7\ubb3c\uc774 \ud750\ub974\ub294 \uacc4\uace1\uc5d0 \ubbf8\ub098\ub9ac \ubc2d\uc744 \uc77c\uad6c\ub294 \uc6b0\ub9ac\ub4e4\uc758 \uc5b4\uba38\ub2c8 \ub610\ub294 \ud560\uba38\ub2c8\uc758 \uac15\uc778\ud55c \uc0dd\uc874\ub825\uc774\ub780! \ub300\uc9c0\uc758 \ud6c4\uc190\ub4e4\uc774\ub77c\uba74 \ub204\uad6c\ub098 \ubc30\uaf3d \uc544\ub798 \ub2e8\uc804\uc73c...",
+    "date": "2021.03.03",
+    "good": 477,
+    "bad": 105,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3d7d2ae2070876d481"
+    },
+    "rate": 8,
+    "note": "\uc74c\uc545\uc774 \uc794\uc794\ud558\uace0 \ub370\uc774\ube57 \ub118 \uadc0\uc5fd\uc2b5\ub2c8\ub2e4",
+    "date": "2021.03.03",
+    "good": 429,
+    "bad": 67,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3d7d2ae2070876d482"
+    },
+    "rate": 8,
+    "note": "\uc794\uc794\ud55c \uc601\ud654\uc0dd\uac01\ubcf4\ub2e4 \ud070 \uac10\ub3d9\uc740 \uc544\ub2c8\uc5c8\ub2e4.\uae30\ub300\uac00 \ucef8\ub098?",
+    "date": "2021.03.03",
+    "good": 435,
+    "bad": 131,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3d7d2ae2070876d483"
+    },
+    "rate": 10,
+    "note": "\ud558....  \uc774\uac83\uc774 \uc81c \uc2ec\uc0ac\ud3c9\uc785\ub2c8\ub2e4. \uc774\ub7f0 \uac8c \ubc14\ub85c \uc601\ud654 \uc544\ub2c8\uaca0\uc2b5\ub2c8\ub2e4. \uc624\ub298 \ud558\ub8e8 \ud558.. \ud560\ub4ef..",
+    "date": "2021.03.03",
+    "good": 459,
+    "bad": 218,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3d7d2ae2070876d484"
+    },
+    "rate": 8,
+    "note": "\ubcf4\uace0\ub098\ub2c8 \uc544\ub984\ub2e4\uae30\ub3c4 \ud558\uace0 \uba39\uba39\ud558\ub124\uc694.",
+    "date": "2021.03.03",
+    "good": 296,
+    "bad": 74,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3d7d2ae2070876d485"
+    },
+    "rate": 8,
+    "note": "\uc5b4\ub824\uc6b4 \uc2dc\ub300\ub97c \ub2f4\ub2f4\ud788 \ud480\uc5b4\ub098\uac14\uac70 \uac19\uc2b5\ub2c8\ub2e4.",
+    "date": "2021.03.03",
+    "good": 252,
+    "bad": 69,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3d7d2ae2070876d486"
+    },
+    "rate": 10,
+    "note": "\uc774 \uc601\ud654\uc790\uccb4\uac00 \ubbf8\ub098\ub9ac\uac19\ub2e4. \uadf8\ub9ac\uace0 \uc774 \uc601\ud654\uc5d0 \ub098\uc624\ub294 \uc778\ubb3c\ub4e4\ub3c4 \ubbf8\ub098\ub9ac\uac19\ub2e4. \ud2b9\ubcc4\ud558\uace0 \ud654\ub824\ud558\uc9c4 \uc54a\uc9c0\ub9cc \uac15\uc778\ud558\uace0  \uc790\uafb8 \uba38\ub9bf\uc18d\uc5d0 \uc774 \uac00\uc871\uc758 \ud604\uc7ac\uc640 \ubbf8\ub798\uac00 \uad81\uae08\ud574\uc9c0\uace0 \uc751\uc6d0\ud558\uac8c \ub41c\ub2e4.\uadf8\ub4e4\uc758 \ubaa8\uc2b5\uc18d\uc5d0\uc11c \uac00\uc7a5\uc73c\ub85c\uc368\uc758 \ubaa8\uc2b5 \uc5b4\uba38...",
+    "date": "2021.03.03",
+    "good": 146,
+    "bad": 33,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3d7d2ae2070876d487"
+    },
+    "rate": 10,
+    "note": "\ud3c9\uc591\ub0c9\uba74 \uac19\uc740 \uc601\ud654. \ub9c9\uc0c1 \uae30\ub300\ud588\ub2e4\uac00 \ubcf4\uba74 \uc774\uac8c\ubb50\uc57c? \ud560\uc9c0\ub3c4 \ubaa8\ub974\uc9c0\ub9cc \uadf9\uc7a5\uc744 \ub098\uc120 \ub4a4\uc5d0\ub3c4 \uc794\uc794\ud558\uac8c \uc6b8\ub9bc\uc744 \uc8fc\ub294 \uc601\ud654",
+    "date": "2021.03.05",
+    "good": 145,
+    "bad": 33,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3d7d2ae2070876d488"
+    },
+    "rate": 10,
+    "note": "\ub108\ubb34\ub098\ub3c4 \ud3c9\ubc94\ud574\uc11c \uc544\ub984\ub2f5\ub2e4",
+    "date": "2021.03.04",
+    "good": 136,
+    "bad": 25,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3d7d2ae2070876d489"
+    },
+    "rate": 1,
+    "note": "\ubaa8\ub974\uaca0\ub124\uc694..\uc601\ud654\uac00 \ub05d\ub098\uace0\ub098\uc11c \uace0\uac1c\ub9cc \uae30\uc6c3..\uc774\uac8c\ubb50\uc9c0?\uadf8\ub2e5 \ud070\ub0b4\uc6a9\ub3c4 \uc5c6\uace0  \uc601\uc0c1\ubbf8\ub3c4 \uc5c6\uace0  ..\uc5ec\ud2bc \uc804\ubcc4\ub85c\uc600\ub124\uc694",
+    "date": "2021.03.25",
+    "good": 137,
+    "bad": 26,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3d7d2ae2070876d48a"
+    },
+    "rate": 7,
+    "note": "\ub0b4\uad6d\uc778\uc758 \uacf5\uac10\uc744 \uc5bb\uae30\uc5d0\ub294 \ub9ce\uc774 \ubd80\uc871\ud55c \uc2a4\ud1a0\ub9ac\ud154\ub9c1\uc774 \uc544\uc27d\ub124\uc694. \uac1c\uc778\uc758 \ub2e4\ud050\uba58\ud130\ub9ac \uc815\ub3c4\ub85c \ubcf8\ub2e4\uba74 \uadf8\ub7ed\uc800\ub7ed \ub0a9\ub4dd\ud560\ub9cc\ud569\ub2c8\ub2e4. \ubc30\uc6b0\ub4e4 \uac1c\uac1c\uc778\uc758 \uc5f0\uae30 \ud2b9\ud788 \uc70c\ud328\ud2bc\uc758 \uc5f0\uae30\uac00 \uc88b\uc558\uc73c\ub098 \uac10\ub3c5\uc774 \ud558\uace0 \uc2f6\uc740\ub9d0\uc774 \ub108\ubb34 \ub9ce\uc558\ub358 \ub098\uba38\uc9c0 \uc5b4...",
+    "date": "2021.03.05",
+    "good": 148,
+    "bad": 37,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3e7d2ae2070876d48b"
+    },
+    "rate": 1,
+    "note": "\uc774\uac8c.. \uac10\ub3d9\uc774\ub77c\ub294..?\ub3c4\ub370\uccb4 \uc65c?",
+    "date": "2021.03.13",
+    "good": 152,
+    "bad": 41,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3e7d2ae2070876d48c"
+    },
+    "rate": 6,
+    "note": "\ub878...? \ub09c \ub610 \ubbf8\ub098\ub9ac \ud0a4\uc6cc\uc11c \ub300\ubc15\uc774\ub77c\ub3c4 \ub098\ub294 \uc904...",
+    "date": "2021.03.07",
+    "good": 170,
+    "bad": 59,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3e7d2ae2070876d48d"
+    },
+    "rate": 6,
+    "note": "\uc5b8\ub860\ud50c\ub808\uc774\uc5d0 \ub2f9\ud588\ub2e4\ub294\ub290\ub08c. \uadf8\ub0e5 \uc794\uc794\ud55c \ub3c5\ub9bd\uc601\ud654. \uae30\ub300\uac00 \ub108\ubb34\ucef7\ub098? \uc2a4\ud1a0\ub9ac\uc640 \ud50c\ub86f\uc774 \uc5c9\uc131\ud558\ub2e4. \uacc4\uc18d \ubb54\uac00 \ub098\uc624\uaca0\uc9c0 \ub098\uc624\uaca0\uc9c0 \ud558\ub2e4 \ub05d\ub0a8",
+    "date": "2021.03.05",
+    "good": 176,
+    "bad": 65,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3e7d2ae2070876d48e"
+    },
+    "rate": 6,
+    "note": "\ub9ce\uc774 \uae30\ub300\ud558\uba70 \ubd24\ub294\ub370~~ \uacf5\uac10\ub300\uac00 \uc5c6\uc5c8\ub294\uc9c0 \ud574\uc11d\uc774 \ubd80\uc871\ud588\ub294\uc9c0\ubb54\uac00 \ub05d\ub0b4 \ud130\uc9c0\uc9c0\uc54a\ub294 \ub9c8\ubb34\ub9ac\uac00 \uc544\uc26c\uc6e0\uc74c~~",
+    "date": "2021.03.04",
+    "good": 142,
+    "bad": 32,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3e7d2ae2070876d48f"
+    },
+    "rate": 5,
+    "note": "\uc601\ud654\ub97c \ubcf4\uc558\uc73c\ub098 \ubcf8 \uac83 \uac19\uc9c0 \uc54a\ub2e4.",
+    "date": "2021.03.06",
+    "good": 146,
+    "bad": 36,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3e7d2ae2070876d490"
+    },
+    "rate": 6,
+    "note": "\uc880\uc9c0\ub8e8\ud558\uace0 \uacb0\ub9d0\uc774 \ub108\ubb34 \ud5c8\ubb34\ud574\uc694",
+    "date": "2021.03.06",
+    "good": 159,
+    "bad": 49,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3e7d2ae2070876d491"
+    },
+    "rate": 6,
+    "note": "\ub3c4\ub370\uccb4 \ubb34\uc2a8\ub0b4\uc6a9\uc778\uc9c0 \uc54c\uc218\uac00 \uc5c6\uc74c..\u315c\u315c \uc81c\uac00 \uba38\ub9ac\uac00 \ub098\uc05c\uac70\uac9f\uc8e0...",
+    "date": "2021.03.04",
+    "good": 177,
+    "bad": 67,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3e7d2ae2070876d492"
+    },
+    "rate": 4,
+    "note": "\uc194\uc9c1\ud788 \ud06c\uac8c \uc5f0\uae30\ub825\uc744 \uadf9\ucc2c\ud560\ub9cc\ud55c \uc601\ud654\ub294 \uc544\ub2cc\ub4ef \uadf8\uc815\ub3c4\ub85c \uc5f0\uae30\ud560\ub9cc\ud55c \ubc30\uc6b0\ub3c4 \uc5ec\ub7ec\uba85 \uc0dd\uac01\ub0a0 \uc815\ub3c4\ub85c \ud06c\uac8c \uac10\ub3d9\ud560\ub9cc\ud55c \uc5f0\uae30\ub825\uc740 \uc544\ub2c8\uc5c8\uc74c \uc2a4\ud1a0\ub9ac\ub3c4 \uc794\uc794\ud55c\uac74 \uac01\uc624\ud558\uace0 \ubd24\uc9c0\ub9cc \ub531\ud788 \uac10\ub3d9\uc73c\ub85c \ub2e4\uac00\uc628\uac83\ub3c4 \uc5c6\uc5c8\uace0..\ub9c9\ub0b4 \ub370\uc774\ube57\uc740 \ucc38 ...",
+    "date": "2021.03.06",
+    "good": 181,
+    "bad": 71,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3e7d2ae2070876d493"
+    },
+    "rate": 4,
+    "note": "\uc2e4\ub9dd\uc774 \ucef8\ub358 \uc601\ud654. \uba85\uc131\uc5d0 \ubabb \ubbf8\uce68",
+    "date": "2021.03.06",
+    "good": 183,
+    "bad": 73,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3e7d2ae2070876d494"
+    },
+    "rate": 2,
+    "note": "\uae30\ub300\uc5d0  \ub2e4\uc18c  \ubbf8\uce58\uc9c0 \ubabb\ud568\uc774 \uc788\uc5c8\ub358\ub4ef \ud558\ub2e4\uc5b4   ~   \uc774\ucf00 \ub05d\ub0ac\uc5b4  \ud558\ub294 \ub290\ub08c \ubb50\uc9c0",
+    "date": "2021.03.03",
+    "good": 203,
+    "bad": 93,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3e7d2ae2070876d495"
+    },
+    "rate": 10,
+    "note": "\uc2a4\ud3ec\uc77c\ub7ec\uac00 \ud3ec\ud568\ub41c \uac10\uc0c1\ud3c9\uc785\ub2c8\ub2e4. \uac10\uc0c1\ud3c9 \ubcf4\uae30",
+    "date": "2021.03.05",
+    "good": 133,
+    "bad": 24,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3e7d2ae2070876d496"
+    },
+    "rate": 6,
+    "note": "\ubd80\ubaa8\ub2d8\uc758 \ub192\uc544\uc9c0\ub294 \uc5b8\uc131\uc5d0 \uc228\uc5b4\uc11c \ub9c8\uc74c \uc878\uc600\ub358 \uc544\uc774 \ucd95\ucd95\ud55c \uc774\ubd88\uc5d0 \ubab0\ub798 \ud754\uc801\uc744 \uc9c0\uc6e0\ub358 \uc544\uce68 \uadf8\uc800 \ud480 \uc704\ub97c \ub2ec\ub9ac\uace0 \uc2f6\uc5c8\ub358 \uc21c\uc218\ud588\ub358 \ub9c8\uc74c \uadf8\ub9ac\uace0 \uadf8 \ub54c\ub294 \ubcf4\uc774\uc9c0 \uc54a\uc558\ub358 \uc544\ubc84\uc9c0\uc758 \uc0b6\uc758 \ubb34\uac8c\uae4c\uc9c0. \uc794\uc794\ud558\uc9c0\ub9cc \uc7ac\uce58\uc788\uace0 ...",
+    "date": "2021.03.03",
+    "good": 178,
+    "bad": 69,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3e7d2ae2070876d497"
+    },
+    "rate": 7,
+    "note": "\uc9c0\ub8e8\ud568\uc758 \ubbf8\ud559 \uc5b4\ub5a4 \uc8fc\uc81c\uc758\uc2dd\uc744 \uc804\ub2ec\ud558\ub294\uc9c0 \uc774\ud574 \ubabb\ud588\ub2e4.",
+    "date": "2021.03.08",
+    "good": 128,
+    "bad": 21,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3e7d2ae2070876d498"
+    },
+    "rate": 2,
+    "note": "\ubb54\uac00 \uc774\uc57c\uae30\uac00 \uc9c4\ud589\ub418\ub2e4\uac00 \uac11\uc790\uae30 \uc911\ub2e8\ub41c \ub290\ub08c\uc744 \uc870\uae08 \ubc1b\uc558\uc2b5\ub2c8\ub2e4.",
+    "date": "2021.03.07",
+    "good": 190,
+    "bad": 84,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3e7d2ae2070876d499"
+    },
+    "rate": 4,
+    "note": "\uc7ac\ubbf8\uc5c6\uc74c\ub2c8\ub2e4  \uc815\ub9d0\ub85c\uc694",
+    "date": "2021.03.03",
+    "good": 189,
+    "bad": 84,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3e7d2ae2070876d49a"
+    },
+    "rate": 6,
+    "note": "\uc791\ud488\uc758 \ub9cc\uc871\ub3c4\uac00 \ub9ce\uc774 \ubd80\uc871\ud558\ub2e4",
+    "date": "2021.03.04",
+    "good": 153,
+    "bad": 51,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3e7d2ae2070876d49b"
+    },
+    "rate": 2,
+    "note": "\uadf8\ub0e5 \uc880 \ubcc4\ub85c\ub108\ubb34 \uae30\ub300\ud558\uc2ec \uc548\ub300\uc694",
+    "date": "2021.03.06",
+    "good": 184,
+    "bad": 88,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3e7d2ae2070876d49c"
+    },
+    "rate": 3,
+    "note": "\uc7a5\ub09c\ud558\ub098. \ub098\ub9cc \ub2f9\ud560 \uc218 \uc5c6\uc9c0 \ub2e4\ub4e4 \ubcf4\uc0c8\uc624!",
+    "date": "2021.03.07",
+    "good": 153,
+    "bad": 62,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3e7d2ae2070876d49d"
+    },
+    "rate": 10,
+    "note": "\ub108\ubb34 \uae30\ub300\ud558\uace0 \uc5b4\uba38\ub2c8\ub791 \uc601\ud654\ub97c \ubcf4\ub7ec \uac00\uc11c\uc778\uc9c0\uc0ac\uc2e4\uc2e4\ub9dd\uc774 \uc880 \ucef8\uc2b5\ub2c8\ub2e4.. \uc678\uad6d\uc5d0\uc11c \uc0c1\uc744 \ubc1b\uc744 \uc815\ub3c4\uc778\uac00 \ub77c\ub294 \uc0dd\uac01\uc744 \ud558\uac8c\ub418\ub354\ub77c\uad6c\uc694. \ub0b4\uc6a9\uad6c\uc131\uc774\ub098 \ubc30\uc6b0\ub4e4 \uc5f0\uae30\uba74\uc5d0\uc11c \ub108\ubb34 \uc544\uc26c\uc6e0\uc2b5\ub2c8\ub2e4. \uc791\ud488 \uc5f0\ucd9c\uc774 \ub108\ubb34 \uc544\uc27d\ub124\uc694.. \ud73c\ub96d\ud558\uc2e0...",
+    "date": "2021.03.03",
+    "good": 114,
+    "bad": 24,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3e7d2ae2070876d49e"
+    },
+    "rate": 6,
+    "note": "\ub370\uc774\ube44\uc0ac  (\uc601\ud654 \ub118 \uc5ec\uc6b4\uc788\uace0 \uba39\uba39\ud558\ub124\uc694. \uc601\ud654\ubcf4\uba70 \uc774\ub7f0 \uac10\uc815\uc740 \ucc98\uc74c\uc785\ub2c8\ub2e4)",
+    "date": "2021.03.03",
+    "good": 124,
+    "bad": 38,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3e7d2ae2070876d49f"
+    },
+    "rate": 6,
+    "note": "\uac10\ub3d9\uc801\uc774\uc9c0\ub9cc \uc601\ud654\ub97c \ubcf4\uae30 \uc804\uc5d0 \uae30\ub300\ub97c \ub108\ubb34 \ud06c\uac8c\ud588\uc5c8\ub098 \ubd05\ub2c8\ub2e4. \uc601\ud654\uac00 \ub05d\ub098\ub3c4 \ubb54\uac00 \ub354 \ub098\uc640\uc8fc\uba74 \uc88b\uc558\uaca0\ub2e4\ub294 \ub2c8\ub08c?",
+    "date": "2021.03.03",
+    "good": 125,
+    "bad": 39,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3e7d2ae2070876d4a0"
+    },
+    "rate": 10,
+    "note": "\ub9c8\ubb34\ub9ac\uac00 \ube44\uad50\uc801 \uc57d\ud588\uc74c",
+    "date": "2021.03.03",
+    "good": 118,
+    "bad": 34,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3e7d2ae2070876d4a1"
+    },
+    "rate": 8,
+    "note": "\ud750\ub974\ub294 \uac15\ubb3c \uc601\ud654\uac00 \uc0dd\uac01\ub098\ub294 \uc794\uc794\ud568\uacfc \uac00\uc871\uc560\ub85c \uac10\ub3d9\uc744 \uc8fc\ub294 \uc601\ud654\uc600\uc2b5\ub2c8\ub2e4.  \u2018\ud560\uba38\ub2c8\uac00 \uc790\ub9ac\ub97c \uc798 \uc7a1\uc73c\uc168\ub124\u2019 \uc5d4\ub529\uc758 \ub300\uc0ac\ub294 \uc5ec\uc6b4\uc774 \ub0a8\uc2b5\ub2c8\ub2e4.  \ubbf8\ub098\ub9ac\uac00 \uc5f0\uc57d\ud574 \ubcf4\uc774\uc9c0\ub9cc \ubc14\ub78c\uacb0\uc5d0 \ud754\ub4e4\ub9ac\uba74\uc11c \ubcf4\uc774\ub294 \uc7a5\uba74\uc740 \ud55c\uad6d \uc815\uc11c\uac00 \ud568...",
+    "date": "2021.03.03",
+    "good": 102,
+    "bad": 19,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3e7d2ae2070876d4a2"
+    },
+    "rate": 6,
+    "note": "\ud76c\ub9dd\uc774 \uc0ac\ub77c\uc838\ub3c4 \ud76c\ub9dd\uc740 \uc788\ub2e4",
+    "date": "2021.03.07",
+    "good": 100,
+    "bad": 22,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3e7d2ae2070876d4a3"
+    },
+    "rate": 4,
+    "note": "\ubb50 \uadf8\ub0e5 \uadf8\ub7ac\ub2e4... \uae30\ub300\uce58\uc5d0\ub294 \ubabb \ubbf8\uce68",
+    "date": "2021.03.12",
+    "good": 98,
+    "bad": 22,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3e7d2ae2070876d4a4"
+    },
+    "rate": 10,
+    "note": "\uae30\ub300\uac00 \ub192\uc558\ub098\ubcf4\ub2e4. \uc5f0\ucd9c \uc2a4\ud1a0\ub9ac \ubaa8\ub450 \uae30\ub300\uc774\ud558\ub2e4.",
+    "date": "2021.03.13",
+    "good": 77,
+    "bad": 15,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3e7d2ae2070876d4a5"
+    },
+    "rate": 4,
+    "note": "\ud45c\uba74\uc801 \uc8fc\uc81c\uc778 \uc774\ubbfc\uc744 \ub5a0\ub098\uc11c \uc778\uc0dd\uc744 \uc0b4\uc544\ubcf8 \uc0ac\ub78c\uc774\ub77c\uba74 \uaca9\ud558\uac8c \uac10\uc815\uc774 \ubab0\uc785\ub418\uc5b4 \ud391\ud391 \uc6b8\uac8c\ub420 \uac83\uc774\ub2e4. \ub0a8\uc790\uc758 \ub0b4\uba74\uacfc \uc5ec\uc790\uc758 \ub0b4\uba74\uacfc \ud560\uba38\ub2c8\uc758 \ub0b4\uba74\uacfc \uc190\uc790\uc190\ub140\uc758 \ub0b4\uba74\uc774 \uac01\uc790 \uc815\ub2f9\uc131\uc744 \uac00\uc9c0\uace0 \uc5b4\ub5bb\uac8c \uac08\ub4f1\uad6d\uba74\uc744 \ub3cc\ud30c\ud558\ub294\uc9c0\ub97c ...",
+    "date": "2021.03.25",
+    "good": 88,
+    "bad": 26,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3e7d2ae2070876d4a6"
+    },
+    "rate": 6,
+    "note": "\uacfc\ub300\ud3c9\uac00\ub41c \uc601\ud654.\uc5f0\uae30\ub3c4 \uc2a4\ud1a0\ub9ac\ub3c4 \uadf8\ub2e5",
+    "date": "2021.03.07",
+    "good": 80,
+    "bad": 20,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3e7d2ae2070876d4a7"
+    },
+    "rate": 6,
+    "note": "\ubcc4\ub290\ub08c\uc774 \uc5c6\uc5b4\uc694. \uadf8\ub0e5 \uc774\ubbfc\uc790\uc758 \uac1c\ucc99\uc801\uc778 \uc0b6\uc744 \uc870\uae08\ubcf4\uc5ec\uc900\uac83\uac19\uc544\uc694. \ud06c\uac8c \uc7ac\ubbf8\ub3c4 \ud765\ubbf8\uc9c4\uc9c4\ud568\ub3c4 \uc5c6\uc5c8\uad6c \uc724\uc5ec\uc815\uc758\ud2b9\ubcc4\ud55c \uc5f0\uae30\ub825\ub3c4 \uac4d \uadf8\uc800\uadf8\ub7f0 \ub290\ub08c\uc785\ub2c8\ub2e4. \uc870\uae08 \uc878\ub9ac\uae30\ub3c4 \ud588\uace0... \uc61b\ub0a0\uc5d0 \ubd24\ub358 \uc804\uc6d0\uc77c\uae30\ub97c \uc870\uae08 \ub298\ub824\ub193\uc740 \ub290\ub08c\uc774...",
+    "date": "2021.03.07",
+    "good": 77,
+    "bad": 19,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3e7d2ae2070876d4a8"
+    },
+    "rate": 8,
+    "note": "\uae30\ub300\ubcf4\ub2e4\ub294 \uc880.. \uc601\ud654\uad00\uc5d0\uc11c \ubcf4\uae34 \uc544\uc27d\ub124\uc694",
+    "date": "2021.03.04",
+    "good": 82,
+    "bad": 25,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3f7d2ae2070876d4a9"
+    },
+    "rate": 10,
+    "note": "\uc54c\uc218\uc5c6\ub294 \ub208\ubb3c\uc774. \uc601\ud654\ub97c \uacc4\uc18d \uacf1\uc539\uc5b4\ubcf4\uac8c\ub41c\ub2e4. \uc54c\uac83\ub3c4 \uac19\uace0 \ubaa8\ub97c \uac83\ub3c4 \uac19\uc740 \uac10\uc815\ub4e4\uc774\ub2e4.",
+    "date": "2021.03.03",
+    "good": 94,
+    "bad": 37,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3f7d2ae2070876d4aa"
+    },
+    "rate": 10,
+    "note": "To all grandmas \uc5d4\ub529 \ud06c\ub808\ub527\uc774 \uc62c\ub77c\uc62c\ub54c \ud751 \ub4e4\uc5b4\uc624\ub294 \uac10\ub3d9\uc774 \uc788\uc2b5\ub2c8\ub2e4. \uc815\uc774\uc0ad \uac10\ub3c5 \uc790\uc804\uc801\uc778 \uc774\uc57c\uae30\ub77c \ub9ac\uc5bc\ub9ac\ud2f0\uac00 \uc0b4\uc544\uc788\ub294\ub370\ub2e4 \uc724\uc5ec\uc815 \ubc30\uc6b0\uc758 \ub10b\uc774 \ub098\uac04 \uc5f0\uae30\uac00 \ub108\ubb34 \uc88b\uc558\uc2b5\ub2c8\ub2e4",
+    "date": "2021.03.04",
+    "good": 83,
+    "bad": 27,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3f7d2ae2070876d4ab"
+    },
+    "rate": 9,
+    "note": "\uc9c8\uae34 \uc0dd\uba85\ub825\uacfc \uc801\uc751\ub825\uc73c\ub85c \uc5b4\ub514\uc11c\ub4e0 \uc798 \uc790\ub77c\ub294 \ubbf8\ub098\ub9ac\ucc98\ub7fc\uc6b0\ub9ac\ub3c4 \uadf8\ub807\uac8c.  \uc6d0\ub354\ud480 \uc6d0\ub354\ud480 \ubbf8\ub098\ub9ac.",
+    "date": "2021.03.05",
+    "good": 85,
+    "bad": 31,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3f7d2ae2070876d4ac"
+    },
+    "rate": 2,
+    "note": "\uc2e0\ud30c\ub85c \ube60\uc9c8 \uc218\ub3c4 \uc788\ub294 \ub0b4\uc6a9\uc744 \ub2f4\ubc31\ud558\uac8c \uadf8\ub824\ub0b8 \uc5f0\ucd9c \ubc30\uc6b0\ub4e4\uc758 \ube7c\uc5b4\ub09c \uc5f0\uae30. 1\ub144 \ub9cc\uc5d0 \uadf9\uc7a5 \ub098\ub4e4\uc774 \ud55c \ubcf4\ub78c\uc774 \uc788\uc5c8\ub2e4.",
+    "date": "2021.03.21",
+    "good": 54,
+    "bad": 5,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3f7d2ae2070876d4ad"
+    },
+    "rate": 2,
+    "note": "\uc798\ubaa8\ub974\uaca0\ub2e4 \ubbf8\uad6d\uc815\uc11c\uc5d0 \uc5b4\uc6b8\ub9ac\ub294 \ub4ef",
+    "date": "2021.03.22",
+    "good": 63,
+    "bad": 19,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3f7d2ae2070876d4ae"
+    },
+    "rate": 6,
+    "note": "\u314e....\ubb50\uc9c0 \ub3c4\ub300\uccb4 \ub0b4\uac00 \ubb58 \ubcf8\uac78\uae4c\uc694",
+    "date": "2021.03.08",
+    "good": 63,
+    "bad": 20,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3f7d2ae2070876d4af"
+    },
+    "rate": 4,
+    "note": "\uc601\ud654\ub97c \ubcf4\uae30\uc804\uc5d0 \uc218\ub9ce\uc740 \ub9e4\uccb4\uc640 \uc601\ud654\uc81c\ub4f1\uc5d0\uc11c\uc758 \uc218\uc0c1 \ub4f1 \uc5ec\ub7ec\uac00\uc9c0\ub85c \uae30\ub300\uac00 \ucef8\uc5c8\ub2e4.\uadf8\ub7ec\ub098 \uae30\ub300\uac00 \ub108\ubb34 \ud070 \ud0d3\uc774\uc5c8\uc744\uae4c?\uc794\uc794\ud558\uae30\ub294 \ud558\ub098 \uc804\uccb4\uc801\uc73c\ub85c \ubb58 \ub9d0\ud558\uace0 \uc2f6\uc740\uc9c0 \ub4a4\uc8fd\ubc15\uc8fd\ub41c \uadf8\ub7f0 \uc601\ud654.80\ub144\ub300 \ubbf8\uad6d\uc774\ubbfc\uc790 \uac00\uc871\uc758 \uc5b4\ub824\uc6c0\uc744 ...",
+    "date": "2021.03.14",
+    "good": 70,
+    "bad": 28,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3f7d2ae2070876d4b0"
+    },
+    "rate": 10,
+    "note": "\ub178\uac10\ub3d9\ub178\uc7ac\ubbf8 \uc785\ub2c8\ub2e4  \u3160\u3160",
+    "date": "2021.03.03",
+    "good": 60,
+    "bad": 20,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3f7d2ae2070876d4b1"
+    },
+    "rate": 10,
+    "note": "\uc794\uc794\ud558\uac8c \ub364\ub364\ud55c \ud45c\uc815\uacfc \uac10\uc815\uc11e\uc778 \ub208\ube5b\uc73c\ub85c \uc774\uc57c\uae30\ub97c \ub4e4\uc5b4\uc8fc\ub294 \uc0ac\ub78c \uac19\ub2e4\ubcc4\uac70 \uc548\ud588\ub294\ub370 \uc55e\uc5d0 \uc788\ub294 \ub0a0 \uc6b8\ub824\ubc84\ub9b0\ub2e4\uadf8\ub807\ub2e4\uace0 \uc9d1\uac00\ub294 \ubc84\uc2a4\uc5d0\uc11c \uc6b4\uac74 \uc544\ub2c8\uc9c0\ub9cc\uc74c \uc548 \uc6b4 \uac83\ub3c4 \uc544\ub2c8\ub2e4\uc544\ube60 \uadf8\ub9ac\uace0 \uc5c4\ub9c8 \uc6b0\ub9ac \uac00\uc871 \uadf8\ub9ac\uace0 \ub098 \ubaa8\ub450\uac00 \ub5a0\uc62c...",
+    "date": "2021.03.09",
+    "good": 45,
+    "bad": 6,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3f7d2ae2070876d4b2"
+    },
+    "rate": 10,
+    "note": "\uc778\uc0dd\uc774\ub780 \uadf8\ub7f0 \uac70\uc9c0 \uc798 \ub420 \uc904 \uc54c\uc558\ub358 \uc77c\uc774 \uaf2c\uc774\uace0\uc548 \ub420 \uc904 \uc54c\uc558\ub358 \uc77c\uc774 \ud480\ub9ac\uace0.\uadf8 \uacfc\uc815\uc744 \ud568\uaed8\ud574 \uc900 \uc774\ub4e4\uc774 \uc788\uc5b4\ub0b4 \uc778\uc0dd\uc744 \ud3d0\uae30\ud558\uc9c0 \uc54a\uc744 \uc218 \uc788\uc5c8\ub358 \uac70\uaca0\uc9c0",
+    "date": "2021.03.04",
+    "good": 56,
+    "bad": 17,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3f7d2ae2070876d4b3"
+    },
+    "rate": 8,
+    "note": "\uac00\uc7a5 \uac1c\uc778\uc801\uc778 \uc774\uc57c\uae30\ub97c \uaf64 \ubcf4\ud3b8\uc801\uc778 \ud615\uc2dd\uc5d0 \ub2f4\uc740 \uc601\ud654\uc778 \uac83 \uac19\ub2e4.",
+    "date": "2021.03.03",
+    "good": 51,
+    "bad": 13,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3f7d2ae2070876d4b4"
+    },
+    "rate": 2,
+    "note": "\uc2a4\ud3ec\uc77c\ub7ec\uac00 \ud3ec\ud568\ub41c \uac10\uc0c1\ud3c9\uc785\ub2c8\ub2e4. \uac10\uc0c1\ud3c9 \ubcf4\uae30",
+    "date": "2021.03.06",
+    "good": 81,
+    "bad": 43,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3f7d2ae2070876d4b5"
+    },
+    "rate": 10,
+    "note": "\uc601\ud654\uac00 \uc544\ub2c8\ub77c \ub204\uad70\uac00\uc758 \uc0b6\uc744 \uc0b4\uc9dd \uc5ff\ubcf8 \uac83 \uac19\ub2e4. \ud2b9\ud788\ub098 \uc601\ud654 \ub9c8\uc9c0\ub9c9 \ubd80\ubd84\uc758 \uc0ac\uc9c4\ub4e4... \uc6b0\ub9ac \uace0\ubaa8\ub124\uc5d0 \uac78\ub824\uc788\ub294 \ube5b\ubc14\ub79c \uc0ac\uc9c4\uc561\uc790\uc640 \ub611 \ub2ee\uc544\uc11c \ub180\ub790\ub2e4. \ud5a5\uc774 \uc9c4\ud55c \ubbf8\ub098\ub9ac\ub97c \uc88b\uc544\ud558\uc9c0 \uc54a\uc9c0\ub9cc \uc5b8\uc820\uac00 \ud0c0\uad6d\uc5d0\uc11c \uc0b4\uac8c \ub41c\ub2e4\uba74...",
+    "date": "2021.03.03",
+    "good": 61,
+    "bad": 24,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3f7d2ae2070876d4b6"
+    },
+    "rate": 1,
+    "note": "\ubaa8\ub4e0 \uac00\uc871\uc758 \uc2a4\ud1a0\ub9ac\ub97c \ub2e4 \uc774\uc57c\uae30\ud558\ub824\ub2c8\uc0b0\ub9cc\ud558\uace0 \uac10\uc815\uc120 \ucc98\ub9ac\uac00 \ub108\ubb34 \uc57d\ud568\ub9c8\uc9c0\ub9c9 \uacb0\ub9d0\uc740 \uc2f1\uac70\uc6cc\uc11c \ubb50\ub0d0 \uc774\ub7f0 \ub4dc\ub9bd\uc774 \uc800\uc808\ub85c \ub098\uc634",
+    "date": "2021.03.16",
+    "good": 63,
+    "bad": 27,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3f7d2ae2070876d4b7"
+    },
+    "rate": 4,
+    "note": "\uc794\uc794\ud558\uace0 \uac10\ub3d9\uc2a4\ub7ec\uc6e0\uc2b5\ub2c8\ub2e4. \ubc29\ud559\ub54c\uba74 \uc678\uac13\uc9d1\uc5d0 \uac14\uc5c8\ub358 \ud589\ubcf5\ud55c \uae30\uc5b5\uacfc \uc9c0\uae08\uc740 \ub9ce\uc774 \ud3b8\ucc2e\uc73c\uc2e0 \uc678\ud560\uba38\ub2c8\uac00 \ub3d9\uc2dc\uc5d0 \ub5a0\uc62c\ub77c \uadf8\ub9bd\uace0\ub3c4 \ub208\ubb3c\uc774 \ub0ac\uc2b5\ub2c8\ub2e4.",
+    "date": "2021.03.17",
+    "good": 48,
+    "bad": 14,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3f7d2ae2070876d4b8"
+    },
+    "rate": 4,
+    "note": "\ud558\uc0bc\uacb9\uc0b4\uc5d0 \ubbf8\ub098\ub9ac \uad6c\uc6cc\uba39\ub294\uac8c \ub354 \uc7ac\ubc0c\uaca0\ub124",
+    "date": "2021.03.22",
+    "good": 50,
+    "bad": 16,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3f7d2ae2070876d4b9"
+    },
+    "rate": 8,
+    "note": "\uae30\ub300\ub97c \ub108\ubb34 \ud588\ub098 \ubd05\ub2c8\ub2e4. \uc194\uc9c1\ud788 \uc2e4\ub9dd\ud558\uace0 \ub098\uc654\uc5b4\uc694.",
+    "date": "2021.03.04",
+    "good": 43,
+    "bad": 11,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3f7d2ae2070876d4ba"
+    },
+    "rate": 1,
+    "note": "\uc0dd\uac01\ubcf4\ub2e8  \uc804\uccb4\uc801\uc73c\ub85c \ud5c8\uc220\ud55c\uc810\uc774 \ub9ce\ub124\uc694\uc5f0\uae30\ub3c4 \uc640\ub2eb\uc9c0 \uc54a\uace0\uc694 \uc11c\uc591\uc0ac\ub78c\ud55c\ud14c\ub294 \uac10\ub3d9\uc774\uc788\uc5c8\ub098\ubcf4\ub124\uc694  \uadf8\uc815\ub3c4\uc758 \uc5f0\uae30\ub294 \uc6b0\ub9ac\ub098\ub77c \uc870\uc5f0\uae09\ub4e4\uc774 \ub204\uad6c\ub098 \ud560\uc218\uc788\uc744\uac83\uac19\ub124\uc694",
+    "date": "2021.03.14",
+    "good": 49,
+    "bad": 17,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3f7d2ae2070876d4bb"
+    },
+    "rate": 8,
+    "note": "\uad00\ub78c \uc804\uc5d0 \uc0dd\uac01\ud588\ub358 \uac83\uacfc\ub294 \ub9ce\uc774 \ub2ec\ub790\ub2e4.\uc774\ubbfc \uc0dd\ud65c\uc758 \uc560\ud658\uc774 \uadf8\ub824\uc84c\uc9c0\ub9cc \uadf8\ubcf4\ub2e4\ub294 \uac00\uc871 \uc548\uc5d0\uc11c \uac08\ub4f1\uacfc \ud654\ud574\uac00 \ub354 \ube44\uc911\uc774 \ucef8\ub358 \uc601\ud654\uc600\ub2e4.\ubbf8\ub098\ub9ac\ub294 \uadf8\ub0e5 \ub194\ub450\uc5b4\ub3c4 \uc800 \ud63c\uc790 \uc798 \ud070\ub2e4\ub204\uac00 \ub3cc\ubd10\uc8fc\uc9c0 \uc54a\uc544\ub3c4 \uc798 \ud070\ub2e4\uadf8 \ub300\uc0ac\uac00 \uae4a\uc740 ...",
+    "date": "2021.03.07",
+    "good": 41,
+    "bad": 11,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3f7d2ae2070876d4bc"
+    },
+    "rate": 6,
+    "note": "\uadf8\ub0e5 \uadf8\ub798\uc694 \uc5f4\uc790\uc774\uc0c1 \ubb58 \uc4f8\uc9c0\ub3c4 \ubaa8\ub974\uaca0\uc74c",
+    "date": "2021.03.04",
+    "good": 52,
+    "bad": 24,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3f7d2ae2070876d4bd"
+    },
+    "rate": 6,
+    "note": "\ud50c\ub79cb\uac00 \uc81c\uc791\ud588\uc9c0\ub9cc \ub3c5\ub9bd\uc601\ud654\uc5d0 \uac00\uae4c\uc6cc\uc694. \uc678\uad6d\uc778\ub4e4\uc774 \ubcfc \ub54c \ud55c\uad6d\uc774\ubbfc\uc790 \uac00\uc815\uc758 \ub0af\uc124\uc9c0\ub9cc \ub530\ub73b\ud55c \ubb38\ud654\uc5d0 \ub9e4\ub825\uc744 \ub290\ub07c\uace0 \uc810\uc218\ub97c \uc900 \ub4ef. \ud55c\uad6d \uc601\ud654\uc758 \ub6f0\uc5b4\ub09c \uc2a4\ud1a0\ub9ac\ud154\ub9c1\uacfc \uc5f0\ucd9c\ub825 \uc5f0\uae30\uc758 \ud569\uc5d0 \uc775\uc219\ud55c \ubd84\ub4e4\uc5d0\uac90 \uc880 \uc794\uc794\ud558\uace0 \uacb0...",
+    "date": "2021.03.07",
+    "good": 51,
+    "bad": 24,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3f7d2ae2070876d4be"
+    },
+    "rate": 8,
+    "note": "\uc2a4\ud1a0\ub9ac \uac1c\uc5f0\uc131\uc774 \uc798 \uc9dc\uc5ec\uc84c\ub2e4\uace0 \ubcf4\uae30\ub294 \uc5b4\ub824\uc6b0\ub098 \uc794\uc794\ud558\uac8c \ubcf4\uae30 \uc88b\uc558\uc2b5\ub2c8\ub2e4. \uc724\uc5ec\uc815 \uc120\uc0dd\ub2d8 \ub370\uc774\ube57\uc774\uc57c \ubb50 \ub9ce\uc740 \uc0ac\ub78c\ub4e4\uc774 \uadc0\uc5fd\ub2e4\uace0 \ud558\ub2c8\uae4c \uc564 \uc5ed\ud560\ud55c \ub538\ub3c4 \uc798\ud588\uc5b4\uc694",
+    "date": "2021.04.13",
+    "good": 33,
+    "bad": 7,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3f7d2ae2070876d4bf"
+    },
+    "rate": 10,
+    "note": "\uc65c \ub9ce\uc774 \ucc3e\uc544 \ubcf4\ub294\uc9c0 \uc774\ud574\uac00 \uc798...\ubbf8\uad6d\uc778\uc774 \ub9cc\ub4e0 \ubbf8\uad6d \uc601\ud654\uc5d0 \ud55c\uad6d\uc778\uc774 \uc5f0\uae30\ud568.\uc678\uad6d\uc778 \uc2dc\uc120\uc73c\ub85c \ub9cc\ub4e0 \uc774\ubbfc\uc790 \uc601\ud654.\uadfc\ub370 \ud55c\uad6d\uc778\uc774 \uc5f0\uae30.. \ub09c \uadf8\ub0e5 \ub2f5\ub2f5\ud55c \ub290\ub08c.",
+    "date": "2021.03.03",
+    "good": 49,
+    "bad": 23,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3f7d2ae2070876d4c0"
+    },
+    "rate": 6,
+    "note": "\uc601\ud654\ub294 \uc794\uc794\ud574 \ubcf4\uc77c\uc9c0\ub77c\ub3c4 \uc601\ud654\uac00 \ubcf4\uc5ec\uc8fc\ub294 \uc778\uc0dd\uc740 \uc794\uc794\ud558\uc9c0 \uc54a\ub354\ub77c.\ubb50 \uc5bc\ub9c8\ub098 \ub354 \ubab0\uc544\uccd0\uc57c \ud558\uae38\ub798 \uc774\uac8c \uc794\uc794\ud574 \ubcf4\uc774\ub294\uac78\uae4c.\ub098\uc5d0\uac8c\ub294 \ud1a0\ub124\uc774\ub3c4 \uac19\uc740 \uc601\ud654\uc600\ub2e4.",
+    "date": "2021.03.03",
+    "good": 50,
+    "bad": 24,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3f7d2ae2070876d4c1"
+    },
+    "rate": 7,
+    "note": "\ub2f4\ubc31\ud55c \uc5f0\ucd9c\uc774 \uc88b\uc558\uc5b4\uc694",
+    "date": "2021.03.06",
+    "good": 47,
+    "bad": 24,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3f7d2ae2070876d4c2"
+    },
+    "rate": 1,
+    "note": "\uadf8\uc800 \uadf8\ub798\uc694.\uc544\uc774\ud53c \ud2f0\ube44\uc5d0\uc11c \ubcf4\uc138\uc694.",
+    "date": "2021.03.11",
+    "good": 26,
+    "bad": 4,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3f7d2ae2070876d4c3"
+    },
+    "rate": 2,
+    "note": "\ubaa8\ub4e0 \ubd80\ubd84\uc5d0\uc11c \ubaa8\ub450 \uc870\uae08\uc529 \ubd80\uc871\ud558\ub2e4.\uc5f0\uae30\uba74 \uc5f0\uae30 \uc2a4\ud1a0\ub9ac\uba74 \uc2a4\ud1a0\ub9ac..\uac1c\uc5f0\uc131\ub3c4 \ub5a8\uc5b4\uc9c0\ub294 \ubd80\ubd84\ub4e4\uc774 \ub9ce\uace0..\uc870\uae08 \uc544\uc27d\ub2e4.\uc601\ud654\uc18d \ubbf8\ub098\ub9ac\uac00 \ub2f4\uace0 \uc788\ub294 \uac10\ub3c5\uc774 \ub2f4\uace0\uc790 \ud588\ub358 \uc758\ubbf8\ub294 \ub300\uce35 \uc54c\uaca0\ub294\ub370 \uc870\uae08 \ubd80\uc871\ud55c \ub290\ub08c\uc774\ub2e4.\uadf8\ub798\ub3c4 \ubd80...",
+    "date": "2021.03.14",
+    "good": 32,
+    "bad": 10,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3f7d2ae2070876d4c4"
+    },
+    "rate": 6,
+    "note": "\ud3c9\uc810 \uc2e4\ud654\uc784...?\uc601\ud654\uac00 \ubb58 \ub9d0\ud558\uace0\uc790 \ud558\ub294\uac74\uc9c0 \ubaa8\ub974\uaca0\ub124\uc694.",
+    "date": "2021.03.06",
+    "good": 35,
+    "bad": 13,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3f7d2ae2070876d4c5"
+    },
+    "rate": 2,
+    "note": "\uae00\uc384.... \uc601\ud654\uac00 \ubb34\uc2a8 \ub9d0\uc744 \ud558\uace0\uc790 \ud558\ub294\uc9c0\ub294 \uc54c\uaca0\uc73c\ub098.. \uc2a4\ud1a0\ub9ac\uc5d0 \ube44\ud574 \ub7ec\ub2dd \ud0c0\uc784\uc774 \ub108\ubb34 \uae38\uace0 \ub298\uc5b4\uc9c0\ub294\ub370\uc5d0 \ube44\ud574 \ub9c8\ubb34\ub9ac\ub294 \uae09\ud558\uac8c \ub05d\ub0b4\ub294 \ub290\ub08c.. \uc774\uac8c \uc65c \ub192\uc740 \ud3c9\uac00\ub97c \ubc1b\ub294\uc9c0 \uc774\ud574\ud558\uae30 \ud798\ub4e4\ub2e4",
+    "date": "2021.03.21",
+    "good": 21,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3f7d2ae2070876d4c6"
+    },
+    "rate": 8,
+    "note": "\uc794\uc794\ud55c \uac10\ub3d9\uc744 \uc90d\ub2c8\ub2e4. \ud558\uc9c0\ub9cc \uacf5\uac10\uc774 \ud06c\uac8c \uc640 \ub2ff\uc9c0\ub294 \uc54a\uc2b5\ub2c8\ub2e4",
+    "date": "2021.03.09",
+    "good": 27,
+    "bad": 6,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3f7d2ae2070876d4c7"
+    },
+    "rate": 6,
+    "note": "\uc5b4\ucf00 \uc0c1 \ud0d4\ub294\uc9c0 \ubaa8\ub974\uaca0\uc5b4\uc694. \ubb58 \uc774\uc57c\uae30\ud558\ub294\uc9c0 \ubaa8\ub974\uaca0\uc18c \ubbff\ubbff\ud558\uace0 \uc544\uc774\ub4e4 \uc5f0\uae30\uac00 \ub108\ubb34 \ub5a8\uc5b4\uc838\uc11c \uc9d1\uc911\uc774 \uc54a\ub418\uc694",
+    "date": "2021.03.03",
+    "good": 70,
+    "bad": 49,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3f7d2ae2070876d4c8"
+    },
+    "rate": 2,
+    "note": "\uae30\ub300\uc5d0 \ubabb\ubbf8\uce68\uc5d0 \uc544\uc27d\ub2e4\uace0 \uc0dd\uac01\ud588\ub294\ub370 \uc544\ubfd4\uc0ac \uc774\uac74 \ubbf8\uad6d\uc778\uc758 \uc774\uc57c\uae30\uc600\uc5b4.\uc815\uc11c\ub294 \ubbf8\uad6d\uc778\ub370 \uc8fc\uc778\uacf5\uc740 \ud55c\uad6d\uc0ac\ub78c.\uc774\ub3c4\uc800\ub3c4 \uc544\ub2cc \uc5b4\uc0c9\ud568\uc5d0 \uacf5\uac10\ud558\uc9c0 \ubabb\ud568.\ub098\ub3c4 \ud55c\uad6d\uc801\uc778 \ubb54\uac00\ub97c \uc774 \uc601\ud654\uc5d0\uc11c \ucc3e\uace0 \uc788\uc5c8\uc5b4.\uadf8\ub798\uc11c \ubbf8\uad6d\ub3c4 \uc790\uae30\ub098\ub77c\uc601\ud654 \uc544...",
+    "date": "2021.03.23",
+    "good": 20,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3f7d2ae2070876d4c9"
+    },
+    "rate": 2,
+    "note": "\uc5f0\uacc4\uc131\ubd80\uc871.\uc5f0\uae30\ub825\ubd80\uc871.\ubd80\ubd84\uc758 \uc644\uc131\ub3c4",
+    "date": "2021.03.22",
+    "good": 21,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd3f7d2ae2070876d4ca"
+    },
+    "rate": 6,
+    "note": "\ub300\ucd94\ub098\ubb34 \uc0ac\ub791 \uac78\ub838\ub124 \ube44\uc2b7\ud568 \ud1a0\ub9c8\ud1a0 \uac00\uc9c0\uc5d0 \ubb3c\uc8fc\ub2e4\uac00 \ud560\ub9e4 \ub178\ub9dd\ub098\uc11c \ubd88\ud0c0\uace0 \ub05d \ub178\uc7bc \ub124\uc774\ubc84 \uad00\ub78c\uac1d \ud3c9\uc810 \uc4f8\ub824\uba74 \ub124\uc774\ubc84\uc5d0\uc11c \uc608\ub9e4\ud574\uc57c\ub9cc \uac00\ub2a5\ud558\ub2e4\ub294\ub370 CGV\ub294 \ub418\uc9c0\ub3c4 \uc54a\uc74c \uc774\uac8c \ub354 \uac70\uc9c0\uac19\ub124",
+    "date": "2021.03.09",
+    "good": 27,
+    "bad": 7,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd407d2ae2070876d4cb"
+    },
+    "rate": 2,
+    "note": "\uc601\ud654 \uc790\uccb4\ub294 \uc18c\uc18c\ud55c \ub3c5\ub9bd\uc601\ud654. \uad6d\ubf55\uc740 \ub2e4\ub978 \ud55c \ud3b8 \uc5f4\ub4f1\uac10\uc758 \ub2e4\ub978 \uc774\ub984\uc77c \ubfd0\uc774\ub2e4. \uad6d\ubf55\uc744 \ube7c\uace0 \ub2e4\uc2dc \ubcf4\uc790. \uadf8\ub7ec\uba74 \uadf8\ub0e5 \uadf8\uc800 \uadf8\ub7f0 \ud3c9\ubc94\ud55c \uc774\uc57c\uae30\uc640 \ud5db\uc810 \ub9ce\uc740 \ub3c5\ub9bd\uc601\ud654 \ud55c\ud3b8\uc774 \ub0a8\ub294\ub2e4. \uc628 \uad6d\ubbfc\uc774 \uc5f4\ub0b4\uace0 \uc544\uce74\ub370\ubbf8 \ud0c0\uc57c\ud55c\ub2e4...",
+    "date": "2021.03.22",
+    "good": 30,
+    "bad": 10,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd407d2ae2070876d4cc"
+    },
+    "rate": 6,
+    "note": "\ub370\uc774\ube57 \uc544\ub2c8\uc5c8\uc74c \uc774\uc601\ud654 \uc5b4\uca54\ubed4?",
+    "date": "2021.03.14",
+    "good": 36,
+    "bad": 16,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd407d2ae2070876d4cd"
+    },
+    "rate": 8,
+    "note": "\ub108\ubb34 \uc9c0\ub8e8\ud568 .... \uc7a0\uc62c\uc815\u3137\u3157\ub85c",
+    "date": "2021.03.03",
+    "good": 40,
+    "bad": 20,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd407d2ae2070876d4ce"
+    },
+    "rate": 4,
+    "note": "\ub9e4\uc6b0 \uc9c0\ub8e8\ud558\ub124\uc694....",
+    "date": "2021.03.06",
+    "good": 97,
+    "bad": 77,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd407d2ae2070876d4cf"
+    },
+    "rate": 1,
+    "note": "\uc5f0\uae30\uac00 \uc624\ubc84\ud558\uc9c0 \uc54a\uace0 \ub2f4\ubc31\ud558\uba74\uc11c\ub3c4\ub530\ub73b\ud55c \uac10\uc815\uc774 \uc804\ud574\uc9c0\ub294 \uc9c4\uc194\ud55c \uc601\ud654 \u2661",
+    "date": "2021.03.20",
+    "good": 32,
+    "bad": 13,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd407d2ae2070876d4d0"
+    },
+    "rate": 6,
+    "note": "\ub09c\uc138\uc0c1\uc5d0 \ud0dc\uc5b4\ub098 \uc9c4\uc9dc \uc7ac\ubbf8\uc5c6\ub294 \uc601\ud654\ub97c \ubcf4\uc558\ub2e4. \ud328\uc8fc\uace0\uc2f6\ub2e4 \ubbf8\ub098\ub9ac \uadf9\ucc2c\ud55c \uad11\uace0\uc131 \uba54\uc2a4\ucef4\ub4e4\uc5d0\uac8c..",
+    "date": "2021.03.06",
+    "good": 45,
+    "bad": 26,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd407d2ae2070876d4d1"
+    },
+    "rate": 6,
+    "note": "..\ub0b4\uc6a9\uc774 \uadf8\ub0e5 \ub2f9\ud669\uc2a4\ub7ec\uc6cc\uc694",
+    "date": "2021.03.22",
+    "good": 33,
+    "bad": 15,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd407d2ae2070876d4d2"
+    },
+    "rate": 10,
+    "note": "\ub0b4\uc6a9\uc740 \uc54c\uaca0\ub294\ub370 \ub118 \ub2a6\uace0 \uc5f0\ucd9c\ub825 \ub5a8\uc5b4\uc9d0",
+    "date": "2021.03.07",
+    "good": 34,
+    "bad": 16,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd407d2ae2070876d4d3"
+    },
+    "rate": 4,
+    "note": "\uc601\ud654\ubcf4\uace0\ub098\uc11c \ub0a8\ud3b8\uc774 \ud22c\ub35c\uac70\ub838\ub2e4. \uc601\ud654\ubcf4\ub294 \ub0b4\ub0b4 \uc2dc\uacc4\ub97c \ub4e4\uc5ec\ub2e4\ubcf4\ub354\ub2c8 \uc5ed\uc2dc\ub098 \ub098\uc624\uc790\ub9c8\uc790 \ubcfc\uba58\uc18c\ub9ac\ub2e4. \"\uc774\uac8c \uadf8\ub807\uac8c \uc694\ub780\ub5a8 \ub9cc\ud55c \uc601\ud654\uc57c\"? \uc194\uc9c1\ud788 \ub098\ub3c4 \uc57d\uac04 \uc9c0\ub8e8\ud574\ud558\uba70 \ubd24\uc9c0\ub9cc \ud654\uac00 \ub0a0 \uc815\ub3c4\ub294 \uc544\ub2c8\uc5c8\ub294\ub370 \ub0a8\ud3b8...",
+    "date": "2021.03.10",
+    "good": 39,
+    "bad": 21,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd407d2ae2070876d4d4"
+    },
+    "rate": 2,
+    "note": "\uc11c\uc0ac\uac00 \uadf9\uc801\uc774\uc9c0 \uc54a\uc544\uc11c \uc5b4\ub514\uc11c \uc5b4\ub5bb\uac8c \ubc18\uc751\ud574\uc57c \ud558\ub294\uc9c0 \uac10\uc744 \ubabb\uc7a1\ub294 \ubd84\ub4e4\ub3c4 \uacc4\uc2e4 \uac83 \uac19\uc2b5\ub2c8\ub2e4. \ud558\uc9c0\ub9cc \uc800\ub294 \uc788\ub294 \uadf8\ub300\ub85c \ubcf4\uc5ec\uc8fc\uc5c8\uae30 \ub54c\ubb38\uc5d0 \ub290\ub084 \uc218 \uc788\ub358 \uc794\uc794\ud55c \uac10\ub3d9\uacfc \uc5ec\uc6b4\uc774 \uc788\uc5c8\uc2b5\ub2c8\ub2e4. \uac00\uc871\uc774\uae30 \ub54c\ubb38\uc5d0 \uc27d\uac8c \uc11c\ub85c\uc5d0\uac8c ...",
+    "date": "2021.03.21",
+    "good": 18,
+    "bad": 1,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd407d2ae2070876d4d5"
+    },
+    "rate": 2,
+    "note": "\ub098\ub9cc \ubcc4\ub85c\uc600\ub098...??",
+    "date": "2021.05.23",
+    "good": 25,
+    "bad": 8,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd407d2ae2070876d4d6"
+    },
+    "rate": 8,
+    "note": "\uae30\ub300\ud558\uace0 \ubcf4\uc557\uc9c0\ub9cc \uc5ed\uc2dc\ub098 \uc544\ubb34\ub7f0 \uac10\ud765 \uc5c6\uc5c7\uc74c",
+    "date": "2021.03.03",
+    "good": 25,
+    "bad": 8,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd407d2ae2070876d4d7"
+    },
+    "rate": 2,
+    "note": "\uc601\ud654\uac00 \ub05d\ub098\uace0 \ub2e4\ub4e4 \ub180\ub77c\ub294 \uc601\ud654",
+    "date": "2021.03.22",
+    "good": 18,
+    "bad": 2,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd407d2ae2070876d4d8"
+    },
+    "rate": 8,
+    "note": "\"\ub370\uc774\ube44\uc0ac\" \uc544\ub984\ub2f5\uace0\ub3c4 \ud5a5\uae0b\ud55c \uac00\uc871 \uc774\uc57c\uae30.",
+    "date": "2021.03.13",
+    "good": 20,
+    "bad": 4,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd407d2ae2070876d4d9"
+    },
+    "rate": 1,
+    "note": "\ubb58 \ub9d0\ud558\ub824\ub294\uac74\uc9c0? \ub0b4\uc6a9\ub3c4 \uc5c6\uace0 \uac10\ub3d9\ub3c4 \uc5c6\uace0 \uadf8\ub0e5 \uc804\uc6d0\uc77c\uae30 \ubbf8\uad6d\ud310 \ubcf4\uace0 \uc628 \ub290\ub08c.X\ub178\uc7bc",
+    "date": "2021.03.21",
+    "good": 29,
+    "bad": 13,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd407d2ae2070876d4da"
+    },
+    "rate": 8,
+    "note": "\uac10\ub3d9\uc774\ub77c\uae30\ubcf4\ub2e4 \ubaa8\ub450\uac00 \ub290\uaef4\ubcfc\uc218\uc788\uace0 \uacaa\uc5b4\ubd04\uc9c1\ud55c \uac10\uc815\uc5d0 \ub300\ud574 \uc77c\uc0c1\uc801\uc73c\ub85c \ud480\uc5b4\ub098\uac04 \ub290\ub08c. \ubd80\ub2f4\uc5c6\uc774 \uac01 \ubc30\uc5ed\uc5d0 \uac10\uc815\uc774\uc785\ud574\ubcfc \uc218 \uc788\uace0 \ub05d\uc73c\ub85c \uac08\uc218\ub85d \uc138 \uc5b4\ub978\uc758 \uc704\uce58\uc640 \uac08\ub4f1 \uac10\uc815\uc694\uc18c\ub4e4\uc744 \ub290\ub084\uc218 \uc788\uc5b4\uc11c \uc2a4\ud1a0\ub9ac \ud6c4\ubc18\ubd80\ub85c \uac00\uc11c \ube44\ub86f...",
+    "date": "2021.03.15",
+    "good": 21,
+    "bad": 6,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd407d2ae2070876d4db"
+    },
+    "rate": 4,
+    "note": "\uc9c0\ub8e8\ud558\ub2e4 \uc9c0\ub8e8\ud574.. \uadf8\ub798\uc11c \uacb0\ub860\uc774 \ubb50\uc784",
+    "date": "2021.03.24",
+    "good": 24,
+    "bad": 9,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd407d2ae2070876d4dc"
+    },
+    "rate": 4,
+    "note": "\ubb58 \ub9d0\ud558\uace0 \uc2f6\uc740\uac74\uc9c0\ub294 \uc798 \ubaa8\ub974\uaca0\ub2e4...",
+    "date": "2021.03.22",
+    "good": 24,
+    "bad": 9,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd407d2ae2070876d4dd"
+    },
+    "rate": 6,
+    "note": "\uc0dd\uac01\ubcf4\ub2e4 \uc544\uc27d\uc2b5\ub2c8\ub2e4\u3160\u3160",
+    "date": "2021.03.07",
+    "good": 26,
+    "bad": 11,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd407d2ae2070876d4de"
+    },
+    "rate": 6,
+    "note": "\uae30\ub300\ud588\uc73c\ub098 \uc601\uc0c1\ubbf8bgm\uc5f0\uae30\uc2a4\ud1a0\ub9ac\uac10\ub3d9\uc7ac\ubbf8 \uc5b4\ub290\uac83 \ud558\ub098 \ub208\uc5d0 \ub744\ub294 \ubd80\ubd84\uc774 \uc5c6\uc5c8\ub2e4. \ub300\uccb4 \uc65c \ud3c9\uc810\uc774 \ub192\uc740\uac70\uc9c0- \uc774\uc57c\uae30\uc758 \ub9e5\ub77d\uc744 \ubaa8\ub974\uaca0\uace0 \u3160\u3160 \uc774\uc601\ud654 \ubb58 \ub9d0\ud558\uace0 \uc2f6\uc740\uac70\uc9c0?",
+    "date": "2021.03.20",
+    "good": 20,
+    "bad": 6,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd407d2ae2070876d4df"
+    },
+    "rate": 8,
+    "note": "\uc0dd\uac01\ubcf4\ub2e4 \uc7ac\ubbf8\uc5c6\uc5c8\uc2b5\ub2c8\ub2e4\u315c\uc815\ub9d0 \uae30\ub300\ud558\uace0 \uc544\uc774\ub791 \uac19\uc774 \uac14\ub294\ub370...\uc2e4\ub9dd\ud588\uc2b5\ub2c8\ub2e4.",
+    "date": "2021.03.19",
+    "good": 22,
+    "bad": 8,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd407d2ae2070876d4e0"
+    },
+    "rate": 2,
+    "note": "\uc544\ubb34\ub7f0 \uac10\ub3d9\ub3c4 \uc5c6\uace0 \uc7ac\ubbf8\ub3c4 \uc5c6\uace0...",
+    "date": "2021.03.23",
+    "good": 26,
+    "bad": 12,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd407d2ae2070876d4e1"
+    },
+    "rate": 6,
+    "note": "\uc794\uc794\ud55c \uac10\ub3d9\uc774 \uc788\uc5b4\uc694. \ud55c\uc608\ub9ac\uc758 \uc88b\uc740 \uc5f0\uae30\uac00 \ud3c9\uac00\ubc1b\uc9c0 \ubabb\ud55c \uac83 \uac19\uc544 \uc544\uc26c\uc6cc\uc694. \uac1c\uc778\uc801\uc73c\ub85c \ud55c\uc608\ub9ac \uc5f0\uae30\uc5d0 \ucd5c\uace0\uc810\uc744 \uc90d\ub2c8\ub2e4.",
+    "date": "2021.03.23",
+    "good": 26,
+    "bad": 12,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd407d2ae2070876d4e2"
+    },
+    "rate": 6,
+    "note": "\ubb34\uc2a8 \uc601\ud654\uc778\uc9c0 \uac10\ub3d9\ub3c4 \uc7ac\ubbf8\ub3c4 ..\u315c\u315c",
+    "date": "2021.03.09",
+    "good": 26,
+    "bad": 12,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd407d2ae2070876d4e3"
+    },
+    "rate": 1,
+    "note": "\uc724\uc5ec\uc815 \uc5f0\uae30\ub294 \ube44\uc911\uc774 \ub0ae\uace0 \uc57d\ud558\ub358\ub370...\uc7ac\ubbf8\ub294 \uadf8\ub2e5...\ub05d\uc774 \uc880 \uc560\ub9e4..\uc601\ud654\ubcfc\ub54c \uc0bc\uacb9\uc0b4\ub9cc \uc0dd\uac01\ub0a8...\ubab0\uc785\uc740 \uadf8\ub2e5",
+    "date": "2021.03.18",
+    "good": 27,
+    "bad": 13,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd407d2ae2070876d4e4"
+    },
+    "rate": 10,
+    "note": "\ubcc4 \uac10\ub3d9 \uc5c6\uc774  \ubd24\ub124\uc694\uc724\uc5ec\uc815 \uc5f0\uae30 \uae30\ub300\ud588\ub294\ub370...",
+    "date": "2021.03.03",
+    "good": 30,
+    "bad": 16,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd407d2ae2070876d4e5"
+    },
+    "rate": 2,
+    "note": "\ud560\ub9d0\uc774\uc5c6\uc74c \ub0b4\uc6a9\uc774\uc5c6\uae30\ub54c\ubb38\uc5d0",
+    "date": "2021.03.24",
+    "good": 13,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd407d2ae2070876d4e6"
+    },
+    "rate": 2,
+    "note": "\uac00\uc871\uc758 \ud798\uc774 \uc774\ud1a0\ub85d \ub300\ub2e8\ud55c\uac83\uc774\uc5c8\ub2e4\ub294\uac78 \ub290\ub07c\uac8c \ud574\uc8fc\ub294 \uc601\ud654 \uc600\ub2e4",
+    "date": "2021.03.22",
+    "good": 13,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd407d2ae2070876d4e7"
+    },
+    "rate": 2,
+    "note": "\uc7a0\ub9cc \uc7a4\uc5b4\uc694\u315c\u315c\ub0b4\uc6a9\ub3c4\uc5b4\ub835\uace0\uc5ec",
+    "date": "2021.03.28",
+    "good": 14,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd407d2ae2070876d4e8"
+    },
+    "rate": 8,
+    "note": "\uc601\ud654\uac00 \ub05d\ub0a0 \ub54c \uc501\uc501\ud55c \uae30\ubd84\uc5d0 \ud729\uc2f8\uc774\ub294 \uac78 \uc88b\uc544\ud558\ub294\ub370 \ubbf8\ub098\ub9ac\uac00 \ub531\uc774\ub354\ub77c\uad6c\uc694",
+    "date": "2021.03.04",
+    "good": 23,
+    "bad": 10,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd407d2ae2070876d4e9"
+    },
+    "rate": 2,
+    "note": "\uc5c4\ub9c8\ub791 \uac19\uc774 26000\uc6d0 \ub0b4\uace0\ubd24\ub294\ub370 \ub0b4\uc6a9 \uac1c\uac70\uc9c0\uc784 \ub3c8\uc544\uae4c\uc6c0",
+    "date": "2021.04.28",
+    "good": 24,
+    "bad": 11,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd407d2ae2070876d4ea"
+    },
+    "rate": 1,
+    "note": "\uc6b0\ub9ac\ub098\ub77c\uac00 \uc774\ub807\uac8c\uae4c\uc9c0 \ube60\ub978\uc131\uc7a5\uc744 \ud558\ub294\ub370\uc5d4 \ub2e4 \uc774\uc720\uac00 \uc788\ub2e4..",
+    "date": "2021.03.03",
+    "good": 26,
+    "bad": 13,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd407d2ae2070876d4eb"
+    },
+    "rate": 10,
+    "note": "\uadf8\ub0e5\uadf8\ub0e5... \uadf8\ub0e5...",
+    "date": "2021.03.03",
+    "good": 38,
+    "bad": 25,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd407d2ae2070876d4ec"
+    },
+    "rate": 2,
+    "note": "\ubb50\uac00 \uc88b\uc740\uc9c0 \uc54c \uc218 \uc5c6\ub294 \uc601\ud654",
+    "date": "2021.03.22",
+    "good": 12,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd407d2ae2070876d4ed"
+    },
+    "rate": 2,
+    "note": "\uadf9\uc801\ubc18\uc804\uc740 \uc5c6\uc9c0\ub9cc \uc9dc\uc784\uc0c8 \uc788\ub294 \uc2a4\ud1a0\ub9ac\uc640 \uc794\uc794\ud55c \uac10\ub3d9\uc774 \uc788\ub124\uc694 \uc624\ub79c\ub9cc\uc5d0 \uc88b\uc740\uc601\ud654 \ubd24\ub124\uc694",
+    "date": "2021.03.21",
+    "good": 12,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd417d2ae2070876d4ee"
+    },
+    "rate": 8,
+    "note": "\uc194\uc9c1\ud788 \uc724\uc5ec\uc815\uc774 \uc774\ub7f0 \ubc1c \uc5f0\uae30\ub97c \ud558\ub294\ub370 \uc544\uce74\ub370\uc774 \uc870\uc5f0\uc0c1\uc5d0 \uc5b8\uae09\ub41c\ub2e4\ub294\uac8c \ub09c \uc815\ub9d0 \uc774\ud574\uac00 \uc548\ub41c\ub2e4..\uadf9\uc911 \ube44\uc911\uc788\ub294 \uc5ed\ub3c4 \uc544\ub2c8\uace0..",
+    "date": "2021.04.25",
+    "good": 14,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd417d2ae2070876d4ef"
+    },
+    "rate": 1,
+    "note": "\uae30\ub300\ud558\uace0 \ubd24\ub294\ub514 \uc815\ub9d0 \ubed4\ud55c\uc2a4\ud1a0\ub9ac  \uc9c0\uaca8\uc6cc\uc11c \uc911\uac04\uc5d0 \ub098\uc654\uc2b5\ub2c8\ub2e4\u3160\uc5ec\uc8fc\uc778\uacf5\ub3c4 \uc5b4\uac70\uc9c0\ub85c \uc5f0\uae30\ud558\ub294\uac70 \ud2f0\ub098\uace0\u3160\uc5b4\uac70\uc9c0\ub85c \uc6c3\uc74c\uc744 \uc790\uc544\ub0b4\ub824\ub294\uac8c \uc5b4\uc0c9\ud587\uace0 \uc7ac\ubbf8\uc5c6\uc5c8\uc5b4\uc694",
+    "date": "2021.04.30",
+    "good": 15,
+    "bad": 3,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd417d2ae2070876d4f0"
+    },
+    "rate": 1,
+    "note": "\uc0dd\uac01\ubcf4\ub2e4\ub294 \ubcc4\ub85c \u315c\u315c \ud760 \uc5f0\uae30\ub294 \uc88b\uc558\uc5b4\uc694",
+    "date": "2021.03.22",
+    "good": 15,
+    "bad": 3,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd417d2ae2070876d4f1"
+    },
+    "rate": 6,
+    "note": "\uc9c4\uc9dc \ubb58\uc598\uae30\ud558\uace0\uc2f6\uc740\uac70\uba70 \ubc29\uad6c\uc11d \ud3c9\ub860\uac00\ub4e4\ub54c\ubb38\uc5d0 \ub108\ubb34 \uace0\ud3c9\uac00\ub41c \uc601\ud654",
+    "date": "2021.04.20",
+    "good": 16,
+    "bad": 4,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd417d2ae2070876d4f2"
+    },
+    "rate": 7,
+    "note": "\uc5f0\uae30\ub825? \ud2b9\ucd9c\ub09c\uac70 \uc5c6\ub294 \ud754\ud55c \uc5f0\uae30\ub825...\uac10\ub3d9? \ud754\ud55c 3\ub958 \uc601\ud654\ub098 \ub4dc\ub77c\ub9c8\uc5d0\ub3c4 \ub098\uc624\ub294 \ubc0d\ubc0d\ud55c \uac10\ub3d9\ud3ec\uc778\ud2b8...\ubb34\uc5c7\ubcf4\ub2e4\ub3c4 \uc2ec\uac01\ud55c\uac74 \uac11\uc791\uc2a4\ub7f0 \uacb0\ub9d0...",
+    "date": "2021.03.14",
+    "good": 17,
+    "bad": 5,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd417d2ae2070876d4f3"
+    },
+    "rate": 1,
+    "note": "\uae30\ub300\ub97c \ud574\uc11c\uc778\uc9c0 \ub108\ubb34 \uc794\uc794\ud558\uae30\ub9cc \ud558\uace0 \ub05d\ub098\ub294 \ub290\ub08c..",
+    "date": "2021.03.12",
+    "good": 17,
+    "bad": 5,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd417d2ae2070876d4f4"
+    },
+    "rate": 4,
+    "note": "\uc544\uc8fc \ud070 \uac10\ub3d9\uc740 \uc5c6\uc5c8\uc74c \uadf8\ub0e5 \ubb50\uc9c0? \ud588\ub294\ub370 \ub05d\ub09c \uae30\ubd84",
+    "date": "2021.03.21",
+    "good": 19,
+    "bad": 7,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd417d2ae2070876d4f5"
+    },
+    "rate": 2,
+    "note": "\ub9e4\uc52c\uc774 \uc544\uc2ac\uc544\uc2ac. \uc5b4\uc0c9\ud568\uc5d0 \uc870\ub9c8\uc870\ub9c8. \ubaa8\uad6d\uc5b4\uc640 \uc790\ub9c9 \ud788\uc5b4\ub9c1\uacfc \ub9ac\ub529 \uc0ac\uc774. \ud3c9\uac00\ub3c4 \uac10\ub3d9\ub3c4 \uc774\ud1a0\ub85d \uc65c\uace1\ub41c\ub2e4. \uc18c\uc2e0 \ubcc4\uc810\uc744 \ubc29\ud574\ud558\ub294 \uc218\uc0c1\uc774\ub825\uc758 \uc555\ubc15\uae4c\uc9c0. \ub0b4\uac00 \ubcf8 \uc724\uc5ec\uc815\uc758 \uac00\uc7a5 \uc5b4\uc0c9\ud55c \uc5f0\uae30.",
+    "date": "2021.05.30",
+    "good": 21,
+    "bad": 9,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd417d2ae2070876d4f6"
+    },
+    "rate": 10,
+    "note": "\ubbf8\uad6d \uc774\ubbfc\uc790\ub4e4\uc5d0\uac8c \ud070 \uac10\ub3d9\uc744 \uc904\ub9cc\ud558\uc9c0\ub9cc \uadf8\uc678\uc758 \uad00\uac1d\uc5d0\uac8c\ub294 \uadf8\uc800 \uc794\uc794\ud55c \uc11c\uc815\uc801\uc778 \uc601\uc0c1\uc5d0 \ubd88\uacfc\ud560 \ub4ef",
+    "date": "2021.03.03",
+    "good": 23,
+    "bad": 11,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd417d2ae2070876d4f7"
+    },
+    "rate": 10,
+    "note": "\uc774\ubbfc\uc790\ub4e4\ud55c\ud14c\ub294 \uacf5\uac10 \ub9ce\uc774 \ub418\ub294 \ub0b4\uc6a9\uc774\ub77c\ub358\ub370... \ub531\ud788 \uacf5\uac10\ub3c4 \uc548\ub418\uace0 \uadf8\ub0e5 \uc800\uc608\uc0b0 \uc601\ud654 \ub531 \uadf8\uc815\ub3c4 \ub290\ub08c\uc774\uc5c8\uc74c",
+    "date": "2021.03.04",
+    "good": 25,
+    "bad": 13,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd417d2ae2070876d4f8"
+    },
+    "rate": 2,
+    "note": "\ubbf8\uad6d\uc740 \uc560\ucd08\uc5d0 \ud0dc\uc0dd\uc801\uc73c\ub85c \u201c\uc774\ubbfc\uc790\u201d\uc758 \ub098\ub77c\ub2e4.. \uc544\uba54\ub9ac\uce78 \ub4dc\ub9bc\uc744 \uc774\ub904\ub0b4\uace0\uc790 \ud558\ub294 \ub2e4\uc591\ud55c \uc778\uc885\uc758 \uc0ac\ub78c\ub4e4\uc774 \uc800\ub9c8\ub2e4\uc758 \uc0ac\uc5f0\uc744 \uac00\uc9c0\uace0 \uadf8\ub4e4\uc758 \uc7a5\uc810\ub4e4\uc744 \ucd5c\ub300\ud55c \ub418\uc0b4\ub824 \uc9c1\uc5c5\uc5d0 \uc885\uc0ac\ud588\uace0 \uacb0\uacfc\uc801\uc73c\ub85c \uc138\uacc4 \ucd5c\uac15\uad6d\uc758 \uc6d0\ub3d9\ub825\uc758 \uc911...",
+    "date": "2021.03.21",
+    "good": 11,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd417d2ae2070876d4f9"
+    },
+    "rate": 1,
+    "note": "\uc544\ubb34\ub370\uc11c\ub098 \uc798 \uc790\ub77c\ub294 \ubbf8\ub098\ub9ac \uc6b0\ub9ac\ub294 \uadf8\ub7fc\uc5d0\ub3c4 \uad6c\ud0dc\uc5ec \uc0b6\uc758 \ubfcc\ub9ac\ub97c \ub0b4\ub9ac\ub824\uace0 \ub178\ub825\ud55c\ub2e4.",
+    "date": "2021.04.30",
+    "good": 14,
+    "bad": 3,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd417d2ae2070876d4fa"
+    },
+    "rate": 2,
+    "note": "\uae30\ub300\ub97c \ud588\ub358 \ub0b4\uac00 \ubc14\ubcf4\uc778\uac00.. \ub108\ubb34 \uae30\ub300 \ud588\uc5c8\ub098.. \ud55c\uad6d\uc815\uc11c\ub860 \ub3c4\ubb34\uc9c0 \uc774\ud574\uac00 \uc548\uac10.. \uacb0\ub9d0\ub3c4 \ud750\uc9c0\ubd80\uc9c0 \ub418\uace0\uc774\uac8c \uc65c \ud574\uc678\uc5d0\uc11c \uc0c1\uc744 \ud729\uc4f8\uace0 \ub2e4\ub2c8\ub294\uc9c0 \uc774\ud574\uac00 \uc194\uc9c1\ud788 \uc548\uac10..\uadf8\ub0e5 \uc5f0\uae30\ub9cc \uc798\ud560 \ubfd0\uc774\uc9c0.. \uac10\ub3d9 \uc5c6\uc5c8\ub124\uc694 \uc804.....",
+    "date": "2021.04.20",
+    "good": 10,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd417d2ae2070876d4fb"
+    },
+    "rate": 2,
+    "note": "\uba38\ub54c\ubb38\uc5d0 \uc774\uc601\ud654\uac00 \uc0c1\ubc1b\uc558\ub294\uc9c0 \uc774\ud574\uac00\uc548\uac10!\uc601\ud654\uc0ac\uace7 \ub9dd\ud558\uac9f\ub124.\u314b",
+    "date": "2021.03.21",
+    "good": 10,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd417d2ae2070876d4fc"
+    },
+    "rate": 2,
+    "note": "\ub0b4 \uac10\uc0c1\ud3c9: \ubb50... \ubb50\uc9c0...? \uc9c4\uc9dc \ub118 \uc7ac\ubbf8\uc5c6\uc74c... \uc5b4\uca4c\ub77c\ub294 \uac74\uc9c0 \ub0b4 \uc2dc\uac04 \ub3cc\ub824\ub0b4 \uc9c4\uc9dc \ubcc4\ub85c\uc784...",
+    "date": "2021.03.28",
+    "good": 11,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd417d2ae2070876d4fd"
+    },
+    "rate": 1,
+    "note": "\ub108\ubb34 \uc7ac\ubbf8\uc5c6\uc74c..\uc2dc\uac04 \uc544\uae4c\uc6cc",
+    "date": "2021.04.30",
+    "good": 12,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd417d2ae2070876d4fe"
+    },
+    "rate": 6,
+    "note": "\uc77c\uc694\uc77c \ud734\uc77c\uc5d0 \ub290\uc988\ub9c9\ud788 \uc77c\uc5b4\ub098\uc11c \ubd04. \ud479 \uc790\uace0 \uc77c\uc5b4\ub098\uc11c \uc9d1\uc55e\uc601\ud654\uad00\uc5d0\uc11c \ubcf4\uace0\uc654\ub294\ub370 \ud798\ub4e4\uace0 \ud53c\uace4\ud560 \uc774\uc720\uac00 \uc544\ubb34\uac83\ub3c4\uc5c6\ub294\ub0a0\uc778\ub370 \uc774\uc601\ud654 \ubcf4\uace0\ub098\uc11c \ud53c\uace4\ud558\uace0 \ud798\ub4e4\uc5b4\uc694....\uc9c0\uce68...",
+    "date": "2021.03.06",
+    "good": 13,
+    "bad": 3,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd417d2ae2070876d4ff"
+    },
+    "rate": 6,
+    "note": "\ub178\uc7bc . \uc9c1\uc124\uc801\uc73c\ub85c\ub9d0\ud558\uc790\uba74 \uc624\uc2a4\uce74\uad6d\ubf55\ub07c\uac00 \ub9ce\ub2e4 .",
+    "date": "2021.03.20",
+    "good": 14,
+    "bad": 4,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd417d2ae2070876d500"
+    },
+    "rate": 6,
+    "note": "\ubbf8\uad6d\uc778 \uad00\uac1d\uc744 \ud0c0\uac9f\uc73c\ub85c \ub9cc\ub4e0 \uc601\ud654. \ud55c\uad6d\uc778\uc774 \ubcf4\uae30\uc5d4 \ub108\ubb34 \ubed4\ud568",
+    "date": "2021.03.10",
+    "good": 14,
+    "bad": 4,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd417d2ae2070876d501"
+    },
+    "rate": 8,
+    "note": "\ud760  \uba38\uc9c0?\u3160 \ub098\ub9cc\uc774\ud574\ubabb\ud558\ub294\uac74\uac00\u314b",
+    "date": "2021.03.04",
+    "good": 15,
+    "bad": 5,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd417d2ae2070876d502"
+    },
+    "rate": 10,
+    "note": "\ubbf8\ub098\ub9ac\uac00 \uac00\uc9c0\ub294 \uc758\ubbf8\uc640 \uac00\uc871\uc5d0\uac8c \uc8fc\ub294 \uc758\ubbf8 \uc774\ub7ec\ud55c \uac83\ub4e4\uc774 \ubd80\uc871\ud574\uc11c \uac00\uc871\uc601\ud654\ub85c\uc368\ub294 \uc88b\uc740 \uac83 \uac19\uc9c0\ub9cc \uc2dc\ub300\uc801 \ubc30\uacbd\uacfc \uac19\uc740 \ubc30\uacbd\uc9c0\uc2dd\uc744 \uc798 \ubaa8\ub974\ub294 \uc0c1\ud0dc\uc5d0\uc11c \ubcf8\ub2e4\uba74 \uc774\ud574\uac00 \uc548\ub418\ub294 \ubd80\ubd84\uc774 \ub9ce\uc558\ub2e4. \uadf8\ub9ac\uace0 \uac10\ub3c5\uc758 \uacbd\ud5d8\uc5d0\uc11c \ub098\uc628 ...",
+    "date": "2021.05.22",
+    "good": 16,
+    "bad": 6,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd417d2ae2070876d503"
+    },
+    "rate": 8,
+    "note": "\uc2a4\ud3ec\uc77c\ub7ec\uac00 \ud3ec\ud568\ub41c \uac10\uc0c1\ud3c9\uc785\ub2c8\ub2e4. \uac10\uc0c1\ud3c9 \ubcf4\uae30",
+    "date": "2021.03.13",
+    "good": 16,
+    "bad": 6,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd417d2ae2070876d504"
+    },
+    "rate": 1,
+    "note": "\uac10\ub3c5\uc758 \uc790\uc804\uc801\uc778 \uc774\uc57c\uae30\ub97c \ub2f4\ub2f4\ud558\uace0 \ubcf4\ud3b8\uc801\uc778 \uc815\uc11c\ub85c \ud480\uc5b4\ub0b8 \uac83 \uc678\uc5d0 \uce6d\ucc2c\uc77c\uc0c9\uc778 \uc774\uc720\ub97c \ub09c \ubaa8\ub974\uaca0\ub2e4. \uad8c\uc704\uc5d0 \ucde8\ud55c \uc5ec\ub860\uc758 \uc804\ud615\uc801\uc778 \ubc18\uc751\uc744 \ub0b3\uc740 \uae38\uc774\uae38\uc774 \ub0a8\uaca8\ub46c\uc57c \ud560 \uc0ac\ub840\uc758 \uc601\ud654 \uc544\ub2cc\uac00.",
+    "date": "2021.04.28",
+    "good": 8,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd417d2ae2070876d505"
+    },
+    "rate": 1,
+    "note": "\uc0b6\uc758 \ubb34\uac8c\ub97c \uacac\ub38c\ub0b4\uba70 \ud558\ub8e8\ud558\ub8e8 \ud798\ub4e4\uac8c \uc0ac\ub294 \uc774\ub4e4\uc744 \uc751\uc6d0\ud569\ub2c8\ub2e4\uac00\uc871\uc744 \uac70\ub290\ub9ac\uace0 \uc5b4\ub514\uc120\uac00 \uc815\ucc29\ud558\uba70 \uc0b4\uc544\ub0b4\ub824\ub294 \ud55c\uad6d\uc0ac\ub78c\ub4e4\uc758 \uadfc\uc131\uc740 \uc774\ubbfc\uc790\ub4e4\uc758 \uc0b6\uc5d0\uc11c \uac00\uc7a5 \ud06c\uac8c \uc640\ub2ff\ub294\ub4ef \ud558\ub2e4",
+    "date": "2021.04.27",
+    "good": 8,
+    "bad": 2,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd417d2ae2070876d506"
+    },
+    "rate": 1,
+    "note": "\ud55c\uad6d\uc774 \uc2eb\uc5b4 \ub5a0\ub0ac\uc9c0\ub9cc \uacb0\uad6d \ud55c\uad6d\uacfc \uad00\ub828\ub41c \uac83 (\ubaa8\uc815\uc74c\uc2dd) \uc5c6\uc774\ub294 \uc0b4\uc544 \uac08 \uc218 \uc5c6\ub294 \uc774\ubbfc\uc790\uc758 \uc0b6\uc740 TCK\uc778 \uc81c \uc0b6\uc5d0 \ud070 \uc6b8\ub9bc\uc744 \uc8fc\uc5c8\uc2b5\ub2c8\ub2e4. \ub370\uc774\ube57 \uadc0\uc5ec\uc6cc\uc694!",
+    "date": "2021.04.26",
+    "good": 8,
+    "bad": 2,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd417d2ae2070876d507"
+    },
+    "rate": 1,
+    "note": "\uc5b8\ub860\uc11c \ud3c9\uac00\ub418\ub294 \uac83\ubcf4\ub2e4.\ubcc4\uac10\ub3d9\uc744 \ubabb\ubc1b\uc73c\ub124\uc694.",
+    "date": "2021.04.13",
+    "good": 8,
+    "bad": 2,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd417d2ae2070876d508"
+    },
+    "rate": 4,
+    "note": "\ub0b4 \uc783\uc5b4\ubc84\ub9b0 115\ubd84\uc740 \uc5b4\ub514\uc5d0?",
+    "date": "2021.03.22",
+    "good": 8,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd417d2ae2070876d509"
+    },
+    "rate": 8,
+    "note": "\uc640 \ubb34\uc2a8 \uc544\uce74\ub370\ubbf8\uc0c1 \uc218\uc0c1\ud588\ub2e4\uae38\ub798 \ub124\uc774\ubc84\uc2dc\ub9ac\uc988\uc628\uc73c\ub85c \uacb0\uc81c\ud574\uc11c \ubd24\ub294\ub370 \ub178\uc7bc\ub3c4 \uc774\ub7f0 \ub178\uc7bc\uc774 \uc5c6\ub2e4 \uc808\ub300 \ub3c8\uc8fc\uace0 \ubcf4\uc9c0\ub9c8\uc138\uc694 \ubb34\ub8cc\ub85c \ud480\ub9ac\uba74 \ubcf4\uc138\uc694",
+    "date": "2021.03.21",
+    "good": 8,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd417d2ae2070876d50a"
+    },
+    "rate": 1,
+    "note": "\uc544\ub2c8 \ub300\uccb4 \uc774\uac8c \ubb50\uc57c....",
+    "date": "2021.03.21",
+    "good": 8,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd427d2ae2070876d50b"
+    },
+    "rate": 1,
+    "note": "\uafc0\uc7a0\uc6a9 \uc601\ud654. \ud3c9\uc810\ub9cc \ub192\uac8c \ub098\uc624\ub294 \uc7ac\ubbf8\uc5c6\ub294 \uc790\uce6d \ud3c9\ub860\uac00\ub4e4 \uadf8\ub4e4\ub9cc\uc758 \ub9ac\uadf8",
+    "date": "2021.03.21",
+    "good": 8,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd427d2ae2070876d50c"
+    },
+    "rate": 8,
+    "note": "\uac19\uc740 \ubbf8\uad6d\uc778\uc774 \ub9cc\ub4e0 \ubbf8\ub098\ub9ac\ub294 \uace0\uc6a9\ucc3d\ucd9c\ub3c4 \uc548 \ub418\ub294 \ub370 \ud638\ud3c9\uc77c\uc0c9\uc774\uace0 \uace0\uc6a9\ucc3d\ucd9c \ucfe0\ud321\uc740 \uc65c \uc695\uc744 \uba39\uc9c0? \ud55c\uad6d\uc778\uc758 \uc774\uc911\uc131\uc774\ub780 \ucc38",
+    "date": "2021.03.13",
+    "good": 8,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd427d2ae2070876d50d"
+    },
+    "rate": 1,
+    "note": "\ud3c9\uc810\uc774 \uc65c \ub192\uc740\uc9c0 \uc774\ud574\uac00 \uc548\ub418\ub124\uc694..\ubcf4\ub294\ub0b4\ub0b4 \uc9c0\ub8e8\ud558\uace0 \uc724\uc5ec\uc815\uc758 \uc5f0\uae30\ub294 \uadf8\ub2e5 \uc798 \ud558\ub294\uc9c0 \ubaa8\ub974\uaca0\ub354\uad70\uc694.\uc194\uc9c1\ud55c \uac1d\uad00\uc801 \uc0dd\uac01\uc785\ub2c8\ub2e4..",
+    "date": "2021.05.02",
+    "good": 9,
+    "bad": 3,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd427d2ae2070876d50e"
+    },
+    "rate": 1,
+    "note": "\ud3f4 \uc544\uc800\uc528\uc640 \ub370\uc774\ube57\uc758 \uc5f0\uae30\uac00 \uc778\uc0c1\uc801\uc774\uc5c8\ub2e4.",
+    "date": "2021.04.28",
+    "good": 9,
+    "bad": 3,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd427d2ae2070876d50f"
+    },
+    "rate": 1,
+    "note": "\uac1c\uc5f0\uc131\uacfc \uc8fc\uc81c\uc758\uc2dd\uc774 \uc5c6\uc74c\ubcf4\ud3b8\uc801\uc778 \uc774\ubbfc1\uc138\ub300\uc758 \uc0b6\uc744 \uadf8\ub838\ub2e4\uae30\uc5d4 \uac00\uc871\uc758 \ud2b9\uc218\uc131\uc774 \ub3c4\ub4dc\ub77c\uc9c0\uace0 \ud55c \ud3b8\uc758 \uc774\uc57c\uae30\ub77c\uace0 \ud558\uae30\uc5d4 \uac1c\uc5f0\uc131\uc774 \uc5c6\uc74c\uc6b0\uc5f0\uc5d0 \uae30\ubc18\ud55c \uc9c4\ud589\uc774 \uc2a4\ud1a0\ub9ac\uc758 \uc8fc\uc694\ud55c \ubd80\ubd84\uc744 \ucc28\uc9c0\ud568",
+    "date": "2021.04.28",
+    "good": 9,
+    "bad": 3,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd427d2ae2070876d510"
+    },
+    "rate": 2,
+    "note": "\uc2a4\ud3ec\uc77c\ub7ec\uac00 \ud3ec\ud568\ub41c \uac10\uc0c1\ud3c9\uc785\ub2c8\ub2e4. \uac10\uc0c1\ud3c9 \ubcf4\uae30",
+    "date": "2021.03.15",
+    "good": 9,
+    "bad": 3,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd427d2ae2070876d511"
+    },
+    "rate": 10,
+    "note": "\ubc0b\ubc0b\ud558\uace0 \uc7bc\uc5c6\uc5b4\uc694..\uc0b0\ub9cc\ud558\uac8c \ub05d\uae4c\uc9c0 \ubcf8\ub0b4\uac00 \uc790\ub791\uc2a4\ub7fd\ub124\uc694 10\uc810\ub9cc\uc810\uc5d0 0\uc810..",
+    "date": "2021.03.08",
+    "good": 9,
+    "bad": 3,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd427d2ae2070876d512"
+    },
+    "rate": 2,
+    "note": "\uc0b4\uc544\ub0a8\ub294 \uac83\uc5d0 \ub300\ud55c \uc601\ud654 \ub9ce\uc740 \uc0dd\uac01\uc774 \ub4e4\uc5c8\uc5b4\uc694",
+    "date": "2021.03.13",
+    "good": 10,
+    "bad": 4,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd427d2ae2070876d513"
+    },
+    "rate": 10,
+    "note": "\ub178\uc7bc \ub300\ud559\uc878\uc5c5\uc791\ud488\uac51\uc740\ub290\ub08c",
+    "date": "2021.03.03",
+    "good": 10,
+    "bad": 4,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd427d2ae2070876d514"
+    },
+    "rate": 6,
+    "note": "\ud3c9\uc2dd\uc774\ud615 \ud3c9\ub860\ud588\uc74c 1~2\uac1c\uc600\uc744\uac74\ub370 \uc774\uc0c1\ud669\uc5d0 \uae00\uce90\ud558\uba74 \uc695\uba39\uc744\uac70 \uc54c\uace0 \ud3c9\ub860\uc548\ud588\ub124 \u314b\u314b",
+    "date": "2021.03.22",
+    "good": 11,
+    "bad": 5,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd427d2ae2070876d515"
+    },
+    "rate": 6,
+    "note": "\uac1c \uc4f0\ub809\uc601\ud654 \uc808\ub300 \ubcf4\uc9c0 \ub9d0\uc544\ub77c~\ub3c8\uacfc \uc2dc\uac04\uc774 \uc544\uae5d\ub2e4..\uc18c\ubb38\ub09c \uc794\uce58\uc5d0 \uba39\uc744\uac8c \uc5c6\ub2e4.\ub09c \uc65c \uc5ec\uc6b0\uc870\uc5f0\uc0c1 \uc92c\ub294\uc9c0\ub3c4 \uc774\ud574\uac00 \ubd88\uac00\ud558\ub2e4.",
+    "date": "2021.03.20",
+    "good": 11,
+    "bad": 5,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd427d2ae2070876d516"
+    },
+    "rate": 6,
+    "note": "\uac11\uc790\uae30 \uc2f8\uc6b4\ub2e4\uace0? \uac11\uc790\uae30 \ubcd1 \uac78\ub9b0\ub2e4\uace0? \uac11\uc790\uae30 \ub0ab\ub294\ub2e4\uace0? \uac11\uc790\uae30 \ubd88\ub09c\ub2e4\uace0? \uc774\ub807\uac8c \ub05d\ub09c\ub2e4\uace0??? \ubbf8\ub098\ub9ac\ub294 \uac11\uc790\uae30 \uc65c\ub098\uc628\uac74\uc9c0 \uc5b4\ub514\uc11c\ub098 \uc798\uc790\ub77c\ub294\uac83 \ub9cc \uac00\uc9c0\uace0 \uc5b5\uc9c0\ub85c \uac19\ub2e4\ubd99\uc778.. \ubc30\uc6b0\uac00 \uc544\uae5d",
+    "date": "2021.03.16",
+    "good": 11,
+    "bad": 5,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd427d2ae2070876d517"
+    },
+    "rate": 1,
+    "note": "\ud55c \uc0ac\ub78c\uc758 \uc794\uc794\ud55c \ucd94\uc5b5\uc744 \uacf5\uc720\ubc1b\uc740 \ub290\ub08c",
+    "date": "2021.03.07",
+    "good": 11,
+    "bad": 5,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd427d2ae2070876d518"
+    },
+    "rate": 8,
+    "note": "50\ub300\uc5ec\uc790\uce5c\uad6c\uc14b\uc774\ud568\uaed8\ubd24\ub2e4.\ub2e4\ub4e4\ud654\uac00\ub9ce\uc774\ub098\uc11c\ud5e4\uc5b4\uc84c\ub2e4..\ub108\ubb34\uc9c0\ub8e8\ud558\uace0\uc878\ub824\uc11c\ud798\ub4e4\uc5b4\ud588\ub2e4.\u3160\u3160",
+    "date": "2021.03.06",
+    "good": 11,
+    "bad": 5,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd427d2ae2070876d519"
+    },
+    "rate": 1,
+    "note": "\ub370\uc774\ubde7 \ub108\ubb34 \ucee4\uc5ec\uc6cc \u314b\u314b\u314b\u314b\ud4cc\ud4cc~",
+    "date": "2021.03.09",
+    "good": 12,
+    "bad": 6,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd427d2ae2070876d51a"
+    },
+    "rate": 1,
+    "note": "\ubc31\uc778 \ud560\uc544\ubc84\uc9c0\ub4e4 \uc7ac\ubbf8\uad50\ud3ec \ud560\uc544\ubc84\uc9c0\ub4e4\uc740 \ub9ce\uc774 \uacf5\uac10\ud558\uaca0\uc9c0\ub9cc \uc80a\uc740 \uc138\ub300\ub4e4\uc740 \uadf8 \uac10\ub3d9\uc774 \ub290\uaef4\uc9c8 \uc218 \uc788\uc73c\ub824\ub294\uc9c0....\ubbf8\uad6d \uc774\ubbfc\ubb38\ud654\uc640 \uc138\ub300\uc758 \ubcbd\uc774 \ub108\ubb34 \ud070 \uac83 \uac19\uc2b5\ub2c8\ub2e4.",
+    "date": "2021.04.28",
+    "good": 13,
+    "bad": 7,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd427d2ae2070876d51b"
+    },
+    "rate": 8,
+    "note": "\ub108\ubb34 \uae30\ub300\ud574\uc11c \uadf8\ub7f0\uac00\uc694 soso",
+    "date": "2021.03.03",
+    "good": 13,
+    "bad": 7,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd427d2ae2070876d51c"
+    },
+    "rate": 8,
+    "note": "\uae30\ub300\ub97c \ub118 \ub9ce\uc774 \ud55c\uac74\uc9c0 \uac10\ud765\uc774 \uadf8\ub2e5 \uc5c6\ub124\uc694.",
+    "date": "2021.03.04",
+    "good": 14,
+    "bad": 8,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd427d2ae2070876d51d"
+    },
+    "rate": 8,
+    "note": "\ubbf8\ub098\ub9ac \ub098\ubb3c \uad11\uace0 \uc601\ud654\uc600\uc74c.\uadf8\ub0e5 \ubed4\ud55c \uc2a4\ud1a0\ub9ac\ub97c \uc81c\uc791\ube44 \ub4e4\uc5b4  \uc65c \ub9cc\ub4e4\uc5c8\ub294\uc9c0 \uc774\ud574\uc548\uac10.  \uc2a4\ud1a0\ub9ac\ub3c4 \ub108\ubb34 \uc5b4\uc124\ud514.  \uc2e4\uc2b5\uc0dd\uc774 \ub9cc\ub4e0 \uc5f0\uc2b5\uc6a9 \uc791\ud488\ud070 \uc2e4\ub9dd\ud568.   \uc5f0\uc2b5\uc6a9 \uc601\ud654\ub294 \ubb34\ub8cc\ub85c \ud574\uc8fc\uc5c8\uc73c\uba74 \uc88b\uaca0\uc74c. \ub313\uae00 \ud3c9\uc810 \uc54c\ubc14 \uc18d\uc9c0...",
+    "date": "2021.03.03",
+    "good": 14,
+    "bad": 8,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd427d2ae2070876d51e"
+    },
+    "rate": 8,
+    "note": "\ud55c\uc608\ub9ac\uc5d0 \uc8fc\ubaa9\ud560 \ud544\uc694\uac00 \uc788\ub294 \uc601\ud654",
+    "date": "2021.03.06",
+    "good": 15,
+    "bad": 9,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd427d2ae2070876d51f"
+    },
+    "rate": 10,
+    "note": "\uc5c4\ubcf5\ub3d9\ubcf4\ub2e4 \ub354 \uc7ac\ubbf8\uc5c6\ub294 \uc601\ud654\uc774\ub534\uc601\ud654\uac00 1\uc704\ud558\uace0\uc788\ub294\uac83\ub3c4 \uc6c3\uae30\uace0 \u314b\u314b\u314b\ub9c8\uc9c0\ub9c9\uacb0\ub9d0 \uc5f4\ub9b0\uacb0\ub9d0?\ub9d0 \uadf8\ub300\ub85c \ubbf8\ub098\ub9ac\ub9db\uc788\uaca0\ub354\ub77c \uc5c4\ubcf5\ub3d9\ubcf4\ub2e4 \ubabb\ud55c\uc601\ud654\uc600\ub2e4.",
+    "date": "2021.03.03",
+    "good": 17,
+    "bad": 11,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd427d2ae2070876d520"
+    },
+    "rate": 10,
+    "note": "\ud788\ud2c0\ub7ec\uc758 \ub9cc\ud589\uc5d0 \uce68\ubb35\uc73c\ub85c \ub3d9\uc870\ud55c \ub3c5\uc77c\uad6d\ubbfc\ub4e4\uc740 \uc790\uc2e0\ub4e4\uc758 \uacfc\uc624\uc5d0 \ub300\ud574 \ucca0\uc800\ud558\uac8c \ubc18\uc131\ud558\uace0 \uc788\ub2e4. \uc601\ud654\ud3c9\ub860\uac00\ub294 \uc790\uc2e0\uc758 \ud3c9\ub860\uc744 \ud1b5\ud574 \ud3c9\ub860\uac00\uc758 \uac00\uce58\ub97c \uc778\uc815\ubc1b\uc544\uc57c \ud55c\ub2e4. \uadf8\ub7f0\ub370 \ud55c\uad6d\uc758 \uc790\uce6d \ud3c9\ub860\uac00\ub4e4\uc740 \ud765\ud589\uc791\uc5d0 \ub300\ud574 \ud3c9\ub860\uc774 \uc544\ub2cc ...",
+    "date": "2021.03.04",
+    "good": 18,
+    "bad": 12,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd427d2ae2070876d521"
+    },
+    "rate": 6,
+    "note": "\uc0b6\uc744 \ub418\ub3cc\uc544 \ubcf4\uac8c \ud558\ub294 \uc794\uc794\ud55c \uc601\ud654\uc785\ub2c8\ub2e4",
+    "date": "2021.04.28",
+    "good": 5,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd427d2ae2070876d522"
+    },
+    "rate": 6,
+    "note": "\uc9c0\ub098\uce5c \uc2e0\ud30c\uac00 \uc5c6\uc5b4\uc11c \uc88b\ub2e4\uac10\ub3d9\uc744 \uae30\ub300\ud558\uc9c0 \uc54a\uace0 \uc0b6\uc744 \ubc1b\uc544\ub4e4\uc774\ub4ef \ub2f4\ub2f4\ud788 \ubcf4\uba74 \uc88b\uc740 \uc601\ud654",
+    "date": "2021.04.27",
+    "good": 5,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd427d2ae2070876d523"
+    },
+    "rate": 8,
+    "note": "\ud280\uc9c0 \uc54a\uace0 \uc870\uc6a9 \ud558\uc9c0\ub9cc \uc0b6\uc774 \ub179\uc544 \uc788\ub294 \uadf8\ub7f0 \uc601\ud654\uc600\uc5b4\uc694",
+    "date": "2021.04.26",
+    "good": 5,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd427d2ae2070876d524"
+    },
+    "rate": 2,
+    "note": "\ucd2c\uc601\uac10\ub3c5 \uce6d\ucc2c\ud574.. \uc544\uc8fc \ub6f0\uc5b4\ub09c \uc5f0\ucd9c",
+    "date": "2021.04.25",
+    "good": 5,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd427d2ae2070876d525"
+    },
+    "rate": 2,
+    "note": "\ucd5c\uace0\uc758 \uc218\ud61c\uc790\ub294 \ube0c\ub808\ub4dc \ud54f ! \uac10\ub3c5\uc740 \uc18c\uc124\uac19\uc740 \uc804\uac1c\ub97c \uc601\uc0c1\uc73c\ub85c \uc798 \ud3bc\ucce4\uace0 \ubb38\ud559\uc801 \ubca0\uc774\uc2a4\uac00 \ub9e4\uc6b0 \ud0c4\ud0c4\ud558\ub2e4\uace0 \ub204\uaef4\uc84c\uc6c0",
+    "date": "2021.04.21",
+    "good": 5,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd427d2ae2070876d526"
+    },
+    "rate": 8,
+    "note": "\uce5c\uc815\uc5c4\ub9c8\uac00 \uc0dd\uac01\ub098\uace0\uc774\ubbfc\uc790\ub4e4\uc758\uace0\ub2e8\ud55c \uc0b6\uc774\uac00\uc2b4\uc774 \uba39\uba39\ud569\ub2c8\ub2e4",
+    "date": "2021.03.24",
+    "good": 5,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd427d2ae2070876d527"
+    },
+    "rate": 6,
+    "note": "\ubbf8\ub098\ub9ac\ubcf4\ub2e4 KBS\"\uc778\uac04\uadf9\uc7a5\"\uc774 \ub0ae\ub2e4~~~",
+    "date": "2021.03.06",
+    "good": 5,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd427d2ae2070876d528"
+    },
+    "rate": 8,
+    "note": "\uc2a4\ud3ec\uc77c\ub7ec\uac00 \ud3ec\ud568\ub41c \uac10\uc0c1\ud3c9\uc785\ub2c8\ub2e4. \uac10\uc0c1\ud3c9 \ubcf4\uae30",
+    "date": "2021.03.04",
+    "good": 5,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd427d2ae2070876d529"
+    },
+    "rate": 8,
+    "note": "\ubbf8\ub098\ub9ac. \uc0b0\ub2e4\ub294 \uac8c \ubb34\uc5c7\uc77c\uae4c. \uadf8\ub798\ub3c4 \ubbf8\ub098\ub9ac\ucc98\ub7fc \uc0b4\uc544\ubd10\uc57c\ud558\uc9c0 \uc54a\uc744\uae4c. \uc601\ud654\uc81c\ubaa9\ud558\ub098\ub294 \uc798 \uc9c0\uc5c8\ub124https://blog.naver.com/happymoon315/222322661435",
+    "date": "2021.03.03",
+    "good": 5,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd427d2ae2070876d52a"
+    },
+    "rate": 7,
+    "note": "\uc2a4\ud3ec\uc77c\ub7ec\uac00 \ud3ec\ud568\ub41c \uac10\uc0c1\ud3c9\uc785\ub2c8\ub2e4. \uac10\uc0c1\ud3c9 \ubcf4\uae30",
+    "date": "2021.03.03",
+    "good": 5,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd427d2ae2070876d52b"
+    },
+    "rate": 8,
+    "note": "\uc601\ud654\uac00 \ub9e4\uc6b0 \ud604\uc2e4\uc801\uc774\ub77c \ud5c8\ubb34\ud558\ub2e4 \uc815\ub9d0\ub85c \uc0b6\uc744 \ub300\ubcc0\ud55c\ub2e4... \ub098\ub984\ub300\ub85c\uc758 \uc758\ubbf8\ub97c \ucc3e\uc544\uac00\ub294 \uac00\uc871\uc744 \uc751\uc6d0\ud574\uc8fc\uace0 \uc2f6\ub2e4",
+    "date": "2021.03.03",
+    "good": 5,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd427d2ae2070876d52c"
+    },
+    "rate": 1,
+    "note": "\ud575\ub178\uc7bc. \uac11\uc790\uae30 \ub05d. \uc65c \uc0c1 \ubc1b\ub294\uc9c0 \ubaa8\ub974\uaca0\uc74c.",
+    "date": "2021.05.14",
+    "good": 6,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd427d2ae2070876d52d"
+    },
+    "rate": 1,
+    "note": "\uc544\ub2c8 \uc544\ubb34\ub9ac \uc601\uc54c\ubabb\uc774\ub77c\ud574\ub3c4... \ubb58 \uc598\uae30\ud558\ub824\ub294\uc9c0\ub294 \uc54c\uac83\ub294\ub370 \uadfc\ub370 \uc544\ub2c8 \uc9c4\uc9dc \uc774\uac8c \uc774\ub807\uac8c \ub09c\ub9ac\ub0a0?? \ubbf8\uad6d\uac10\uc131\uacfc \ub2ec\ub77c\uc11c\uc778\uac00...\ub3c4\ubb34\uc9c0... \uc724\uc5ec\uc815 \uc5f0\uae30\uc57c \ud56d\uc2dc \ucd5c\uace0\uc9c0\ub9cc \uc5ec\uc6b0\uc870\uc5f0\uc8fc\uc5f0\uc0c1\uc744? \ud06c\uac8c \ud55c\uac8c \uc788\ub098...\ub05d\ub098\uace0..\uba4d...",
+    "date": "2021.05.14",
+    "good": 6,
+    "bad": 1,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd437d2ae2070876d52e"
+    },
+    "rate": 10,
+    "note": "\uae30\ub300\uac00 \ub108\ubb34 \ucef8\ub098\ubd10\uc694. \uc0dd\uac01\ubcf4\ub2e4 \uac10\ub3d9\uc740 \uc880 \ub35c\ud588\uc5b4\uc694 \ud55c\ud3b8\uc758 \ub3c5\ub9bd\uc601\ud654\ub97c \ubcf8 \ub290\ub08c\uc774\ub784\uae4c\uc694",
+    "date": "2021.05.06",
+    "good": 6,
+    "bad": 1,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd437d2ae2070876d52f"
+    },
+    "rate": 1,
+    "note": "\ub274\uc2a4\uc5d0\uc11c\ubcf4\ub3c4\ub420\uc815\ub3c4\ub85c\uc0c1\ubc1b\uc744\ub9cc\ud55c\uc601\ud654\ub294\uc544\ub2cc\uac83\uac19\uc544\uc694!...\uadf8\ub0e5\uc77c\ubc18\uc801\uc778\uc2dc\ub098\ub9ac\uc624\uc5d0\uc784\ud329\ud2b8\uac00\uc5c6\uc5b4\uc694!...\ubcf4\ud1b5\uc77c\ubc18\uc601\ud654\uc218\uc900\uc778\ub4ef!...",
+    "date": "2021.05.02",
+    "good": 6,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd437d2ae2070876d530"
+    },
+    "rate": 7,
+    "note": "\ub0b4\uc6a9\uc774 \uc5b4\ub835\ub124\uc694 \ud558\uc9c0\ub9cc \uae30\uc5b5\uc5d0 \ub0a8\uc744\ub4ef",
+    "date": "2021.04.30",
+    "good": 6,
+    "bad": 1,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd437d2ae2070876d531"
+    },
+    "rate": 5,
+    "note": "\ucc99\ubc15\ud55c \ub545\uc5d0 \uac15\uac74\ud55c \ubfcc\ub9ac\ub97c \ub0b4\ub9ac\uae30\uae4c\uc9c0 \ub098\ub97c \ubc84\ud2f0\uac8c \ud55c \uac74 \uac00\uc871.",
+    "date": "2021.04.28",
+    "good": 6,
+    "bad": 1,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd437d2ae2070876d532"
+    },
+    "rate": 1,
+    "note": "\ubbf8\ub098\ub9ac \ucc98\ub7fc \ubb34\ub7ed\ubb34\ub7ed \uc790\ub77c\ub09c \uac00\uc871\uc758 \uc0ac\ub791",
+    "date": "2021.04.04",
+    "good": 6,
+    "bad": 1,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd437d2ae2070876d533"
+    },
+    "rate": 1,
+    "note": "\uac00\uc871\uc560\ub97c \ub290\ub07c\uac8c\ud558\ub294 \ud6c8\ud6c8\ud55c \uc601\ud654\uc798\ubd24\uc2b5\ub2c8\ub2e4",
+    "date": "2021.04.01",
+    "good": 6,
+    "bad": 1,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd437d2ae2070876d534"
+    },
+    "rate": 2,
+    "note": "\ud3c9\uc810 10\uc810\uc529 \uc900 \ub188\ub4e4 \uc720\ud29c\ube0c \uad11\uace0 5\ucd08\ub3c4 \uc81c\ub300\ub85c \ubabb\ucc38\uc744 \ub188\ub4e4\uc774 \ud0dc\ubc18\uc77c \ud150\ub370 \uc9c0\uc801\ud5c8\uc601\uc2ec\uc5d0 \uac78\ub824\uc11c \uc774\ub534 \uc7ac\ubbf8\ub3c4 \uc5c6\ub294 \uc601\ud654 \uc794\uc794\ud558\ub2e4\ub290\ub2c8 \ubb50\ub2c8 \ube68\uc544\uc8fc\ub294 \uac70 \ubcf4\uba74 \uac1c\uadf9\ud610 \u314b\u314b \ubcf4\ub2e4\uac00 \ub108\ubb34 \uc9c0\ub8e8\ud574\uc11c \ud734\ub300\ud3f0\uc73c\ub85c \uacc4\uc18d \uba87 \ubd84 \uc9c0...",
+    "date": "2021.03.22",
+    "good": 6,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd437d2ae2070876d535"
+    },
+    "rate": 4,
+    "note": "\uc0dd\uac01\ubcf4\ub2e4 \ubcc4 \uac74 \uc5c6\ub2e4\uace0 \ub290\uaf08\ub2e4. \ub2e4\ub9cc \uc601\ud654 \uc911\uac04\uc911\uac04\uc5d0 \ub098\uc624\ub294 \ubbf8\uad6d \uc544\uc800\uc528\uc758 \ub9d0\ub4e4\uc740 \uc704\ub85c\ub85c \ub2e4\uac00\uc654\ub2e4. \"\uad1c\ucc2e\ub2e4.\" \"\ubaa8\ub4e0 \uac83\uc774 \uc798 \ub420\uac70\uc57c\" . \ub9c9\uc0c1 \ud798\ub4e4\uace0 \uc55e\uae38\uc774 \ubcf4\uc774\uc9c0 \uc54a\uc744 \ub54c\ub294 \uc606\uc5d0\uc11c ...",
+    "date": "2021.04.28",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd437d2ae2070876d536"
+    },
+    "rate": 2,
+    "note": "10\uc810\uc918\uc57c \ud55c\uad6d\uc778\uc778\ub370 \uc774\uc601\ud654\ub294 \uc5b4\ucc0c\ubcf4\ub294\uac70\uc8e0?\uc5b4\ub514\uc11c  \uc804\uc138\uacc4\ub97c \ub4a4\ud754\ub4e0\uac70\uc8e0\u315c\u315c\uacf5\ubd80\uae30\ud544\uc694\ud558\ub124\uc694\u315c\u315c",
+    "date": "2021.04.28",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd437d2ae2070876d537"
+    },
+    "rate": 6,
+    "note": "\uc2a4\ud3ec\uc77c\ub7ec\uac00 \ud3ec\ud568\ub41c \uac10\uc0c1\ud3c9\uc785\ub2c8\ub2e4. \uac10\uc0c1\ud3c9 \ubcf4\uae30",
+    "date": "2021.04.27",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd437d2ae2070876d538"
+    },
+    "rate": 2,
+    "note": "\uc65c? \ubb58? \uc2ec\uc0ac\uc704\uc6d0\uc774 \uc218\uc0c1\ud558\ub2e4. \uc544\uce74\ub370\ubbf8 \uc218\uc900 \uc774\ud558\ub780\uac78 \uc54c\uac8c\ub418\uc5c8\ub2e4.",
+    "date": "2021.04.27",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd437d2ae2070876d539"
+    },
+    "rate": 6,
+    "note": "\uc0dd\ub6b1\ub9de\uc740 \uacb0\ub9d0? \uc774\ub77c\ud574\uc57c\ud558\ub098? \ud6c4\ubc18\ubd80 \uac1c\uc5f0\uc131\uc774 \ub5a8\uc5b4\uc9c4\ub2e4\uace0 \ud574\uc57c\ud560\uae4c? \ub9c8\ubb34\ub9ac\uc5c6\uc774 \uadf8\ub0e5 \ub625\uc2f8\ub2e4 \ub04a\uc740 \ub290\ub08c\u3161\u3161",
+    "date": "2021.04.27",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd437d2ae2070876d53a"
+    },
+    "rate": 4,
+    "note": "\uc794\uc794\ud558\uc9c0\ub9cc \uae4a\uc740\uc6b8\ub9bc\uc774\uc788\uc5c8\uc5b4\uc694.",
+    "date": "2021.04.27",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd437d2ae2070876d53b"
+    },
+    "rate": 6,
+    "note": "\ub0b4\uac00 \ubb38\uc81c\uc788\ub294\uac78\uae4c \ub0b4\uac00 \uba85\uc791\uc744 \ubabb \uc54c\uc544\ubcf4\ub294 \uc0ac\ub78c\uc778\uac00 \uc2f6\uc5c8\ub358 \uc601\ud654....\ub3c4\ub300\uccb4 \uc5b4\ub5a4 \uac78 \ud45c\ud604\ud558\uace0 \uc2f6\uc5c8\ub358\uac74\uc9c0..",
+    "date": "2021.04.27",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd437d2ae2070876d53c"
+    },
+    "rate": 6,
+    "note": "\uae30\ub300\uc774\uc0c1 \ubd24\ub294\ub370  \ub531\ud788  \uac10\ub3d9\uc744  \ubabb \ub290\uaf08\ub124\uc694",
+    "date": "2021.04.26",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd437d2ae2070876d53d"
+    },
+    "rate": 4,
+    "note": "\uc74c...\uc2a4\ud1a0\ub9ac\uac00 \uc0dd\uac01\ubcf4\ub2e4\ub294 \uadf8\uc800 \uadf8\ub7ac\uc2b5\ub2c8\ub2e4",
+    "date": "2021.04.26",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd437d2ae2070876d53e"
+    },
+    "rate": 4,
+    "note": "\ub18d\uc7a5\uc77c\uafbc \uc544\uc800\uc528\ub9d0\uace0 \uc5f0\uae30 \uc798\ud55c \ubc30\uc6b0\uac00 \uc5c6\uc5b4\ubcf4\uc774\ub294\ub370...",
+    "date": "2021.04.26",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd437d2ae2070876d53f"
+    },
+    "rate": 4,
+    "note": "\ub9cf\ub538 \uc560\ub2c8\uac00 \ub108\ubb34 \ubd88\uc30d\ud574",
+    "date": "2021.04.26",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd437d2ae2070876d540"
+    },
+    "rate": 4,
+    "note": "PC\uc8fc\uc758\uc5d0 \ubb3c\ub4e0 \ud5d0\ub9ac\uc6b0\ub4dc\uac00 \uc0c1\uc744 \uadf8\ub0e5 \uc8fc\uc5c8\ub124",
+    "date": "2021.04.26",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd437d2ae2070876d541"
+    },
+    "rate": 2,
+    "note": "\uc2a4\ud3ec\uc77c\ub7ec\uac00 \ud3ec\ud568\ub41c \uac10\uc0c1\ud3c9\uc785\ub2c8\ub2e4. \uac10\uc0c1\ud3c9 \ubcf4\uae30",
+    "date": "2021.04.25",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd437d2ae2070876d542"
+    },
+    "rate": 2,
+    "note": "\uc640 \uc2dc\uac04 \uc544\uae5d\ub2e4\u314e \uc774\uac74\uc544\ub2c8\uc9c0..",
+    "date": "2021.04.24",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd437d2ae2070876d543"
+    },
+    "rate": 2,
+    "note": "\uacfc\ub300\ud3c9\uac00\ub41c \uc601\ud654. \uc5f0\ucd9c \uac01\ubcf8 \uc5f0\uae30 \ubaa8\ub450 \uc544\uc26c\uc6b4 \ubd80\ubd84\uc774 \ub9ce\uc558\ub2e4.",
+    "date": "2021.04.24",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd437d2ae2070876d544"
+    },
+    "rate": 4,
+    "note": "\ubbf8\ub098\ub9ac\ubc2d\uc774  \ub108\ubb34 \ubd80\uc2e4...\u314b",
+    "date": "2021.04.24",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd437d2ae2070876d545"
+    },
+    "rate": 2,
+    "note": "\uadf8\ub0e5 \ud55c\uad6d\uc778\uc774 \uc5f0\uae30\ud55c \ubbf8\uad6d \uc601\ud654",
+    "date": "2021.04.24",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd437d2ae2070876d546"
+    },
+    "rate": 6,
+    "note": "\uc5f0\uae30\ub294 \uc5f0\uae30\uc9c0\ub9cc \ud750\ub984\uc774 \uc5b4\uae0b\ub098\ub294\ub4ef\ud55c \uc2a4\ud1a0\ub9ac?\uc911\uac04\ub9c8\ub2e4 \ud3ec\uc778\ud2b8 \ub294\uc788\uc9c0\ub9cc \ud750\uc9c0\ubd80\uc9c0 \ud55c\uac70\uac19\uc544\uc694",
+    "date": "2021.04.24",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd437d2ae2070876d547"
+    },
+    "rate": 8,
+    "note": "\ud750\ubbf8....\u3154.\uc774\uc774\uc774\ub0b4..\uc2dc...\u3147...\u3163...\uac04...",
+    "date": "2021.04.16",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd437d2ae2070876d548"
+    },
+    "rate": 4,
+    "note": "\uc804\ubc18\uc801\uc73c\ub85c \uc6b0\uc6b8\ud588\ub2e4.",
+    "date": "2021.04.13",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd437d2ae2070876d549"
+    },
+    "rate": 2,
+    "note": "\uc77c\ub2e8 \ub108\ubb34 \uc7ac\ubbf8\uc5c6\uc74c \u314b\u314b\u314b",
+    "date": "2021.04.12",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd437d2ae2070876d54a"
+    },
+    "rate": 7,
+    "note": "\uc601\ud654\ub294 \ubcc4\ub85c.\uc9c0\ub8e8\ud574\uc11c \uc878\uc558\uc5b4\uc694..",
+    "date": "2021.03.31",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd437d2ae2070876d54b"
+    },
+    "rate": 8,
+    "note": "\uc601\ud654\uad00\uc5d0\uc11c \uc548\ubcf4\uae38 \uc798\ud588\ub2e4",
+    "date": "2021.03.29",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd437d2ae2070876d54c"
+    },
+    "rate": 2,
+    "note": "\uc2a4\ud3ec\uc77c\ub7ec\uac00 \ud3ec\ud568\ub41c \uac10\uc0c1\ud3c9\uc785\ub2c8\ub2e4. \uac10\uc0c1\ud3c9 \ubcf4\uae30",
+    "date": "2021.03.21",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd437d2ae2070876d54d"
+    },
+    "rate": 2,
+    "note": "\uc724\uc5ec\uc815 \uc5f0\uae30\uac00 \uc544\uce74\ub370\ubbf8\uc0c1\uc744 \uc904\ub9cc\ud55c\uac74\uc9c0 \ub09c \uc798 \ubaa8\ub974\uaca0\ub2e4. \ub354 \ubaa8\ub974\uaca0\ub294\uac74 \uc2ed\uc790\uac00\uba58 \ubbf8\uad6d \uc544\uc800\uc528\ud558\uace0 \uacb0\ub9d0\uc5d0 \uc65c \ubd88\ub09c\uac74\uc9c0...\ubbf8\ucfe1\uc778 \ucde8\ud5a5\uc778\uac00?",
+    "date": "2021.03.20",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd437d2ae2070876d54e"
+    },
+    "rate": 1,
+    "note": "\uc2a4\ud3ec\uc77c\ub7ec\uac00 \ud3ec\ud568\ub41c \uac10\uc0c1\ud3c9\uc785\ub2c8\ub2e4. \uac10\uc0c1\ud3c9 \ubcf4\uae30",
+    "date": "2021.03.20",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd437d2ae2070876d54f"
+    },
+    "rate": 1,
+    "note": "\uc544\uc624\ub4dc\ub7fd\uac8c\uc7ac\ubbf8\uc5c6\ub294\uac70 \ub2e4\ubd24\ub124",
+    "date": "2021.03.20",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd437d2ae2070876d550"
+    },
+    "rate": 10,
+    "note": "\ub300\uccb4 \uc5b4\ub5bb\uac8c \ubd10\uc57c \uc7ac\ubc0c\ub294\uc9c0 \uc5b4\ub514\uc11c \uac10\ub3d9\uc744 \ubc1b\uc544\uc57c\ud560\uc9c0 \ubaa8\ub974\uaca0\ub2e4",
+    "date": "2021.03.15",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd447d2ae2070876d551"
+    },
+    "rate": 8,
+    "note": "\uc218\uc0c1 \uc18c\uc2dd\uc5d0 \uad81\uae08\ud574\uc11c \ubd24\ub294\ub370..\uc5f0\uae30\ub3c4 \uc2a4\ud1a0\ub9ac\ub3c4 \ubcc4\ub85c \uac10\ud765\uc774 \uc5c6\ub124\uc694.",
+    "date": "2021.03.13",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd447d2ae2070876d552"
+    },
+    "rate": 8,
+    "note": "\uc774\ubbfc\uc790 \uc0b6\uc744 \uacf5\uac10\ud560\uc218 \uc5c6\uc5c8\uace0 \uadf8\ub4e4\uc758 \uc544\ud514\uc744 \uacf5\uac10\ud558\uae30 \ubd80\uc871\ud588\ub2e4 \ub610\ud55c \uc724\uc5ec\uc815\uc774 \ubcf4\uc5ec\uc900 \uc5f0\uae30\uac00 \uc218\uc0c1\uc5d0 \ubc84\uae08\uac00\ub294\uc9c0\ub3c4 \ubaa8\ub974\uaca0\uace0 \uc2a4\ud1a0\ub9ac \ub610\ud55c \uc794\uc794\ud574\uc11c \ubc15\uc9c4\uac10\uacfc \uc2a4\ub9b4 \ub118\uce58\ub294 \ud32c\ub4e4\uc5d0\uac90 \uc544\uc26c\uc6c0\uc774 \ub0a8\uaca0\ub2e4",
+    "date": "2021.03.13",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd447d2ae2070876d553"
+    },
+    "rate": 8,
+    "note": "\uc794\uc794\ud558\uae30\ub9cc\ud558\uace0 \ud070 \ub0b4\uc6a9 \uc5c6\uc5c8\uc74c..",
+    "date": "2021.03.10",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd447d2ae2070876d554"
+    },
+    "rate": 6,
+    "note": "\uadf8\ub0e5..\uc794\uc794\ud558\uace0 \uc678\uad6d\uacfc \uad00\uc810\ucc28\uc774\uac00 \uc2ec\ud558\ub2e4\ub294\uac78 \ub290\uaf08\uc2b5\ub2c8\ub2e4...",
+    "date": "2021.03.04",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd447d2ae2070876d555"
+    },
+    "rate": 8,
+    "note": "\ud558\ub3c4 \uc5b8\ub860\uc5d0\uc11c \ubbf8\ub098\ub9ac\uc5d0 \ub300\ud55c \ud3c9\uc744\uc9c0\ub098\uce60 \uc815\ub3c4\ub85c \uad00\uc2ec\uc744 \ubcf4\uc774\uace0\uc6b0\ub9ac \ubc30\uc6b0\uac00 \ubbf8\uad6d\uc5d0\uc11c \uc0c1\ud6c4\ubcf4\uc790\ub77c\ud574\uc11c \ub9e4\uc2a4\ucef4\uc5d0\uc11c \ud558\ub3c4 \uad11\uace0\ub97c \ud574\uc11c\uc9d1\uc5d0\uc11c \ubcf4\uac8c\ub418\uc5c8\ub2e4.\uc5ec\ud0dc \ud55c\uad6d \uc601\ud654\ub4e4\uc774 \ubcf4\uc5ec\uc92c\ub358\uac10\ub3d9\uc5d0 \ube44\ud574 \ud06c\uac8c \uac10\ub3d9\uc774\ub098 \uc88b\uc740 \uc601\ud654\uc778\uc9c0 \uc800\ud55c...",
+    "date": "2021.03.03",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd447d2ae2070876d556"
+    },
+    "rate": 8,
+    "note": "\uc774 \uc601\ud654\ub294 \uc774\ubbfc\uc790\uc758 \uc0b6\uc744 \uadf8\ub9b0 \ubbf8\uad6d\uc601\ud654\ub77c \ub290\uaef4\uc9c0\ub124\uc694. \uacf5\uac10\ub3c4 \uc548\ub418\uace0 \ubc1c\uc74c\ub3c4 \uc798 \uc548\ub4e4\ub824\uc11c \ud55c\uad6d\ud310\ub3c4 \uc790\ub9c9\uc774 \uc788\uc5c8\uc73c\uba74 \ud560 \uc815\ub3c4\uc600\uc5b4\uc694. \ubc30\uacbd \uc138\ub300\ub97c \ub5a0\ub098\uc11c \ub108\ubb34 \uc77c\ubd80\uc758 \uc774\uc57c\uae30\uc785\ub2c8\ub2e4. \uc624\ud788\ub824 \ub3d9\uc591\uc778 \ubbf8\uad6d \uc774\ubbfc\uc790\ub4e4\uc758 \uacf5\uac10\uc774 ...",
+    "date": "2021.03.03",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd447d2ae2070876d557"
+    },
+    "rate": 8,
+    "note": "\ub370\uc774\ube57\uc758 \ubcd1\uc774 \ud560\uba38\ub2c8\ud55c\ud14c \uc62e\uc544\uac04\uac78 \uadf8\ub9b0 \uc601\ud658\uac00?\ubbf8\ub098\ub9ac\ub294 \uc544\ubb34\ub370\uc11c\ub098 \uc798\uc790\ub77c\ub2c8 \uc774\uc0ac\ud130\ub97c \uc798\uc7a1\uc558\ub2e4\ub294\uac74\uac00?\ub300\uccb4 \ubb54\ub0b4\uc6a9\uc778\uc9c0..\uadf8\ub9ac\uace0 \uc5d4\ub529....\uc601\ud654\uad00\uc5d0\uc11c \uc2e4\uc218\ub85c \ub0b4\uc6a9 \uc798\ub77c\uba39\uc740\uc904...",
+    "date": "2021.03.03",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd447d2ae2070876d558"
+    },
+    "rate": 7,
+    "note": "\uc194\uc9c1\ud788 \ub108\ubb34 \uc774\uc288\uac00 \ub9ce\uc774\ub41c\uc601\ud654 \uc7ac\ubbf8\uc5c6\ub2e4",
+    "date": "2021.03.03",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd447d2ae2070876d559"
+    },
+    "rate": 10,
+    "note": "\uae30\ub300\ub97c \ub9ce\uc774 \ud558\uace0 \ubd24\ub294\ub370\uc694.\uc7ac\ubbf8 \uc5c6\uace0 \ubb34\uc2a8 \ub0b4\uc6a9\uc778\uc9c0 \ubaa8\ub974\uaca0\ub124\uc694",
+    "date": "2021.05.05",
+    "good": 4,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd447d2ae2070876d55a"
+    },
+    "rate": 2,
+    "note": "\uc608\uc804\ubd80\ud130 \ub290\ub080\uac74\ub370 \uc724\uc5ec\uc815\uc740 \uc5f0\uae30\ubcc4\ub85c \ub9c8\ub354\uc5d0 \uae40\ud61c\uc790\uc5f0\uae30\ubcf4\uba74 \uc18c\ub984\ub3cb\ub294\ub2e4 \ud55c\ud61c\ub9ac\uc5f0\uae30\ub3c4 \ud798\uc880 \ube7c\uace0\ud558\uc9c0",
+    "date": "2021.05.03",
+    "good": 4,
+    "bad": 1,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd447d2ae2070876d55b"
+    },
+    "rate": 1,
+    "note": "\uae30\ub300\uc774\ud558 \uc5b4\ucc98\uad6c\ub2c8\uc5c6\ub294 \uc804\uac1c \uba38\uc9c0? \uc18c\ubb38\ub09c\uc794\uce58\uc5d0 \uba39\uc744\uac8c\uc5c6\ub2e4 \uc5f0\uae30\ub825\ub3c4 \uadf8\ub807\uace0 \uc5b4\uc774\uc5c6\ub294 \ub05d\ub9fa\uc74c\uc794\ub729\uae30\ub300\ud558\uac8c \ud574\ub193\uace0 ???  \uae30\ub300\ud558\uace0\ubcf8\ub2e4\uba74 \uc9c4\uc9dc \uc2e4\ub9dd\ud560\uac83",
+    "date": "2021.03.21",
+    "good": 6,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd447d2ae2070876d55c"
+    },
+    "rate": 1,
+    "note": "\uc790\uadf9\uc801\uc774\uc9c0 \uc54a\uace0 \ub2f4\ub2f4\ud574\uc11c \ub354 \uac00\uc2b4\uc744 \ud6c4\ubcbc\ud30c\ub294 \uc601\ud654... \uc8fc\ubcc0 \uc5b4\ub518\uac00\uc5d0\uc11c \ud55c\ubc88\ucbe4 \ub4e4\uc5b4\ubd24\uc744 \ubc95\ud55c \uc774\uc57c\uae30\ub77c \ub354 \uadf8\ub807\ub2e4",
+    "date": "2021.03.20",
+    "good": 6,
+    "bad": 1,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd447d2ae2070876d55d"
+    },
+    "rate": 1,
+    "note": "\uad1c\ud788\ubc1b\ub124....\uac10\ub3d9\uc5c6\uace0 ....",
+    "date": "2021.03.20",
+    "good": 6,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd447d2ae2070876d55e"
+    },
+    "rate": 8,
+    "note": "\uac10\ub3c5\uc758 \uac1c\uc778\uc801\uc774\uace0 \ub2e8\ud3b8\uc801\uc778 \uae30\uc5b5\ub4e4\uc744 \uc774\uc5b4\ubd99\uc778 \ub290\ub08c. \uac10\uc815 \uace1\uc120\uc758 \uace0\uc800\ub294 \uc544\uc8fc \ud3c9\ud0c4\ud55c \ud3b8.",
+    "date": "2021.03.06",
+    "good": 6,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd447d2ae2070876d55f"
+    },
+    "rate": 6,
+    "note": "\uc7ac\ub09c\uc601\ud654",
+    "date": "2021.03.06",
+    "good": 6,
+    "bad": 1,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd447d2ae2070876d560"
+    },
+    "rate": 8,
+    "note": "\uc77c\ub2e8 \ud3c9\ub860\uac00\ub4e4\uc774 \ub192\uac8c \uc8fc\uc5c8\ub2e4\ub294\uac74 \uc548\uc88b\ub2e4\ub294\uac78 \uc758\ubbf8. \uadf8\ubd84\ub4e4\uc740 \uc0c1\uc601\ub3c4\uc911 \ud544\ub9bc\ub04a\uc5b4\uc838 \uc601\uc0c1\uc548\ub098\uc624\uba74  \uac10\ub3d9\uc774\ub77c\uba70 10\uc810\uc8fc\ub294 \uc0ac\uc774\ucf54\ub4e4\uc774\ub2e4.",
+    "date": "2021.03.05",
+    "good": 6,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd447d2ae2070876d561"
+    },
+    "rate": 8,
+    "note": "\uc601\ud654\ud3c9\ub860\uac00\ub4e4\uc758 \uc7a5\ub09c.",
+    "date": "2021.03.04",
+    "good": 6,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd447d2ae2070876d562"
+    },
+    "rate": 6,
+    "note": "\uc2a4\ud3ec\uc77c\ub7ec\uac00 \ud3ec\ud568\ub41c \uac10\uc0c1\ud3c9\uc785\ub2c8\ub2e4. \uac10\uc0c1\ud3c9 \ubcf4\uae30",
+    "date": "2021.03.03",
+    "good": 6,
+    "bad": 1,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd447d2ae2070876d563"
+    },
+    "rate": 7,
+    "note": "\uac1c\uc778\uc801\uc73c\ub85c \ub108\ubb34 \uc9c0\ub8e8\ud558\uace0 \uacc4\uc18d \ub2e4\ud22c\ub294 \ubaa8\uc2b5\ub098\uc624\uad6c \uc5b4\ub5a4 \ubd80\ubd84\uc774 \uac10\ub3d9\uc778\uc9c0 \uc804\ud600 \ubaa8\ub974\uaca0\uc5b4\uc694",
+    "date": "2021.05.24",
+    "good": 7,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd447d2ae2070876d564"
+    },
+    "rate": 1,
+    "note": "\uc2a4\ud06c\ub9b0\ucffc\ud130\uc81c\ub584\ubb38\uc5d0 \uc601\ud654\uad00\uc5d0\uc11c \uc774\uc601\ud654\ub9cc\ud574\uc11c \uc5b4\uca54\uc218\uc5c6\uc774\ubcf8 ...;\uc7bc\uc788\ub294 \uc678\uad6d\uc601\ud654 \uac81\ub098\ub9ce\uc740\ub370..\uc820\uc7a5\ud560..",
+    "date": "2021.05.01",
+    "good": 7,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd447d2ae2070876d565"
+    },
+    "rate": 10,
+    "note": "\uc774 \ubc0b\ubc0b\ud568\uacfc \uc2f1\uac70\uc6c0\uc740 \ubb50\uc9c0...",
+    "date": "2021.05.01",
+    "good": 7,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd447d2ae2070876d566"
+    },
+    "rate": 6,
+    "note": "\uc544 \ub108\ubb34 \uc9c0\ub8e8\ud574\uc11c \uc798\ubed4\ud588\uc5b4\uc694",
+    "date": "2021.03.29",
+    "good": 7,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd447d2ae2070876d567"
+    },
+    "rate": 6,
+    "note": "\ub9e4\uc6b0 \uc794\uc794\ud560 \uac70\ub77c\uace0 \ud55c\uc608\ub9ac \ubc30\uc6b0\ub2d8\uc774 \ubc29\uc1a1\uc5d0\uc11c \uacbd\uace0\ud558\uc154\uc11c \uac01\uc624\ud558\uace0 \ubd24\uc5b4\uc694. \uadf8\ub798\uc11c \uadf8\ub7f0\uc9c0 \uc0dd\uac01\ubcf4\ub2e4\ub294 \uc624\ub974\ub77d \ub0b4\ub9ac\ub77d\uc774 \uc788\ub294 \uc601\ud654\uc600\uc2b5\ub2c8\ub2e4. \uadc0\uc5ec\uc6b4 \ub370\uc774\ube57 \ub355\ubd84\uc5d0 \uc601\ud654 \ub0b4\ub0b4 \uc6c3\uc74c \uc9c0\uc73c\uba70 \ubcfc \uc218 \uc788\uc5c8\ub358 \uac83 \uac19\uc544\uc694.^^",
+    "date": "2021.03.24",
+    "good": 7,
+    "bad": 2,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd447d2ae2070876d568"
+    },
+    "rate": 8,
+    "note": "\uadf8\ub0e5 \uadf8\ub7ac\uc74c. \uc11c\uc591\uc778\ub4e4 \uc2dc\uac01\uc5d0\uc11c\ub294 \ub2e4\ub974\uac8c \ubcf4\uc774\ub098 \uc2f6\uc74c",
+    "date": "2021.03.23",
+    "good": 7,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd447d2ae2070876d569"
+    },
+    "rate": 1,
+    "note": "\uc794\uc794\ud55c \uc774\ubbfc\uc0ac\uc5d0\uc11c  \uc54c\uace0 \uc788\ub294 \ub0b4\uc6a9\uc774\uc9c0\ub9cc\ub204\uad6c\ub098 \ud55c\ubc88\ucbd4 \uac00\uc871\uc5d0\uc11c  \ub290\ub07c\ub294 \uac10\uc815\uace1\uc120\uacfc \uc544\uc774\uc758 \uc2dc\uc120\uc73c\ub85c \ubc14\ub77c\ubcf4\ub294 \uc5b4\ub978\ub4e4\uc758 \ubaa8\uc2b5\uc5d0  \uc810\uc218\ub97c \uc8fc\uace0\uc2f6\ub124\uc694",
+    "date": "2021.03.23",
+    "good": 7,
+    "bad": 2,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd447d2ae2070876d56a"
+    },
+    "rate": 1,
+    "note": "\ucc98\uc74c\ubd80\ud130 \ub05d\uae4c\uc9c0 \uc9c0\ub8e8\ud558\uc9c0 \uc54a\uac8c \ubcf4\uc558\uc2b5\ub2c8\ub2e4\ubab0\uc785\ub3c4 \uc788\uac8c \ubcf4\uc558\uace0 \uc794\uc794\ud55c \uc5ec\uc6b4\uc774 \ub0a8\ub124\uc694\ub370\uc774\ube57\uc774 \uc824 \uae30\uc5b5\uc5d0 \ub0a8\ub124\uc694 \u314e\u314e",
+    "date": "2021.03.19",
+    "good": 7,
+    "bad": 2,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd447d2ae2070876d56b"
+    },
+    "rate": 6,
+    "note": "\uae30-\uc2b9-\uc2b9(..\ubd88\ub0a0 \ub54c \uc7a0\uae50 \uc804\uc774\ub420\ubed4 \ud588\uc73c\ub098 \uae08\ubc29 \ub118\uc5b4\uac10..)-\uacb0.",
+    "date": "2021.03.07",
+    "good": 7,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd447d2ae2070876d56c"
+    },
+    "rate": 5,
+    "note": "\uc601\uc0c1\ubbf8\uac00 \ub6f0\uc5b4\ub098\uace0 \uc2a4\ud1a0\ub9ac\ub294 \ubcc4 \ub0b4\uc6a9 \uc5c6\uc5b4\uc694",
+    "date": "2021.03.07",
+    "good": 7,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd447d2ae2070876d56d"
+    },
+    "rate": 1,
+    "note": "\uc81c\ubaa9 \ubbf8\ub098\ub9ac??? \uc2a4\ud1a0\ub9ac??? \uc601\uc0c1\ubbf8??? \uacb0\ub860??? \uba85\uc808\uc5d0 TV\uc5d0\uc11c \ud2b9\uc120\uc601\ud654 \ud560\ub54c\uae4c\uc9c0 \uae30\ub2e4\ub9ac\uc2ec\uc774 \uc88b\uc744\ub4ef... \u3160\u3160",
+    "date": "2021.05.01",
+    "good": 8,
+    "bad": 3,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd447d2ae2070876d56e"
+    },
+    "rate": 7,
+    "note": "30\ub300 \uc911\ubc18\uc774 \uc811\uc5b4\ub4e4\uace0 \ubcf4\ub2c8..\uadf8\ub0e5 \uc601\ud654\ub77c\uae30 \ubcf4\ub2e4\ub294 \uc0b6\uc744 \ubcf4\uc5ec\uc8fc\ub294 \uac83 \uac19\uc558\uc2b5\ub2c8\ub2e4.\uc601\uc0c1\uc774\ub791 \uc74c\uc545\uc774 \uc815\ub9d0 \uc88b\uc558\uace0 \ubc30\uc6b0\ubd84\ub4e4\uc758 \uc790\uc5f0\uc2a4\ub7f0 \uc5f0\uae30\uc640 \uaf2c\ub9c8\uce5c\uad6c\ub4e4\uc774 \ubcf4\ub294 \ub0b4\ub0b4 \uc990\uac70\uc6c0\uc744 \uc8fc\uc5c8\uc2b5\ub2c8\ub2e4..\uc601\ud654 \ub05d\ub098\uace0 \uc544\ube60\ub791 \ub9cc\uc57d \uadf8\ub54c \uc544\ube60...",
+    "date": "2021.05.01",
+    "good": 8,
+    "bad": 3,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd447d2ae2070876d56f"
+    },
+    "rate": 8,
+    "note": "\uc2dc\ub300\uc5d0 \ub9de\uc9c0\uc54a\uc544 \uac10\ub3d9\uc774 \uc5c6\uc74c",
+    "date": "2021.04.21",
+    "good": 8,
+    "bad": 3,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd457d2ae2070876d570"
+    },
+    "rate": 6,
+    "note": "\uae30\ub300\uac00 \ucef8\ub098\ubd05\ub2c8\ub2e4 \uadf8\ub0e5 \uc794\uc794\ud558\uace0 \uc57d\uac04\uc758 \uac10\ub3d9\uc774 \uc788\ub294 \ub3c5\ub9bd\uc601\ud654 \ub290\ub08c\uc774\uc5c8\uad6c\uc694 \ub370\uc774\ube57\uc758 \uc5f0\uae30\uac00 \uae30\uc5b5\uc5d0 \ub0a8\ub124\uc694 \ud48d\uad11\ub3c4 \ubbf8\uad6d\uc774 \uc544\ub2cc \ud55c\uad6d \uc2dc\uace8 \uac19\uc558\uc5b4\uc694",
+    "date": "2021.04.01",
+    "good": 8,
+    "bad": 3,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd457d2ae2070876d571"
+    },
+    "rate": 6,
+    "note": "\uc9c0\ub8e8\ud558\uace0 \uc880 \uc2ec\uc2ec\ud574\uc694...\uc5c4\ub9c8\ub294 \ubcf4\ub2e4\uac00 \uc8fc\ubb34\uc2ec\u314b\u314b",
+    "date": "2021.03.20",
+    "good": 8,
+    "bad": 3,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd457d2ae2070876d572"
+    },
+    "rate": 9,
+    "note": "\ucc38\ub0b4.. \uc5b4\uc774\uac00 \uc5c6\uc5b4\uc11c...",
+    "date": "2021.03.10",
+    "good": 8,
+    "bad": 3,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd457d2ae2070876d573"
+    },
+    "rate": 10,
+    "note": "\uc65c \uacc4\uc18d \uc601\uc0c1\uc774 \ub04a\uae30\ub294 \ub4ef\ud55c \ub290\ub08c\uc774 \ub4dc\ub294\uc9c0 \ubaa8\ub974\uaca0\ub2e4 . \ud5c8\ud55c \uc774 \ub290\ub08c \ubb50\uc9c0 ... \ubc25\uc744 \uc794\ub729 \uba39\uc5c8\ub294\ub370 \ubb58 \uc548 \uba39\uc740 \ub4ef \ubc43\uc18d\uc774 \ud5c8\ud55c \ub290\ub08c .",
+    "date": "2021.05.02",
+    "good": 9,
+    "bad": 4,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd457d2ae2070876d574"
+    },
+    "rate": 10,
+    "note": "\ud070 \uae30\ub300\ub97c \ud558\uace0 \ubd10\uc11c \uadf8\ub7f0\uc9c0 \uc0dd\uac01\ubcf4\ub2e4  \uc9c0\ub8e8\ud588\uc74c\uadf9\ucc2c\ud55c \ud3ec\uc778\ud2b8\uac00 \ubb34\uc5c7\uc77c\uae4c \uacc4\uc18d \ucc3e\uc544\ubd24\ub294\ub370 \uc798 \ubaa8\ub974\uaca0\uc74c \uc9c0\uc778\uc5d0\uac8c \uad73\uc774 \ucd94\ucc9c\uc740 \uc548\ud560\uac83\uac19\uc74c",
+    "date": "2021.03.19",
+    "good": 10,
+    "bad": 5,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd457d2ae2070876d575"
+    },
+    "rate": 6,
+    "note": "\ub108\ubb34 \uae30\ub300\uac00 \ucef8\ub2e4. \uc678\uad6d\uc5d0\uc11c \uc218\uc0c1\uae4c\uc9c0 \ud588\ub2e4\ub294 \ud64d\ubcf4\ud6a8\uacfc\uc5d0 \ub09a\uc778 \ub4ef. \uc904\uac70\ub9ac \uad6c\uc131\ub3c4 \uc5b4\uc911\uac04 \uac00\uc871\ub4e4\uac04\uc758 \uc5f0\uae30\ub3c4 \uc5f0\uae30\uc870\ud654\uac00 \ub418\uc9c0\uc54a\uace0 \ud2b9\ud788 \ud55c\uc608\ub9ac\ub294 \ud55c\uad6d\ub9d0 \ub300\uc0ac\ucc98\ub9ac\uac00 \ubd80\uc815\ud655\ud558\uc5ec \ub9d0\uc774 \ubb49\uac1c\uc9c0\uace0...\uc5b4\ub5bb\uac8c \uc774\ub7f0 \uc601\ud654\uac00 \uc218\uc0c1\uc744...",
+    "date": "2021.03.23",
+    "good": 11,
+    "bad": 6,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd457d2ae2070876d576"
+    },
+    "rate": 4,
+    "note": "\uc720\uba85 \uc601\ud654\uc81c\uc640 \uc2e4\uc81c \uad00\ub78c\uac1d \uc0ac\uc774\uc758 \uad34\ub9ac\ub97c \uc801\ub098\ub77c\ud558\uac8c \ubcfc \uc218 \uc788\ub294 \uc601\ud654. \uc2dc\uac04\uc774 \uc18c\uc911\ud558\uc9c0 \uc54a\uc73c\uc2e0 \ubd84\ub4e4\uaed8 \ucd94\ucc9c",
+    "date": "2021.04.22",
+    "good": 12,
+    "bad": 7,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd457d2ae2070876d577"
+    },
+    "rate": 10,
+    "note": "\uc794\uc794\ud558\uc9c0\ub9cc \ud2b9\ubcc4\ud55c\ud070 \uc5ec\uc6b4\uc774 \ub0a8\uc9c4 \uc54a\uc74c",
+    "date": "2021.07.28",
+    "good": 4,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd457d2ae2070876d578"
+    },
+    "rate": 1,
+    "note": "\ubcf4\uae30\uc804\uc5d0\ub294 \ub2e8\uc21c\ud788 \uac00\uc871\uc601\ud654\uac00 \uc544\ub2d0\uae4c~ \ud558\uace0 \uc608\uc0c1\ud588\ub294\ub370 \uc794\uc794\ud55c \uc5ec\uc6b4\uc774 \ub0a8\ub294 \uc601\ud654..\uac00\uc871\uc774\ub77c\ub294 \ub2e8\uc704\ub97c \ub118\uc5b4 \uc0b6\uc774 \uac00\uc9c0\ub294 \uac00\uc7a5 \ud070 \uac00\uce58\ub294 \ubb34\uc5c7\uc77c\uae4c. \uc5b4\ub5a4 \uc9c0\ud5a5\uc810\uc744 \ucd5c\uace0\uc758 \uac00\uce58\uc640 \ubaa9\ud45c\ub85c \uc0dd\uac01\ud558\uace0 \uc0b4\uc544\uc57c \ud560\uae4c. \uc5d0 \ub300\ud574 \ud55c...",
+    "date": "2021.06.27",
+    "good": 4,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd457d2ae2070876d579"
+    },
+    "rate": 1,
+    "note": "\uc774\ubbfc\uc790\ub85c \ube44\uc2b7\ud55c \uacbd\ud5d8\uc744 \ud588\uac70\ub098 \ud798\ub4e0 \uacfc\uac70\ub97c \uacbd\ud5d8\ud55c \ubd84\ub4e4\uc5d0\uac8c\ub294 \ud070 \uc6b8\ub9bc\uc744 \uc8fc\ub294 \uc601\ud654\uc77c\uc218 \uc788\uaca0\uc9c0\ub9cc \uc800\uc640\uac19\uc740 \uc77c\ubc18\uc801\uc778 \uc0ac\ub78c\ub4e4\ub3c4 \uacfc\uc5f0 \uacf5\uac10\ud558\uace0 \ud2b9\ubcc4\ud55c \ub290\ub08c\uc744 \ubc1b\uc744\uc218 \uc788\uc744\uae4c?\uc88c\uc808\ud558\uace0 \ub2e4\uc2dc \uc77c\uc5b4\uc11c\ub294 \uc2a4\ud1a0\ub9ac\uc758 \uc601\ud654\uc57c \uadf8\ub3d9\uc548 \ub108\ubb34...",
+    "date": "2021.06.17",
+    "good": 4,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd457d2ae2070876d57a"
+    },
+    "rate": 8,
+    "note": "\uc81c\uac00 \ubb58 \ubd24\ub294\uc9c0 \uc544\uc9c1\ub3c4 \ud30c\uc545 \ud560 \uc218\uac00 \uc5c6\ub124\uc694 \u3160\u3160",
+    "date": "2021.05.27",
+    "good": 4,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd457d2ae2070876d57b"
+    },
+    "rate": 2,
+    "note": "\uc11c\ub85c \uc5c9\uaca8\ubd99\uace0\uc11c\ub77c\ub3c4 \uafcb\uafcb\uc774 \uc790\ub77c\ub294 \ubbf8\ub098\ub9ac\ub4e4",
+    "date": "2021.05.22",
+    "good": 4,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd457d2ae2070876d57c"
+    },
+    "rate": 10,
+    "note": "\uc2a4\ud3ec\uc77c\ub7ec\uac00 \ud3ec\ud568\ub41c \uac10\uc0c1\ud3c9\uc785\ub2c8\ub2e4. \uac10\uc0c1\ud3c9 \ubcf4\uae30",
+    "date": "2021.05.09",
+    "good": 4,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd457d2ae2070876d57d"
+    },
+    "rate": 2,
+    "note": "\ub0a8\ub4e4\uc740 \uacf5\uac10\ub300\uac00 \uc798 \ud615\uc131\ub420\uc9c0 \ubaa8\ub974\uaca0\uc9c0\ub9cc \uc800\ud55c\ud14c\ub294 \ub3c4\uc785\ubd80\uc5d0 \ud2b8\ub7ed\uacfc \ud5e4\uce58\ubc31\uce74\ub85c \uc774\uc0ac\uac00\ub294 \uc7a5\uba74\ubd80\ud130 \uc6b8\ucee5\ud588\ub124\uc694.. \uc601\ud654 \uc2a4\ud1a0\ub9ac\uac00 \ub108\ubb34 \uc800\uc640 \uc81c \uc640\uc774\ud504 \uc774\uc57c\uae30\ub97c \ud558\ub294\uac83 \uac19\uc558\uace0.. \uc544\uc774\uc640 \uc7a5\ubaa8\ub2d8\uc740 \uc5c6\uc5c8\uc9c0\ub9cc \uadf8\uc678\uc801\uc778 \uc774\uc57c\uae30\ub4e4\uc774 ...",
+    "date": "2021.05.07",
+    "good": 4,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd457d2ae2070876d57e"
+    },
+    "rate": 2,
+    "note": "\ub2f4\ub2f4\ud558\uace0 \ub2f4\ubc31\ud558\uace0 \ub2f4\ub300\ud558\ub2e4",
+    "date": "2021.05.05",
+    "good": 4,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd457d2ae2070876d57f"
+    },
+    "rate": 2,
+    "note": "\ubb50\uc9c0??\ubb34\uc2a8 \uc598\uae30\uc9c0?\ubb58 \ub9d0\ud558\ub824\ub294\uac78\uae4c?",
+    "date": "2021.05.01",
+    "good": 4,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd457d2ae2070876d580"
+    },
+    "rate": 6,
+    "note": "\uc794\uc794\ud558\uae34 \ud558\ub354\ub77c...\uadfc\ub370 \uacbd\uc758\uc801\uc778 \ubaa8\uc6b0\uba3c\ud2b8\ub294 \uc5c6\ub354\ub77c.\uae00\uc384..",
+    "date": "2021.04.30",
+    "good": 4,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd457d2ae2070876d581"
+    },
+    "rate": 2,
+    "note": "\uc7ac\ubc0c\uc74c",
+    "date": "2021.04.28",
+    "good": 4,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd457d2ae2070876d582"
+    },
+    "rate": 2,
+    "note": "\ubcf4\ub294 \ub0b4\ub0b4 \uace0\uad6c\ub9c8 \ub2f5\ub2f5.. \uacb0\ub9d0\ub3c4 \ub2f5\ub2f5.. \uc9c0\ub8e8\ud558\uace0 \ub2f5\ub2f5\ud568. \uc0c1 \ubc1b\ub294 \uc601\ud654\ub4e4 \uacf5\ud1b5\uc810: \ubcf4\uba74 \uc7ac\ubbf8\uc5c6\uc74c",
+    "date": "2021.04.28",
+    "good": 4,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd457d2ae2070876d583"
+    },
+    "rate": 3,
+    "note": "\ubbf8\ub098\ub9ac \uc5f0\uad00\uc131 1\ub3c4 \uc5c6\uace0 \u314b\u314b\u314b \uc65c \uc81c\ubaa9\uc744 \ubbf8\ub098\ub9ac\ub77c\uace0 \ucc45\uc815\ud588\ub294\uc9c0\ub3c4 \uc758\ubb38\uc774\ub124\uc694.  \uac70\uae30\uc5d0 \uc0c1 \ubc1b\uc740 \uadf8 \ubd84\uc758 \uc5f0\uae30\ub825\ub3c4 \uc758\uc2ec\ub4dc\ub294 \uac8c \uac4d \ud55c\uad6d\ub4dc\ub77c\ub9c8\uc5d0 \ub098\uc624\ub294 \uc2dc\uc5b4\uba38\ub2c8 \uadf8 \uc774\uc0c1\uc774\ud558\ub3c4 \uc544\ub2d8.  \ub300\uccb4 \uc774 \uc601\ud654\uac00 \uadf8\ub807\uac8c \uc2a4\ud3ec\ud2b8\ub77c\uc774...",
+    "date": "2021.04.27",
+    "good": 4,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd457d2ae2070876d584"
+    },
+    "rate": 6,
+    "note": "\uc7ac\ubbf8\uc788\ub294 \ub0b4\uc6a9\uc740\uc5c6\uc9c0\ub9cc\uc794\uc794\ud558\uac8c \uc2a4\uba70\ub4e4\uac8c\ub418\ub294 \uc601\ud654\uc804\uc9c0\ub8e8\ud558\uc9c0\uc54a\uac8c \ubab0\uc785\ud574\uc11c\ubd24\uc5b4\uc694",
+    "date": "2021.04.26",
+    "good": 4,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd457d2ae2070876d585"
+    },
+    "rate": 2,
+    "note": "\ubaa8\ub974\uaca0\uc5b4\uc694.. \uc65c \uc5b4\ub5a4\ubd80\ubd84\uc5d0\uc11c \uc724\uc5ec\uc815\uc774 \uc0c1\uc744\ube45\uc788\ub294\uc9c0.... \uc9c4\uc9dc \uc0c1\ub9cc\uc544\ub2c8\uba74 \uc548\ubcfc\uc601\ud654",
+    "date": "2021.04.26",
+    "good": 4,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd457d2ae2070876d586"
+    },
+    "rate": 6,
+    "note": "\ubbf8\ub098\ub9ac....\uc7a1\ucd08\uac19\uc774 \uc9d3\ubc1f\ud600\ub3c4 \uc77c\uc5b4\ub098\ub294 \ud55c\uad6d\uc778\uc758 \uadfc\uc131",
+    "date": "2021.04.26",
+    "good": 4,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd457d2ae2070876d587"
+    },
+    "rate": 2,
+    "note": "\ub0b4\uac00 \ubcf8 \uc601\ud654 \uc911\uc5d0 \ucd5c\uc545\uc740 \uc544\ub2c8\uc5ec\ub3c4 \uadf8 \uc5b8\uc800\ub9ac\uc5d0  \uac00\uae5d\ub2e4. \uae30\ub300\uac00 \ucee4\uc11c \ub9cc\uc740 \uc544\ub2c8\ub9ac\ub77c. \uadf8\ub0e5 \uc2a4\ud1a0\ub9ac \uc804\uac1c\uac00 \ubb50\uac00 \uc5c6\ub2e4. \uadf8\ub0e5 \uc778\uc0dd \uadf9\uc7a5 \uc81c\uc77c \ubb34\ub09c\ud55c \ud3b8\uc744 \uac10\ud765 \uc5c6\uc774 \ubcf8 \ub290\ub08c\uc774\ub2e4.",
+    "date": "2021.04.25",
+    "good": 4,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd457d2ae2070876d588"
+    },
+    "rate": 2,
+    "note": "\ub125\ud50c\ub809\uc2a4\ub85c \ubcf8\uac8c \uc2e0\uc758\ud55c\uc218\ub2e4 \uc9c4\uc9dc...",
+    "date": "2021.04.25",
+    "good": 4,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd457d2ae2070876d589"
+    },
+    "rate": 2,
+    "note": "\ucd08\uc911\ubc18\uae4c\uc9c4 \ubbf8\uad6d\uc5d0 \uc815\ucc29\ud558\ub294 \uc774\ubbfc\uc790\uc758 \uc77c\ub300\uae30\uac00 \ub9e4\uc6b0 \uc7ac\ubc0c\uace0 \ud765\ubbf8\uc9c4\uc9c4\ud558\ub2e4. \uac00\uc871\uac04\uc758 \uc815\uc11c \ubcc0\ud654\ub3c4 \uc77c\ud488. \ud558\uc9c0\ub9cc \ud6c4\ubc18\ubd80\uc5d0 \uac1c\uc5f0\uc131 \uc5c6\ub294 \uc5b5\uc9c0\uc804\uac1c+\uc5b5\uc9c0 \uac10\ub3d9\uc774 \ub9e4\uc6b0 \uc9dc\uc99d\ub098\uac8c\ud55c\ub2e4. \uc724\uc5ec\uc815\ub2d8\uc758 \uc218\uc0c1\uc774 \uce90\ub9ac\ud55c \uc601\ud654. \ub0a8\uc790\uc544\uc774\ub3c4 \uadc0...",
+    "date": "2021.04.24",
+    "good": 4,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd457d2ae2070876d58a"
+    },
+    "rate": 2,
+    "note": "\uc2a4\ud3ec\uc77c\ub7ec\uac00 \ud3ec\ud568\ub41c \uac10\uc0c1\ud3c9\uc785\ub2c8\ub2e4. \uac10\uc0c1\ud3c9 \ubcf4\uae30",
+    "date": "2021.04.20",
+    "good": 4,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd457d2ae2070876d58b"
+    },
+    "rate": 2,
+    "note": "\uc2a4\ud1a0\ub9ac\uac00 \uc5c9\uc131\ud55c \uc601\ud654\uac19\uc544\uc694\ub9c8\ubb34\ub9ac\uac00 \uc5c9\ub9dd\uc778~~ \uc9c0\ub8e8\uadf8\uc790\uccb4\uc600\uc5b4\uc694",
+    "date": "2021.04.11",
+    "good": 4,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd457d2ae2070876d58c"
+    },
+    "rate": 2,
+    "note": "\uc0c1\ubc1b\uc740 \uc601\ud654 \uc7ac\ubc0c\ub294\uac70 \ubcf8\uc801\uc788\ub0d0?",
+    "date": "2021.04.10",
+    "good": 4,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd457d2ae2070876d58d"
+    },
+    "rate": 2,
+    "note": "\ud64d\ubcf4\uac00   \ubbf8\ub098\ub9ac\ub97c   \uc0b4\ub9b0\uac70\uc9c0\uc65c  \ub3c8\uc8fc\uace0  \ubd24\ub098  \ud6c4\ud68c\uc2a4\ub7fd\ub124\uc694",
+    "date": "2021.04.07",
+    "good": 4,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd457d2ae2070876d58e"
+    },
+    "rate": 2,
+    "note": "\uc65c \uc0c1\ubc1b\uc558\ub294\uc9c0 \ubab0\uac9f\uc74c. \uac4d \uc2ec\uc2ec\ud55c \uc601\ud654. \uc724\uc5ec\uc815\uc528 \ub538\ub85c \ub098\uc628\ubd84 \uc5f0\uae30\uac00 \ub354 \uc88b\uc558\uc74c",
+    "date": "2021.03.25",
+    "good": 4,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd457d2ae2070876d58f"
+    },
+    "rate": 7,
+    "note": "\ub313\uae00\ud3c9\uc774 \uc548\uc88b\uc544\uc11c \uae30\ub300\uc548\ud558\uace0 \ubd24\uc9c0\ub9cc \uc815\ub9d0\uac10\ub3d9\uc774 1\ub3c4\uc5c6\ub124\uc694",
+    "date": "2021.03.09",
+    "good": 4,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd457d2ae2070876d590"
+    },
+    "rate": 8,
+    "note": "\ub3c4\ub300\uccb4? \uc65c?  \ub77c\ub294  \ub2e8\uc5b4\ub9cc \ub098\uc635\ub2c8\ub2e4. \uc194\uc9c1\ud788\uadf8 \uc5b4\ub5a4  \uc694\uc18c\uac00  \ud558\ub098\ub3c4 \uc5c6\uad70\uc694.",
+    "date": "2021.03.06",
+    "good": 4,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd457d2ae2070876d591"
+    },
+    "rate": 1,
+    "note": "\ubbf8\uad6d\uc774 \uc5f4\uad11\ud55c \uc601\ud654\ub77c \uc5c4\uccad \uae30\ub300\ud588\ub294\ub370. \uc74c? \ub108\ubb34 \uc794\uc794\ud558\uc796\uc544..  \uc0ac\uc2e4 \ud55c\uad6d\uc5d0 \uc774\uc815\ub3c4 \uc601\ud654\ub294 \uc0ac\uc2e4 \ub110\ub9ac\uc9c0 \uc54a\uc558\ub098? \ub098\uc058\uc9c0 \uc54a\uc558\ub294\ub370 \ub108\ubb34 \ud070 \uae30\ub300\ub294 \ud558\uc9c0\ub9c8\uc2dc\ub77c.",
+    "date": "2021.05.17",
+    "good": 5,
+    "bad": 1,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd457d2ae2070876d592"
+    },
+    "rate": 2,
+    "note": "\uc7a5\uba74\uc5f0\uacb0\uc774 \uc5b4\uc0c9\ud558\uace0 \uc8fc\uc81c\ub294 \ub69c\ub837\ud558\ub098 \ub300\ubcf8\uc774 \ub108\ubb34 \uc5c9\uc131\ud568",
+    "date": "2021.05.09",
+    "good": 5,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd467d2ae2070876d593"
+    },
+    "rate": 8,
+    "note": "\uadf8\ub0e5 \ub2e4\ud050\ub098 \ube44\uae09 \uc601\ud654 \ubcf4\ub294\uac8c \ub0ab\uac83\ub2e4.",
+    "date": "2021.05.05",
+    "good": 5,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd467d2ae2070876d594"
+    },
+    "rate": 6,
+    "note": "\uacb0\ub9d0\uc774 \ubb50\uc57c \uc774\uac8c? \uc65c \uc0c1\uc744 \ubc1b\uc558\uc9c0? \uc6a9\ub450\uc0ac\ubbf8\uac00 \ub530\ub85c \uc5c6\ub124 \ubb58 \ub9d0\ud558\uace0\uc790 \ud558\ub294\uc9c0 \ubaa8\ub974\uaca0\ub2e4. \uadf8\ub0e5 \ubbf8\uad6d\uc5d0\uc11c \uc544\uc2dc\uc544\uc778 \ub2e8\ub3c5\uc73c\ub85c \ub098\uc628 \uc601\ud654\uac00 \uc5c6\uc5b4 \uc2e0\uae30\ud574\uc11c \uc92c\ub098 \uc5b4\uc774\uac00 \uc5c6\uc744 \uc815\ub3c4\ub85c \uc2a4\ud1a0\ub9ac\uac00 \ud615\ud3b8 \uc5c6\ub2e4. \uc5b5\uc9c0\ub85c \uafb8\uc5ed\uafb8\uc5ed \ub123\uc740...",
+    "date": "2021.05.02",
+    "good": 5,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd467d2ae2070876d595"
+    },
+    "rate": 1,
+    "note": "\uc2a4\ud3ec\uc77c\ub7ec\uac00 \ud3ec\ud568\ub41c \uac10\uc0c1\ud3c9\uc785\ub2c8\ub2e4. \uac10\uc0c1\ud3c9 \ubcf4\uae30",
+    "date": "2021.05.01",
+    "good": 5,
+    "bad": 1,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd467d2ae2070876d596"
+    },
+    "rate": 2,
+    "note": "\ucd5c\uc545\ucd5c\uc545 \uc0b0\uc73c\ub85c\uac00\uace0 \ubc14\ub2e4\uc5d0\ube60\uc9c0\uace0 \ucd1d\uccb4\uc801\ub09c\uad6d",
+    "date": "2021.04.30",
+    "good": 5,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd467d2ae2070876d597"
+    },
+    "rate": 2,
+    "note": "\uc5b4\ub514\uae4c\uc9c0\ub098 \uc804\ubb38\uac00\uc758 \ud3c9\uc740 \uac70\ub974\ub294 \uac83\uc774 \ub9de\ub294 \uac70 \uac19\ub2e8 \uc0dd\uac01\uc774 \ub4ed\ub2c8\ub2e4~ \uc544\uc5ed\uc774\uc678\uc758 \ubc30\uc5ed\uc740 \uc815\ub9d0~ \uadf8\ub0e5 \uadf8\ub7ac\uace0~ \uac10\ub3c5\uc740 \uc790\uc2e0\uc774 \ub290\ub080 \uac10\uc815\uc744 \uc5ec\ub7ec \uc0ac\ub78c\ub4e4\uc5d0\uac8c \ub4e4\ub824 \uc8fc\uae30\uc5d4 \ubd80\uc871 \ud55c \uac70 \uac19\uc558\uc2b5\ub2c8\ub2e4~ \uc0c1\uc744 \uc704\ud55c \uc601\ud654\uc778\uc9c0 \u314e\u314e\u314e ...",
+    "date": "2021.04.29",
+    "good": 5,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd467d2ae2070876d598"
+    },
+    "rate": 6,
+    "note": "\ub098\ub294 \ud558\ub098\ub3c4 \uacf5\uac10\uc774 \uc548\ub41c\ub2e4. \uc0c1 \ub9ce\uc774 \ubc1b\uc73c\uba74 \ub2c8\ub4e4\uc740 \ucc2c\uc0ac\ub97c \ubcf4\ub0b4\uaca0\uc9c0.",
+    "date": "2021.04.28",
+    "good": 5,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd467d2ae2070876d599"
+    },
+    "rate": 2,
+    "note": "\uc774\uac8c \uc65c \uc791\ud488\uc131 \ud3c9\uac00\ub97c \ubc1b\ub178. \ubbf8\uad6d\uc778\uc740 \ucf54\ub85c\ub098 \uac78\ub824\uc11c \ub208\ub3c4 \uc2e4\uba85\ud588\ub178? \ub0b4\uac00 \uc5f0\uae30\ud574\ub3c4 \uc724\uc5ec\uc815 \ube7c\uace0 \ub098\uba38\uc9c0\ubcf4\ub2e4 \uc5f0\uae30 \uc798\ud560 \uc790\uc2e0\uc788\ub2e4.",
+    "date": "2021.04.27",
+    "good": 5,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd467d2ae2070876d59a"
+    },
+    "rate": 2,
+    "note": "\uc9c4\uc9dc \uc9c0\ub8e8\ud558\uace0 \uc5f0\uae30\ub3c4 \uc5b4\uc0c9\ud558\uace0 \uc2a4\ud1a0\ub9ac\ub3c4 \ud2b9\ubcc4\ud55c\uac70 \ubaa8\ub974\uaca0\ub124\uc694.\ub300\uc2e4\ub9dd~",
+    "date": "2021.04.27",
+    "good": 5,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd467d2ae2070876d59b"
+    },
+    "rate": 1,
+    "note": "\uc801\ub2f9\ud788 \uad1c\ucc2e\uc2b5\ub2c8\ub2e4. \uc81c2\uc758 \uae30\uc0dd\ucda9\uc744 \uae30\ub300\ud558\uace0\ubcf8\ub2e4\uba74 \uc2e4\ub9dd\uc774 \ud074\uac70\uad6c\uc694. \uc724\uc5ec\uc815\uc5f0\uae30\uc5d0 \uae30\ub300\ub97c \ud588\ub294\ub370 \uae30\ub300\uc774\ud558\uc600\uad6c\uc694. (La\ube44\ud3c9\uac00 \uc870\uc5f0\uc0c1\uc774 \uc880 \uc758\uc544\uc2a4\ub7ec\uc6b8\uc815\ub3c4) \ub0a8\uc790\uc544\uc774\uac00 \uadf8\ub098\ub9c8 \uc601\ud654\ub97c \uc798\uc0b4\ub838\ub2e8? \uc0dd\uac01\ub4e4\uc815\ub3c4\uc600\ub124\uc694.\uc804\uccb4\uc801\uc778\uad6c\uc131...",
+    "date": "2021.04.26",
+    "good": 5,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd467d2ae2070876d59c"
+    },
+    "rate": 1,
+    "note": "\uce5c\uc815\uc5c4\ub9c8\uac00 \ud55c\uad6d\uc5d0\uc11c\ubd80\ud130 \ube44\ud589\uae30 \ud63c\uc790 \ud0c0\uace0 \ud798\ub4e4\uac8c \uc624\uc168\uc744\ud150\ub370 \uacf5\ud56d\uc73c\ub85c \uc544\ub2c8 \uc9d1 \uc55e\uc5d0\uc11c \ub9c8\uc911\ud558\ub294 \uac83\ub3c4 \uc544\ub2c8\uace0 \ud560\uba38\ub2c8\uac00 \ubb38\uc744 \uc5f4\uace0 \uc548\uc73c\ub85c \ub4e4\uc5b4 \uc640 \uc778\uc0ac\ud558\ub294 \uac83\uc73c\ub85c \uc5f0\ucd9c\ud55c\uac83\uc740 \uc880 \uc774\ud574\uac00 \uc548\ub410\ub124\uc694. \ud55c\uc608\ub9ac\uc528 \uc5bc\ub9c8\uc804 \uc885\ub8cc\ud55c ...",
+    "date": "2021.04.26",
+    "good": 5,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd467d2ae2070876d59d"
+    },
+    "rate": 2,
+    "note": "\uc194\uc9c1\ud788 \uc7ac\ubbf8\uc5c6\ub124\uc694 \ube44\ucd94~",
+    "date": "2021.04.26",
+    "good": 5,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd467d2ae2070876d59e"
+    },
+    "rate": 1,
+    "note": "\ud3c9\uc810\uc774 \uc65c\uc774\ub9ac \ub192\uc9c0????\ub098\ub3c4 \uac10\ub3c5\ud558\uaca0\ub2e4 \u3161.\u3161;; \uc5b4\ub5bb\uac8c \uc544\uce74\ub370\ubbf8\uc0c1 \ud0c4\uac74\uc9c0 \uc758\ubb38\uc784",
+    "date": "2021.04.25",
+    "good": 5,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd467d2ae2070876d59f"
+    },
+    "rate": 1,
+    "note": "\ubbf8\ub098\ub9ac ~~\ubbf8\ub098\ub9ac \uc6d0\ub354\ud480~^^\ud328\ub2c8\uc2a4 \ube0c\ub85c\ud070   \ub118 \uc7ac\ubc0c\uc5c8\uc5b4\uc694~^^",
+    "date": "2021.04.25",
+    "good": 5,
+    "bad": 1,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd467d2ae2070876d5a0"
+    },
+    "rate": 1,
+    "note": "\uadf8\ub0e5 \uc794\uc794\ud558\ub2e4\uac00 \ub05d\ub098\ub294\ub370 10\uc790\ub77c\ub2c8",
+    "date": "2021.04.12",
+    "good": 5,
+    "bad": 1,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd467d2ae2070876d5a1"
+    },
+    "rate": 1,
+    "note": "\uc74c.. \uc724\uc5ec\uc815\uc774 \uac01\uc885 \uc601\ud654\uc81c\uc5d0\uc11c \uc0c1 \ubc1b\uc740 \uac83\uc740 \ub300\ub2e8\ud558\uc9c0\ub9cc \uadf8\ub140\uc758 \uc5f0\uae30\ub97c \ube0c\ub77c\uc6b4\uad00\uc5d0\uc11c \uc790\uc8fc \ubcf4\ub294 \ud55c\uad6d\uc778\uc73c\ub85c\uc11c \uc0ac\uc2e4 \uc774\ubc88 \ubbf8\ub098\ub9ac\uc5d0\uc11c\uc758 \uc5f0\uae30\uac00 \ub531\ud788 \ub180\ub78d\uc9c0 \uc54a\ub2e4. \uc724\uc5ec\uc815\uc740 \ubb34\uc2a8 \ubc30\uc5ed\uc744 \ub9e1\uc544\ub3c4 \uc724\uc5ec\uc815\uc73c\ub85c \uc5f0\uae30\ud558\ub294\ub370 \uc774\ubc88\uc5d0\ub3c4...",
+    "date": "2021.04.05",
+    "good": 5,
+    "bad": 1,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd467d2ae2070876d5a2"
+    },
+    "rate": 4,
+    "note": "\uc774\uac8c? \uc815\ub9d0 \uc774\uac8c!???",
+    "date": "2021.03.27",
+    "good": 5,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd467d2ae2070876d5a3"
+    },
+    "rate": 1,
+    "note": "\uc0c1\uae4c\uc9c0 \ubc1b\uc740 \uc601\ud654\ub97c \ud3c9\ud558\uae30\ub294 \ubb50\ud558\uc9c0\ub9cc \uac1c\uc778\uc801\uc73c\ub85c \uc9c0\ub8e8\ud574\uc11c \uc911\uac04\uc5d0 \ub098\uac00\ub824\uace0 \ud588\ub2e4",
+    "date": "2021.03.24",
+    "good": 5,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd467d2ae2070876d5a4"
+    },
+    "rate": 1,
+    "note": "\uc778\uac04\uc801\uc778 \uc77c\ub4e4\uc744 \uc798 \uadf8\ub824\ub0b4\uc5c8\uc9c0\ub9cc \uc0dd\uac01\ubcf4\ub2e4 \uc0dd\uac01\ud560 \uc694\uc18c\ub97c \uc798 \uc8fc\uc9c0\uc54a\uc544\uc11c \uae30\uc0dd\ucda9\uacfc \uac19\uc774 \uae30\ub300\ud588\uc9c0\ub9cc\ubd84\uc11d\uc744 \ud560\uac83\ub4e4\uc774 \uadf8\ub2e5 \uae30\ub300\ud588\ub358 \uac83\ubcf4\ub2e4 \ub9ce\uc9c0 \uc54a\uc544\uc544\uc27d\uace0 \uacb0\ub9d0\uc5d0\uc11c \uc784\ud329\ud2b8\uac00 \uc5c6\uc5b4\uc11c \ub180\ub790\uc2b5\ub2c8\ub2e4",
+    "date": "2021.03.21",
+    "good": 5,
+    "bad": 1,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd467d2ae2070876d5a5"
+    },
+    "rate": 1,
+    "note": "\ubbf8\uad6d\ub188\ub4e4\uc5d0\uac90 \uc774\ub7f0 \uc601\ud654\uac00 \ud1b5\ud558\uc9c0. \uc11c\ud3b8\uc81c \uac19\uc740 \uc601\ud654\ub294 \uc774\ud574\ub3c4 \ubabb\ud574\uc11c \uc4f0\ub808\uc2dc \ucde8\uae09\ubc1b\uc558\uc9c0...\uadf8\ub0e5 \ud754\ud55c \uc601\ud654. \ub4dc\ub77c\ub9c8.\uc5ec\uba85\uc758 \ub208\ub3d9\uc790\uac00 \ucc9c\ubc30 \ub0ab\ub2e4.",
+    "date": "2021.05.12",
+    "good": 6,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd467d2ae2070876d5a6"
+    },
+    "rate": 1,
+    "note": "\ub0b4\uac00 \ubb58 \ubcf8\uac70\uc9c0.. \uc9c4\uc2ec \uc2e4\ub9dd\ud588\ub2e4...",
+    "date": "2021.05.07",
+    "good": 6,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd467d2ae2070876d5a7"
+    },
+    "rate": 1,
+    "note": "\ubbf8\ub098\ub9ac\ub9d0\uace0 \uace0\uc0ac\ub9ac\ub294 \uc5c6\ub0d0?",
+    "date": "2021.05.06",
+    "good": 6,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd467d2ae2070876d5a8"
+    },
+    "rate": 1,
+    "note": "\uc601\ud654\ubd24\ub294\u3137\u3154\uc544\ubb34\uc0dd\uac01\uc5c6\uc774 \ubcf4\uae30\uc5d4 \uc88b\uc740\ub370\ub0b4\uc6a9\uc774 \ub531\ud788 \uc784\ud329\ud2b8\uac00\uc5c6\uc74c.\ubb50\ubb3c\ub860 \uadf8\ub0e5 \uc2a4\ud1a0\ub9ac\ub294 \ubcfc\ub9cc\ud568\uae30\ub300\uc774\ud558",
+    "date": "2021.05.06",
+    "good": 6,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd467d2ae2070876d5a9"
+    },
+    "rate": 1,
+    "note": "\uc774\uac8c \uc9c4\uc9dc \uc65c? \ubaa8\ub450\ub4e4 \uc5f0\uae30\ub3c4 \uc5b4\uc0c9\ud558\uace0",
+    "date": "2021.05.05",
+    "good": 6,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd467d2ae2070876d5aa"
+    },
+    "rate": 2,
+    "note": "\uc2a4\ud3ec\uc77c\ub7ec\uac00 \ud3ec\ud568\ub41c \uac10\uc0c1\ud3c9\uc785\ub2c8\ub2e4. \uac10\uc0c1\ud3c9 \ubcf4\uae30",
+    "date": "2021.05.03",
+    "good": 6,
+    "bad": 2,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd467d2ae2070876d5ab"
+    },
+    "rate": 4,
+    "note": "\ubd88\uba74\uc99d\uc73c\ub85c \uace0\uc0dd\ud558\uc2dc\ub294 \ubd84\ub4e4\uaed8 \ucd94\ucc9c\ub4dc\ub9bd\ub2c8\ub2e4",
+    "date": "2021.05.03",
+    "good": 6,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd467d2ae2070876d5ac"
+    },
+    "rate": 2,
+    "note": "\uc798 \ubaa8\ub974\uaca0\uc5b4\uc694 \ubbf8\uad6d\ud310 \uc804\uc6d0\uc77c\uae30 \uac19\uc740 \ub290\ub08c\uc544\ub798 \ud638\ud3c9 \ud558\uc2e0 \ub0b4\uc6a9\ub4e4\uc744 \ubcf4\uba74 \ud6cc\ub96d\ud55c\uc791\ud488\uc774\ub2e4 \ub77c\ub294 \uae00\ub4e4\uc774 \uc788\ub294\ub370 \uae00\uc384\uc694 \ubbf8\uad6d\uc778\ub4e4\uc744 \ube44\ub86f\ud574 \ubc31\uc778\ub4e4\uc774 \ubcf4\uae30\uc5d0\ub294 \uc7a5\uba74\uc7a5\uba74 \ubc30\uc6b0\ub4e4 \uc5f0\uae30\ub4f1 \ub2e4\ub978 \uc601\ud654\ub4e4\uc5d0\uc11c \ub290\uaef4\ubcf4\uc9c0\ubabb\ud55c \ubb38\ud654\uc801\ucc28\uc774\uac00 \uc544\ub2cc...",
+    "date": "2021.05.02",
+    "good": 6,
+    "bad": 2,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd467d2ae2070876d5ad"
+    },
+    "rate": 2,
+    "note": "\uc9c4\uc9dc \ub178\uc7bc\uc544\ub2c8 \uc774\uac8c \uc815\ub9d0\ub85c \uc7ac\ubc0c\ub098\uc694?",
+    "date": "2021.04.29",
+    "good": 6,
+    "bad": 2,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd467d2ae2070876d5ae"
+    },
+    "rate": 1,
+    "note": "\ubb50\uc8e0.. \uc774 \uc560\ub9e4\ubaa8\ud638\ud568... \uc194\uc9c1\ud788 \ub108\ubb34 \uc2e4\ub9dd\uc785\ub2c8\ub2e4. \uae30\uc2b9\uc804 \uc794\uc794\ud558\ub2e4 \ubabb\ud574 \uc9c0\ub8e8\ud568\uc758 \ub05d\ud310\uc655! \ubcf4\ud1b5 \uc800\uc608\uc0b0 \ub3c5\ub9bd\uc601\ud654\ubcf4\ub2e4\ub3c4 \ubabb\ud55c... \ud55c\uad6d\uc778 \uc774\ubbfc\uc790\uc778\ub370 \ud55c\uad6d\ub9d0\uc774 \ub108\ubb34 \uc11c\ud234\ub7ec\uc11c \ubcf4\ub294\ub0b4\ub0b4 \uac70\uc2ac\ub9bc... \uc81c\ubaa9\ub9cc \ubbf8\ub098\ub9ac\uc778 \uacb0\ub9d0\uc774...",
+    "date": "2021.04.27",
+    "good": 6,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd467d2ae2070876d5af"
+    },
+    "rate": 1,
+    "note": "\ucc38~ \uadf8\ub0e5 \uadf8\ub807\ub124\uc694\uc880 \ub9c8\uc74c\uc744 \ucac4\uae43\ud558\uac8c\ud588\ub2e4 \ub193\uc558\ub2e4 \ud558\ub294\uacf3\uc774 \ud55c\uacf3\ub3c4 \uc5c6\uace0 \uadf8\ub0e5 \ubc0b\ubc0b \ud558\ub124\uc694",
+    "date": "2021.04.27",
+    "good": 6,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd467d2ae2070876d5b0"
+    },
+    "rate": 1,
+    "note": "\uc74c.. \ubb54\uac00 \ub625\uc2f8\uace0 \uc548\ub2e6\uc740 \ub290\ub08c\uc774\uc5d0\uc694.. \uc724\uc5ec\uc815\ub2d8\uc774 \uc5f0\uae30\ub85c \ud558\ub4dc\uce90\ub9ac\ud558\uc168\uace0 \uc2a4\ud2f0\ube10 \uc5f0\uc740 \ud55c\uad6d\uc758 \uc544\ubc84\uc9c0\uac00 \uc544\ub2c8\uace0 \uad50\ud3ec\ub290\ub08c\uc774 \ub108\ubb34\ub098\uc11c \uc544\uc26c\uc6e0\uc5b4\uc694. \uc5d4\ub529\ub54c\ub294 \uc544\ubb50\uc9c0 \ub05d\ub0ac\ub098? \uc774\ub7f0\ub290\ub08c \u3160 \uae30\ub300\ub97c \ub108\ubb34 \ud574\uc11c \ubd24\ub098\ubd10\uc694",
+    "date": "2021.04.27",
+    "good": 6,
+    "bad": 2,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd467d2ae2070876d5b1"
+    },
+    "rate": 1,
+    "note": "\uae30\ub300\uc774\ud558 \uc9c0\ub8e8\ud574 \uc8fd\uc744 \ubed4 \ud588\ub124",
+    "date": "2021.04.27",
+    "good": 6,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd467d2ae2070876d5b2"
+    },
+    "rate": 1,
+    "note": "\uc878\ub824\uc694 \uadf8\ub0e5 \uc878\ub824\uc694 \ud750\uaddc\ud750\uaddc\ud750\uaddc",
+    "date": "2021.04.26",
+    "good": 6,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd467d2ae2070876d5b3"
+    },
+    "rate": 1,
+    "note": "\ub0b4\uac00 \ubb58 \ubcf8\uac70\uc9c0.. \uc601\ud654\uad00\uc5d0\uc11c \uc878\uc740 \uac74 \ucc98\uc74c\uc774\ub2e4",
+    "date": "2021.04.26",
+    "good": 6,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd467d2ae2070876d5b4"
+    },
+    "rate": 1,
+    "note": "\uc9c4\uc9dc \uc774\ub807\uac8c \ub178\uc7bc\uc774\uc5ec\ub3c4 \ub418\ub294\uac74\uac00....\uc0c1\uc740 \ub3cc\ub824\uba39\uae30\uc778\uac00....",
+    "date": "2021.04.19",
+    "good": 6,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd477d2ae2070876d5b5"
+    },
+    "rate": 1,
+    "note": "\uc81c\ubc1c \ub0b4 \uc2dc\uac04 \ub3cc\ub824\uc918..",
+    "date": "2021.03.26",
+    "good": 6,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd477d2ae2070876d5b6"
+    },
+    "rate": 8,
+    "note": "\uc808\ub300.\ubcf4\uc9c0.\ub9c8\uc138\uc694. \uc6b0~~~",
+    "date": "2021.03.24",
+    "good": 6,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd477d2ae2070876d5b7"
+    },
+    "rate": 3,
+    "note": "\uc9c4\uc9dc \u314b\u314b\uad6d\ubf55 \ube7c\uace0\ubcf4\uba74 \ud3c9\uc810 2\uc810\uc900\ub2e4",
+    "date": "2021.03.22",
+    "good": 6,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd477d2ae2070876d5b8"
+    },
+    "rate": 1,
+    "note": "\uc194\uc9c1\ud788 \uc5ec\uc6b0\uc870\uc5f0\uc0c1\uae09 \uc5f0\uae30\uc778\uc9c0 \uc774\ud574\uac00 \uc548\ub428.",
+    "date": "2021.03.21",
+    "good": 6,
+    "bad": 2,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd477d2ae2070876d5b9"
+    },
+    "rate": 1,
+    "note": "\uc774\ub7f0 \uc5f0\uae30\ub85c \uc870\uc5f0\uc0c1? \uc544\uc26c\uc6b4\ub370",
+    "date": "2021.03.20",
+    "good": 6,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd477d2ae2070876d5ba"
+    },
+    "rate": 1,
+    "note": "\uc7ac\ubbf8 \uc5c6\ub294\ub370\uc694....",
+    "date": "2021.03.17",
+    "good": 6,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd477d2ae2070876d5bb"
+    },
+    "rate": 8,
+    "note": "\uc644\uc804 \ub178\uc7bc \uc7ac\ubbf8\uc5c6\uc74c.\u314b\u314b",
+    "date": "2021.03.04",
+    "good": 6,
+    "bad": 2,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd477d2ae2070876d5bc"
+    },
+    "rate": 1,
+    "note": "\ub2e4\ud050\uc784? \ub0b4 \uadc0\uc911\ud55c \uc2dc\uac04\uc744 \ub0e0\ub0e0\ud574\ubc84\ub9b0 \uc62c\ud574\uc758 \uc601\ud654\ub85c \uae30\uc5b5\ub420\ub4ef",
+    "date": "2021.05.09",
+    "good": 7,
+    "bad": 3,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd477d2ae2070876d5bd"
+    },
+    "rate": 1,
+    "note": "\uc5b4\uc81c \uc800\ub141 \uac00\uc871\uc774\ub791 \ubcf4\uace0\uc654\ub294\ub370 \uc194\uc9c1\ud788 \uadf8\uc800\uadf8\ub807\ub2e4\uace0 \ub290\uaef4\uc9c0\ub124\uc694..\u3160\u3160",
+    "date": "2021.05.08",
+    "good": 7,
+    "bad": 3,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd477d2ae2070876d5be"
+    },
+    "rate": 1,
+    "note": "\uae30\ub300\ud558\uace0 \ubd24\ub294\ub370 \ub300\uc0ac \ud558\ub098\ud558\ub098 \uc5b4\uc0c9\ud558\uace0 \ub0b4\uc6a9\ub3c4 \uadf8\ub2e5",
+    "date": "2021.05.04",
+    "good": 7,
+    "bad": 3,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd477d2ae2070876d5bf"
+    },
+    "rate": 8,
+    "note": "\ud3c9\uc810\uc774 \ub192\uc544\uc11c \ub0ae\ucd98\ub2e4. \uc9c0\ub8e8\ud558\uace0 \uacf5\uac10\ub3c4 \ubcc4\ub85c\uc548\ub428. \ud2b9\ud788 \uc774\uc601\ud654\uc5d0\uc11c \uc724\uc5ec\uc815\uc758 \uc5f0\uae30\uac00 \ub6f0\uc5b4\ub09c\ubd80\ubd84\uc774 \uc5c6\ub294\ub370 \ucc28\ub77c\ub9ac \uc2a4\ud2f0\ube10\uc5f0\uc774\ub098 \ud55c\uc608\ub9ac\ub97c \uc0c1\uc8fc\ub358\uc9c0 \u314b\u314b \ubbf8\uc2a4\ud14c\ub9ac\ub2e4",
+    "date": "2021.05.02",
+    "good": 7,
+    "bad": 3,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd477d2ae2070876d5c0"
+    },
+    "rate": 2,
+    "note": "\ub3c4\ub300\ucc44 \uc774\uac8c \ubb54 \ub0b4\uc6a9\uc774\uace0 \uc544 \uc7bc\uc774\ub4dc\ub7fd\uac8c\uc5c6\ub124\uc774\uac8c \uc601\ud654\ub0d0",
+    "date": "2021.04.28",
+    "good": 7,
+    "bad": 3,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd477d2ae2070876d5c1"
+    },
+    "rate": 6,
+    "note": "\ub108\ubb34 \uc7ac\ubbf8\uc5c6\ub2e4. \uac10\ub3d9? \uc5f0\uae30\ub825? \ubb50\uac00????",
+    "date": "2021.03.20",
+    "good": 7,
+    "bad": 3,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd477d2ae2070876d5c2"
+    },
+    "rate": 6,
+    "note": "\uc77c\ubcf4\uace0 \ubc11\uc548\ub2e6\uace0 \ub098\uc628 \ub4ef\ud55c \uacb0\ub9d0. \uc5f0\uae30\ub3c4 \uadf8\ub2e5... \ub0b4\uac00 \ubb58 \ubcf8\uac70\uc9c0?",
+    "date": "2021.03.20",
+    "good": 7,
+    "bad": 3,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd477d2ae2070876d5c3"
+    },
+    "rate": 10,
+    "note": "\ubc30\uc6b0\uc758 \uc5f0\uae30\ub825\uc740 \ub3cb\ubcf4\uc774\ub098 \ud0c4\ud0c4\ud55c \uc804\uac1c\ub294 \uc544\ub2cc \ub4ef! \uc678\uad6d\uc778\uc758 \uc785\uc7a5\uc5d0\uc11c\ub294 \uc5b4\uca54\uc9c0 \ubaa8\ub974\ub098 \ud55c\uad6d\uc778\uc758 \uc785\uc7a5\uc5d0\uc11c\ub294 \ud070 \uac10\ub3d9\uc744 \uc8fc\ub294 \uc601\ud654\ub294 \uc544\ub2cc \ub4ef! \uadf8\ub7ec\ub098 \ucd95\ud558\ud560 \uc77c!",
+    "date": "2021.03.15",
+    "good": 7,
+    "bad": 3,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd477d2ae2070876d5c4"
+    },
+    "rate": 8,
+    "note": "\ud130\ubb34\ub2c8\uc5c6\ub294 \uad6d\ubf55\uc5d0 \ube60\uc838\uc11c \ud5c8\uc6b0\uc801\uac70\ub9ac\uc9c0 \ub9d0\uc790",
+    "date": "2021.03.07",
+    "good": 7,
+    "bad": 3,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd477d2ae2070876d5c5"
+    },
+    "rate": 8,
+    "note": "\ud558.. \uae30\ub300\uac00 \ucef8\ub2e4 \uc815\ub9d0..",
+    "date": "2021.03.03",
+    "good": 7,
+    "bad": 3,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd477d2ae2070876d5c6"
+    },
+    "rate": 8,
+    "note": "\uc774 \uc601\ud654\uc758 \uc9c4 \uad50\ud6c8 : \uc55e\uc73c\ub85c \ubaa8\ub4e0 \uc608\uc220\uc791\ud488\uc740(\ubb38\ud559\uc601\ud654 \uc74c\uc545 \ubbf8\uc220 \ub4f1) \uc11c\uad6c\uc778\uc758 \uc2dc\uac01\uc5d0\uc11c \uc544\uc9c1 \ub098\uc624\uc9c0 \uc54a\uc740 \ud14c\ub9c8\ub97c \uc120\uc815\ud574\uc57c \ud788\ud2b8\ud55c\ub2e4. \uc11c\uad6c\uc778\uc5d0\uac90 \uc544\uc9c1 \uc0dd\uc18c\ud588\uc73c\ub2c8 \ub9c8\uce58 \ud504\ub791\uc2a4 \uc608\uc220\uc601\ud654\ucc98\ub7fc \uc794\uc794\ud55c \uc6b8\ub9bc\uc774 \uc788\uc5c8\uaca0\uc9c0....",
+    "date": "2021.03.03",
+    "good": 7,
+    "bad": 3,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd477d2ae2070876d5c7"
+    },
+    "rate": 1,
+    "note": "\uc774\uc601\ud654\ub294 \ubbf8\uad6d\uc778\ub4e4\ub9cc \uc88b\uc544\ud558\ub294\uac83 \uac19\uc5b4\uc694. \ubb54 \uc791\ud488\uc131\uc740 \u315c\uc774\uac83\ub3c4 \uc601\ud654\ub77c\uace0 \u315c",
+    "date": "2021.04.26",
+    "good": 8,
+    "bad": 4,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd477d2ae2070876d5c8"
+    },
+    "rate": 8,
+    "note": "\ubbf8\uad6d\uc774 \ubc30\uacbd\uc774\uc9c0\ub9cc \ud55c\uad6d\uc815\uc11c\uac00 \ub9ce\uc774 \ub290\uaef4\uc84c\uc5b4\uc694~ \uc544\uc5ed\ubc30\uc6b0\ub4e4\ub3c4 \uc5f0\uae30 \uc798\ud558\uace0 \uadc0\uc5ec\uc6cc\uc694 ^^ \uc601\ud654\ubcf4\ub294 \ub0b4\ub0b4 \uae34\uc7a5\ud558\uc9c0\uc54a\uc544\ub3c4 \ub418\uace0 \ubb54\uac00 \ud3b8\uc548\ud55c \ub290\ub08c\uc774 \ub4e4\uc5b4 \uc88b\uc558\uc5b4\uc694~ \uadf8\ub7f0\ub370 \ub05d \ub9c8\ubb34\ub9ac\uac00 ;;; \uc789?! \uc73c\ub85c \ub05d\ub098\uc11c \ubcc4 \ud558\ub098 \ube90\uc5b4...",
+    "date": "2021.04.23",
+    "good": 8,
+    "bad": 4,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd477d2ae2070876d5c9"
+    },
+    "rate": 1,
+    "note": "\uc774 \uc601\ud654\ub294 \uc774\ubbfc\uc790 \uc2a4\ud1a0\ub9ac \ub2e4\ub8ec \ud504\ub9ac\ubbf8\uc5c4\uc774 \ub9e4\uc6b0 \uc874\ub098 \ud06c\ub2e4. \uc4f0\ub894\uae30 \uc218\uc900\uc758 \ub300\uc0ac\ubd84\ub7c9\uacfc \uc2a4\ud1a0\ub9ac \uc18c\ubb38\ub09c \uc794\uce58\uc5d0 \uc0c1\ucc28\ub9bc\ub3c4 \uc548\ub41c \uc218\uc900",
+    "date": "2021.03.08",
+    "good": 8,
+    "bad": 4,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd477d2ae2070876d5ca"
+    },
+    "rate": 1,
+    "note": "\uc678\uad6d\uc5d0\uc11c \uc0c1\ubc1b\uc558\ub2e4\uace0 \ud3c9\uc810\uc774 \ub192\uc544\uc57c\ub418\ub294\uac83\uc740 \uc544\ub2c8\ub2e4. \uc544\ubb34\ub9ac \ud798\ub4e4\uace0 \ubaa8\ub4e0\uac8c \ubd88\uc774\ud0c0\ub3c4 \ubbf8\ub098\ub9ac\ucc98\ub7fc \uc6b0\ub9ac\ub294 \uc0b4\uc544\uac04\ub2e4? \uc774\uac74\ubb50 \uac1c\uc5f0\uc131\ub3c4 \uc5c6\uace0 \uac10\ub3d9\ub3c4 \uc5c6\uace0. \uc601\uc0c1\ubbf8\ub294 \uc88b\ub4dc\ub77c~~",
+    "date": "2021.03.07",
+    "good": 8,
+    "bad": 4,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd477d2ae2070876d5cb"
+    },
+    "rate": 1,
+    "note": "\ub0b4\ub3c8\ub0b4\uace0 \ubcf8 2021 \ucd5c\uc545... \u3161\u3161",
+    "date": "2021.03.07",
+    "good": 8,
+    "bad": 4,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd477d2ae2070876d5cc"
+    },
+    "rate": 1,
+    "note": "\uc601\uc0c1\ubbf8\ub294 \uc88b\uc6b0\ub098 \uae30\ub300 \uc774\ud558\uc600\uc2b5\ub2c8\ub2e4",
+    "date": "2021.03.06",
+    "good": 8,
+    "bad": 4,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd477d2ae2070876d5cd"
+    },
+    "rate": 1,
+    "note": "\uc720\uba85\ud574\uc11c \uc720\uba85\ud55c \uc601\ud654. \uc774\uc81c \uc81c\ubc1c \ubb34\uc2a8\uc0c1 \uc218\uc0c1 \uc774\ub7f0\uac70\uc5d0 \ub09c\ub9ac \uc880 \uadf8\ub9cc \ucce4\uc73c\uba74..",
+    "date": "2021.03.06",
+    "good": 8,
+    "bad": 4,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd477d2ae2070876d5ce"
+    },
+    "rate": 9,
+    "note": "\uadf8\ub0e5\uadf8\ub7ac\uace0.... \ubcf4\uace0\ub098\ub2c8 \ub2f5\ub2f5\ud558\ub124\uc694",
+    "date": "2021.03.08",
+    "good": 9,
+    "bad": 5,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd477d2ae2070876d5cf"
+    },
+    "rate": 1,
+    "note": "\uc0dd\uac01\ubcf4\ub2e4\ubc0b\ubc0b\ud55c\uc2a4\ud1a0\ub9ac...",
+    "date": "2021.03.08",
+    "good": 9,
+    "bad": 5,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd477d2ae2070876d5d0"
+    },
+    "rate": 1,
+    "note": "\uc190\uc790\uac00 \ud560\uba38\ub2c8\ub97c \ub9c8\uc74c\uc73c\ub85c \ubc1b\uc544\ub4e4\uc5ec\uac00\ub294 \uacfc\uc815\uc740 \ub2f9\uc5f0\ud558\uace0 \uc9c4\ubd80\ud558\uc5ec\ub3c4 \uac10\ub3d9\uc801\uc774\uc5c8\uc2b5\ub2c8\ub2e4.\ud55c\uad6d\uc801 \ub610 \ubbf8\uad6d\uc801 \uac00\uce58\uad00 / \uc885\uad50 \ub610 \ube44\uc885\uad50\uc778\uc758 \uac00\uce58\uad00 / \uac00\uc871\uc758 \uc720\ub300 \ub610\ub294 \uac1c\uc778\uc758 \uc131\ucde8 \ub4f1 \uc5ec\ub7ec \uac00\uce58\uad00\uc774 \uc5b4\uc9c0\ub7fd\uac8c \ud63c\uc7ac\ud558\ub294 \uc5b4\ub824\uc6c0 \uadf8...",
+    "date": "2021.03.07",
+    "good": 9,
+    "bad": 5,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd477d2ae2070876d5d1"
+    },
+    "rate": 9,
+    "note": "\uc804 \ubc30\uc6b0\ub4e4\uc758 \uc5f0\uae30\uc640 \uc601\uc0c1\ubbf8\uac00 \uc544\ub984\ub2e4\uc6e0\ub358\ub4ef... \uadf8\ub7ec\ub098 \uc2a4\ud1a0\ub9ac\uac00 \uc794\uc794\ud558\uace0 \uc778\ubb3c\uac04\uc758 \uac08\ub4f1\uc774 \uadf8 \uc548\uc5d0 \uae54\ub824\uc788\ub294 \uc0ac\ub791\uc774 \ubcf4\uc5ec\uc11c\uc778\uc9c0 \uacb0\ub9d0\uc744 \uc9d0\uc791\ud560\uc218 \uc788\ub294 \uac00\uc871\uc601\ud654\uac19\uc544\ubcf4\uc5ec\uc11c\uc778\uc9c0... \ud06c\ub2e4\uace0 \ub290\uaef4\uc9c0\uc9c0 \uc54a\uc558\uc5b4\uc694. \uadf8\ub7ec\ub098 \ubaa8\ub4e0 ...",
+    "date": "2021.03.07",
+    "good": 9,
+    "bad": 5,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd477d2ae2070876d5d2"
+    },
+    "rate": 1,
+    "note": "\ud655\uc2e4\ud788 \uc624\uc2a4\uce74\ub294 \uc7ac\ubbf8\ubcf4\ub2e4\ub294 \ubb54\uac00\ubaa8\ub97c \uc5b4\ub5a4 \ud2b9\uc774\uc810\uc5d0 \ub300\ud574 \ud3c9\uc744 \ub0b4\ub9ac\ub294\uac70 \uac19\ub2e4. \uc0ac\uc2e4 \uc6b0\ub9ac\ub098\ub77c\uac00 \uc544\ubb34\ub9ac \uac00\ubd80\uc7a5\uc801\uc774\ub77c \ud574\ub3c4 \uc800\ub7f0\uc2dd\uc73c\ub85c \ub9c8\uce58 \uc77c\ubcf8\ud48d\uc73c\ub85c \uac00\ubd80\uc7a5\uc801\uc774\uc9c4 \uc54a\uc558\ub2e4. \uadf8\ub9bc\uc740 \ud55c\uad6d\uc774\ubbfc\uac00\uc871 \uc774\uc57c\uae30\uc778\ub370. \ubcf4\uba74 \ubb54\uac00\ubaa8\ub97c \uc77c...",
+    "date": "2021.03.04",
+    "good": 11,
+    "bad": 7,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd477d2ae2070876d5d3"
+    },
+    "rate": 7,
+    "note": "\uc794\uc794\ud55c \uc6b8\ub9bc \uc2e0\ud30c\uac00 \uc544\ub2cc \ub2f4\ubc31\ud55c \uc5f0\ucd9c\uc774 \uc88b\uc558\ub2e4.",
+    "date": "2021.03.03",
+    "good": 12,
+    "bad": 8,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd477d2ae2070876d5d4"
+    },
+    "rate": 10,
+    "note": "\uac10\ub3c5 \ubb58\ub9d0\ud558\uace0 \uc2f6\uc740\uac70\ub0d0?",
+    "date": "2021.03.04",
+    "good": 29,
+    "bad": 25,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd477d2ae2070876d5d5"
+    },
+    "rate": 7,
+    "note": "\uac1c\uc778\uc801\uc73c\ub85c\ub294 \uc7ac\ubbf8\uc5c6\uc5c8\ub124\uc694...",
+    "date": "2021.07.06",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd477d2ae2070876d5d6"
+    },
+    "rate": 3,
+    "note": "\ucf54\uc5d1\uc2a4 \uba54\uac00\ubc15\uc2a4\uc5d0\uc11c \ubcf4\ub294\ub370 \uc606\uc790\ub9ac\uc5d0 \uc549\uc740 \uc544\uc90c\ub9c8 \ub450\uba85\uc774 \ub9c8\uc2a4\ud06c \ubc97\uace0 \uc804\ud600 \uc6c3\uae30\uc9c0 \uc54a\uc740 \uc7a5\uba74\uc5d0\uc11c \uacc4\uc18d \uae54\uae54\uac70\ub9ac\uba70 \uc6c3\ub294\ub370 \uc8fc\uba39\uc73c\ub85c \ucf54\ub97c \uac08\uae30\uace0 \uc2f6\uc5c8\ub2e4",
+    "date": "2021.06.28",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd477d2ae2070876d5d7"
+    },
+    "rate": 2,
+    "note": "\ud070\uc0c1\ubc1b\uc740 \uc601\ud654\ub77c\uace0 \ud574\uc11c \ub9ce\uc774 \uae30\ub300\ud558\uace0 \ubd24\uc5c8\uc5b4\uc694... ....\ucf54\ub85c\ub098\uc2dc\uc791\ud558\uace0 \uc601\ud654\uad00\uc5d0 \ucc98\uc74c \uac00\ubcf8\uac70\uc600\ub294\ub370.........",
+    "date": "2021.06.25",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd487d2ae2070876d5d8"
+    },
+    "rate": 6,
+    "note": "\uc774\uc815\ub3c4 \uc2a4\ud1a0\ub9ac \uac00\uc9c0\uace0 \uc601\ud654 \ucc0d\uc740 \uac15\uc2ec\uc7a5 \ubcf4\uc18c. \ubc30\uc6b0\uc758 \ud45c\uc815 \uc774\uac78\ub85c \uc601\ud654 \ub9cc\ub4e0\uac8c \ub2e4\ub2e4.",
+    "date": "2021.05.23",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd487d2ae2070876d5d9"
+    },
+    "rate": 9,
+    "note": "\uacf5\uac10\ub2a5\ub825\uc744 \uac00\uc9c4 \uad00\uac1d\uc774\ub77c\uba74 \uac00\uc2b4\uba39\uba39\ud568\uc5d0 \uc5d4\ub529 \ud06c\ub808\ub527 \uc5d0 \uc27d\uac8c \uc77c\uc5b4\ub098\uc9c0 \ubabb\ud560\uac70 \uac19\uc544\uc694.\ud55c\uc608\ub9ac\uc758 \uc5f0\uae30\ub3c4 \ud6cc\ub96d\ud558\uace0\ud2b9\ud788 \uc724\uc5ec\uc815\ub2d8\uc758 \ub208\ube5b\uc774 \uc78a\ud600\uc9c0\uc9c0\uac00 \uc54a\uc2b5\ub2c8\ub2e4....\uc5f0\ucd9c\uba74\uc5d0\uc11c \uac10\uc815\uc120\uc744 \ub9e4\ub044\ub7fd\uac8c \uc774\uc5b4\ub098\uac00\uace0 \uc788\ub2e4\ub294 \ub290\ub08c\uc774 \ub4e4\uc9c0\uc54a...",
+    "date": "2021.05.19",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd487d2ae2070876d5da"
+    },
+    "rate": 2,
+    "note": "\ud3c9\uc810\uc774 \ub192\uc740 \uc774\uc720\ub97c \ubaa8\ub974\uaca0\uc5b4\uc694...",
+    "date": "2021.05.09",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd487d2ae2070876d5db"
+    },
+    "rate": 2,
+    "note": "\ub118\ubc84\uc6d0! 1\uc810 \ub4dc\ub9bd\ub2c8\ub2e4^^",
+    "date": "2021.05.06",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd487d2ae2070876d5dc"
+    },
+    "rate": 6,
+    "note": "\uc0c8 \uc2dc\ub300\uc758 \ubbf8\uad6d \uc601\ud654. \uc5b4\ub514\uc5d0\ub3c4 \uc18d\ud558\uc9c0 \uc54a\ub294 \uc774\ub4e4\uc740 \uc18c\uc18d\uac10\uc744 \uc2a4\uc2a4\ub85c \ub9cc\ub4e4\uc5b4\ub0b4\uc57c \ud55c\ub2e4. \uc774\ubbfc\uc790\ub4e4\uc744 \uc704\ud55c \uc601\ud654\uc774\uae30 \ub54c\ubb38\uc5d0 \uc6b0\ub9ac\ub294 \ud06c\uac8c \uac10\ub3d9\ud558\uc9c0 \ubabb\ud560 \uc218\ub3c4 \uc788\ub2e4. \ud558\uc9c0\ub9cc \ubd84\uba85 \uc88b\uc740 \uc601\ud654.",
+    "date": "2021.05.05",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd487d2ae2070876d5dd"
+    },
+    "rate": 8,
+    "note": "\ud798\ub4e4\uc5c8\ub358 \uc6b0\ub9ac\uc9d1 \uc774\uc57c\uae30",
+    "date": "2021.05.03",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd487d2ae2070876d5de"
+    },
+    "rate": 2,
+    "note": "\ubb34\uc2a8 \uac10\ub3d9? \uc5b4\ub514\uc11c ? \uc0c1 \ubc1b\uc558\ub2e4\uace0 \uc694\ub780\uc744 \ub5a0\ub294 \uc601\ud654\ub294\ud558\ub098\uac19\uc774 \uc804\ud600 \uc544\ub2c8\uc62c\uc2dc\ub2e4\uac00 \uc815\ub2f5\uc778\uac8c\uc54c\ubc14\ub4e4\uc774 \uc62c\ub9b0 \ud3c9\uc810\ubcf4\uace0 \ud639\ud574\uc11c \uac00\uc9c8 \ub9c8\uc2dc\uae38.",
+    "date": "2021.05.01",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd487d2ae2070876d5df"
+    },
+    "rate": 4,
+    "note": "\uc0c1\ub300\uc801\uc774\ub2e4...\ubb50\uac00 \uc11c\uad6c\ubb38\ud654\uc5d0 \ud638\uae30\uc2ec\uc744 \uc790\uadf9\ud588\ub294\uac00...\uc5ed\uc2dc \uc724\uc120\uc0dd\uc740 \ub610 \uadf8\uc5f0\uae30....",
+    "date": "2021.05.01",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd487d2ae2070876d5e0"
+    },
+    "rate": 6,
+    "note": "\uc9c4\ubd80\ud560 \uc218 \uc788\ub294 \uc2a4\ud1a0\ub9ac\uac00 \ub2f4\ub2f4\ud558\uac8c \ucc44\uc0c9\ub418\uc5b4 \uc2e0\uc120\ud568\uc73c\ub85c \ub2e4\uac00\uc654\ub2e4",
+    "date": "2021.05.01",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd487d2ae2070876d5e1"
+    },
+    "rate": 6,
+    "note": "\ud070\uba54\uc138\uc9c0\uac00\uc788\ub124\uc694~ \uc6b0\ub9ac\uc0ac\ub294 \uc774\uc57c\uae30\uac19\uc2b5\ub2c8\ub2e4..",
+    "date": "2021.05.01",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd487d2ae2070876d5e2"
+    },
+    "rate": 4,
+    "note": "\uc2a4\ud3ec\uc77c\ub7ec\uac00 \ud3ec\ud568\ub41c \uac10\uc0c1\ud3c9\uc785\ub2c8\ub2e4. \uac10\uc0c1\ud3c9 \ubcf4\uae30",
+    "date": "2021.04.30",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd487d2ae2070876d5e3"
+    },
+    "rate": 7,
+    "note": "\ubbf8\ub098\ub9ac\ub18d\uc0ac\ub85c \uc544\uba54\ub9ac\uce78\ub4dc\ub9bc\uc5d0 \uc131\uacf5\ud558\ub294 \uc2a4\ud1a0\ub9ac\ub97c \uae30\ub2e4\ub838\uc9c0\ub9cc \ud604\uc2e4\uc740 \uadf8\ub807\uc9c0\uac00 \uc54a\uc544\uc11c \uc4f0\ub9ac\uace0 \ucc98\uc808\ud588\ub2e4\u3160",
+    "date": "2021.04.30",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd487d2ae2070876d5e4"
+    },
+    "rate": 2,
+    "note": "\uc601\ud654\ub97c  \ub108\ubb34 \uae30\ub300\ud574\uc11c \uadf8\ub7f0\uc9c0 ...\uae30\uc0dd\ucda9\uc740 \uc0c1 \ubc1b\uc740\uac8c  \uc5b4\ub290\uc815\ub3c4 \uc774\ud574\uac00 \uac00\ub294\ub370\ubbf8\ub098\ub9ac\ub294 \uadf8\ub0e5 \uc2dc\ub300\uc801\uc73c\ub85c \uc5bb\uc5b4\uac78\ub9b0\ub4ef\ud558\ub2e4   kbs\uc778\uac04\uadf9\uc7a5\uc774 \ub354 \ubab0\uc785\ub3c4\uac00\uc788\ub2e4\u3160\u3160",
+    "date": "2021.04.29",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd487d2ae2070876d5e5"
+    },
+    "rate": 4,
+    "note": "\uc774\uac70 \ubb50 \uc5b4\uca4c\ub77c\ub294 \uac74\uc9c0. \uc601\ud654\uad00\uc5d0\uc11c \uc548 \ubd24\uae38 \ub2ec\ud589\uc774\uc9c0.",
+    "date": "2021.04.28",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd487d2ae2070876d5e6"
+    },
+    "rate": 2,
+    "note": "\ud560\ub9ac\uc6b0\ub4dc \uc790\ubcf8 \uc601\ud654\uac00 \uc544\ub2c8\uc5c8\ub2e4\uba74 \ube0c\ub798\ub4dc\ud53c\ud2b8\uac00 \uc81c\uc791\uc5d0 \ucc38\uc5ec\ud558\uc9c0 \uc54a\uc558\ub2e4\uba74 \ube44\uc11c\uad6c\uad8c \uc5f0\uae30\uc778\uc5d0 \ub300\ud55c \uc758\ub3c4\uc801\uc778 \uc9d1\uc911 \ud604\uc0c1\uc774 \uc5c6\uc5c8\ub2e4\uba74... \uc774 \uc601\ud654\uac00 \uc774\ub807\uac8c\uae4c\uc9c0 \uc8fc\ubaa9 \ubc1b\uc558\uc744\uae4c? \uacfc\uc5f0 \uc791\ud488 \uadf8 \uc790\uccb4\ub9cc\uc73c\ub85c \uc774\ub807\uac8c \uc8fc\ubaa9 \ubc1b\uc744\ub9cc\ud55c...",
+    "date": "2021.04.28",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\ubd80\uc815"
+  },
+  {
+    "_id": {
+      "$oid": "6125fd487d2ae2070876d5e7"
+    },
+    "rate": 8,
+    "note": "\uc2a4\ud3ec\uc77c\ub7ec\uac00 \ud3ec\ud568\ub41c \uac10\uc0c1\ud3c9\uc785\ub2c8\ub2e4. \uac10\uc0c1\ud3c9 \ubcf4\uae30",
+    "date": "2021.04.28",
+    "good": 3,
+    "bad": 0,
+    "sympathy": "\uae0d\uc815"
+  }
+]
