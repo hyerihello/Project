@@ -16,11 +16,11 @@
 
 <img width="80%" src="https://user-images.githubusercontent.com/84650224/138237857-9923a361-21ce-4632-beb2-0641be21f1e7.jpg"/>
 
-    미나리를 검색해 보자
+   -- 로그인 화면 
     
-<img width="80%" src="https://user-images.githubusercontent.com/84650224/130755455-6f1a6ffe-6fc9-46e5-abdf-81c4a72c85b1.jpg"/>
+<img width="80%" src="https://user-images.githubusercontent.com/84650224/138237994-cfc76582-069e-41d3-baf8-d9cbdfbd3f7b.jpg"/>
 
-    웹 사이트로 이동해 원하는 영화를 클릭한다
+   -- 회원가입 화면
 
 <img width="80%" src="https://user-images.githubusercontent.com/84650224/130755533-fe1fbab1-61f3-475d-a754-9a42f2c00b53.jpg"/>
 
