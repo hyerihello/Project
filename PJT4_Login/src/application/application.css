@@ -1,0 +1,50 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.side-bar{
+	-fx-background-color: #ff6666;	
+}
+
+.button{
+	-fx-background-color: #ff6666;	
+}
+
+.button_create{
+	-fx-background-color: transparent;
+	-fx-text-fill :  #606060;
+}
+.childpan{
+	-fx-background-color: #ffff33;	
+}
+
+.noit-icon{
+	-fx-background-color: #ff0000;	
+	-fx-background-radius: 100%;
+}
+
+.txtfld{
+	-fx-background-radius : 20px;
+	-fx-background-color: #ffff33;
+}
+
+.txtfld_me	{
+	-fx-background-radius : 20px;
+	-fx-background-color: #ff6666;
+	-fx-text-fill :  #ffffff;
+}
+.app-bar{
+	-fx-background-color: #ff6666;
+	-fx-text-fill :  #ffffff;	
+	}
+	.base_create{
+	-fx-background-color: #ffffff;
+	-fx-text-fill :  #ff6666;	
+	}
+
+	.logout{
+	-fx-background-radius : 20px;
+	-fx-background-color: #ffff33;
+}
+
+.popup{
+
+	-fx-text-fill :  #ffffff;
+}

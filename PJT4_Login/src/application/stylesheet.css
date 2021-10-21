@@ -1,0 +1,27 @@
+.side-bar{
+	-fx-background-color: #3333ff;	
+}
+
+.button{
+	-fx-background-color: #3333ff;	
+}
+
+.childpan{
+	-fx-background-color: #ffff33;	
+}
+
+.noit-icon{
+	-fx-background-color: #ff0000;	
+	-fx-background-radius: 100%;
+}
+
+.txtfld{
+	-fx-background-radius : 20px;
+	-fx-background-color: #ffff33;
+}
+
+.txtfld_me	{
+	-fx-background-radius : 20px;
+	-fx-background-color: #3333ff;
+	-fx-text-fill :  #ffffff;
+}

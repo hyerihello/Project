@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.SplitMenuButton?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.effect.DropShadow?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="680.0" prefWidth="1080.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Pane prefHeight="680.0" prefWidth="200.0" styleClass="side-bar" stylesheets="@stylesheet.css">
+         <children>
+            <Circle fill="WHITE" layoutX="100.0" layoutY="81.0" radius="54.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+            <ImageView fitHeight="89.0" fitWidth="91.0" layoutX="46.0" layoutY="37.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@image/Bart_Simpson_01_-_512.png" />
+               </image>
+            </ImageView>
+            <Label alignment="CENTER" contentDisplay="CENTER" layoutX="70.0" layoutY="135.0" prefHeight="41.0" prefWidth="65.0" text="Bart" textAlignment="CENTER" textFill="#f8f6f6" textOverrun="CENTER_ELLIPSIS">
+               <font>
+                  <Font name="Calibri Bold Italic" size="24.0" />
+               </font>
+            </Label>
+            <Label contentDisplay="CENTER" layoutX="20.0" layoutY="246.0" prefHeight="41.0" prefWidth="115.0" text="Profile" textFill="#f8f6f6" textOverrun="CENTER_ELLIPSIS">
+               <font>
+                  <Font name="Calibri Bold" size="18.0" />
+               </font>
+               <padding>
+                  <Insets left="3.0" right="8.0" />
+               </padding>
+            </Label>
+            <Label contentDisplay="CENTER" layoutX="20.0" layoutY="299.0" prefHeight="41.0" prefWidth="115.0" text="Save chat" textFill="#f8f6f6" textOverrun="CENTER_ELLIPSIS">
+               <font>
+                  <Font name="Calibri Bold" size="18.0" />
+               </font>
+               <padding>
+                  <Insets left="3.0" right="8.0" />
+               </padding>
+            </Label>
+         </children>
+      </Pane>
+      <Pane layoutX="200.0" prefHeight="686.0" prefWidth="398.0">
+         <children>
+            <Label alignment="CENTER" contentDisplay="CENTER" layoutX="23.0" layoutY="30.0" prefHeight="41.0" prefWidth="65.0" stylesheets="@stylesheet.css" text="Chat" textAlignment="CENTER" textFill="#512525" textOverrun="CENTER_ELLIPSIS">
+               <font>
+                  <Font name="Calibri Bold Italic" size="24.0" />
+               </font>
+            </Label>
+            <TextField layoutX="33.0" layoutY="82.0" promptText="search">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </TextField>
+            <Pane layoutX="6.0" layoutY="175.0" prefHeight="121.0" prefWidth="375.0" style="-fx-background-color: white;">
+               <children>
+                  <Circle fill="WHITE" layoutX="68.0" layoutY="61.0" radius="54.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+                  <ImageView fitHeight="89.0" fitWidth="89.0" layoutX="34.0" layoutY="16.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@image/pngfind.com-marge-simpson-png-1354638.png" />
+                     </image>
+                  </ImageView>
+                  <Label alignment="CENTER" contentDisplay="CENTER" layoutX="155.0" layoutY="14.0" prefHeight="41.0" prefWidth="65.0" text="Lisa" textAlignment="CENTER" textFill="#282727" textOverrun="CENTER_ELLIPSIS">
+                     <font>
+                        <Font name="Calibri Bold Italic" size="24.0" />
+                     </font>
+                  </Label>
+                  <Label contentDisplay="CENTER" layoutX="162.0" layoutY="66.0" prefHeight="41.0" prefWidth="185.0" text="~~~~" textAlignment="CENTER" textFill="#a19f9f" textOverrun="CENTER_ELLIPSIS">
+                     <font>
+                        <Font name="Calibri Bold Italic" size="18.0" />
+                     </font>
+                  </Label>
+                  <Label contentDisplay="CENTER" layoutX="311.0" layoutY="7.0" prefHeight="41.0" prefWidth="51.0" text="07 JUL" textAlignment="CENTER" textFill="#a19f9f" textOverrun="CENTER_ELLIPSIS">
+                     <font>
+                        <Font name="Calibri Bold Italic" size="12.0" />
+                     </font>
+                  </Label>
+                  <Pane layoutX="314.0" layoutY="58.0" prefHeight="30.0" prefWidth="30.0" styleClass="noit-icon" stylesheets="@stylesheet.css">
+                     <children>
+                        <Label alignment="CENTER" layoutX="-1.0" layoutY="-1.0" prefHeight="30.0" prefWidth="31.0" text="2" textFill="WHITE">
+                           <font>
+                              <Font name="Calibri" size="20.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </Pane>
+               </children>
+               <effect>
+                  <DropShadow />
+               </effect>
+            </Pane>
+            <Pane layoutX="6.0" layoutY="330.0" prefHeight="121.0" prefWidth="375.0" style="-fx-background-color: white;">
+               <children>
+                  <Circle fill="WHITE" layoutX="68.0" layoutY="61.0" radius="54.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+                  <ImageView fitHeight="89.0" fitWidth="72.0" layoutX="32.0" layoutY="17.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@image/pngfind.com-marge-simpson-png-2555917.png" />
+                     </image>
+                  </ImageView>
+                  <Label alignment="CENTER" contentDisplay="CENTER" layoutX="155.0" layoutY="14.0" prefHeight="41.0" prefWidth="65.0" text="엄마" textAlignment="CENTER" textFill="#282727" textOverrun="CENTER_ELLIPSIS">
+                     <font>
+                        <Font name="Calibri Bold Italic" size="24.0" />
+                     </font>
+                  </Label>
+                  <Label contentDisplay="CENTER" layoutX="162.0" layoutY="66.0" prefHeight="41.0" prefWidth="185.0" text="전화해" textAlignment="CENTER" textFill="#a19f9f" textOverrun="CENTER_ELLIPSIS">
+                     <font>
+                        <Font name="Calibri Bold Italic" size="18.0" />
+                     </font>
+                  </Label>
+                  <Label contentDisplay="CENTER" layoutX="311.0" layoutY="7.0" prefHeight="41.0" prefWidth="51.0" text="07 JUL" textAlignment="CENTER" textFill="#a19f9f" textOverrun="CENTER_ELLIPSIS">
+                     <font>
+                        <Font name="Calibri Bold Italic" size="12.0" />
+                     </font>
+                  </Label>
+                  <Pane layoutX="314.0" layoutY="58.0" prefHeight="30.0" prefWidth="30.0" styleClass="noit-icon" stylesheets="@stylesheet.css">
+                     <children>
+                        <Label alignment="CENTER" layoutX="-1.0" layoutY="-1.0" prefHeight="30.0" prefWidth="31.0" text="11" textFill="WHITE">
+                           <font>
+                              <Font name="Calibri" size="20.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </Pane>
+               </children>
+               <effect>
+                  <DropShadow />
+               </effect>
+            </Pane>
+            <Pane layoutX="7.0" layoutY="494.0" prefHeight="121.0" prefWidth="375.0" style="-fx-background-color: white;">
+               <children>
+                  <Circle fill="WHITE" layoutX="68.0" layoutY="61.0" radius="54.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+                  <ImageView fitHeight="89.0" fitWidth="91.0" layoutX="29.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@image/pngfind.com-homero-png-2000653.png" />
+                     </image>
+                  </ImageView>
+                  <Label alignment="CENTER" contentDisplay="CENTER" layoutX="155.0" layoutY="14.0" prefHeight="41.0" prefWidth="65.0" text="아빠" textAlignment="CENTER" textFill="#282727" textOverrun="CENTER_ELLIPSIS">
+                     <font>
+                        <Font name="Calibri Bold Italic" size="24.0" />
+                     </font>
+                  </Label>
+                  <Label contentDisplay="CENTER" layoutX="162.0" layoutY="66.0" prefHeight="41.0" prefWidth="185.0" text="ㅇㅇ" textAlignment="CENTER" textFill="#a19f9f" textOverrun="CENTER_ELLIPSIS">
+                     <font>
+                        <Font name="Calibri Bold Italic" size="18.0" />
+                     </font>
+                  </Label>
+                  <Label contentDisplay="CENTER" layoutX="311.0" layoutY="7.0" prefHeight="41.0" prefWidth="39.0" text="07 JUL" textAlignment="CENTER" textFill="#a19f9f" textOverrun="CENTER_ELLIPSIS">
+                     <font>
+                        <Font name="Calibri Bold Italic" size="12.0" />
+                     </font>
+                  </Label>
+                  <Pane layoutX="314.0" layoutY="58.0" prefHeight="30.0" prefWidth="30.0" styleClass="noit-icon" stylesheets="@stylesheet.css">
+                     <children>
+                        <Label alignment="CENTER" layoutX="-1.0" layoutY="-1.0" prefHeight="30.0" prefWidth="31.0" text="97" textFill="WHITE">
+                           <font>
+                              <Font name="Calibri" size="20.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </Pane>
+               </children>
+               <effect>
+                  <DropShadow />
+               </effect>
+            </Pane>
+         </children>
+      </Pane>
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="628.0" layoutY="26.0" prefHeight="41.0" prefWidth="65.0" stylesheets="@stylesheet.css" text="Chat" textAlignment="CENTER" textFill="#512525" textOverrun="CENTER_ELLIPSIS">
+         <font>
+            <Font name="Calibri Bold Italic" size="24.0" />
+         </font>
+      </Label>
+      <Label contentDisplay="CENTER" layoutX="633.0" layoutY="67.0" prefHeight="30.0" prefWidth="185.0" text="from : Lisa" textAlignment="CENTER" textFill="#a19f9f" textOverrun="CENTER_ELLIPSIS">
+         <font>
+            <Font name="Calibri Bold Italic" size="18.0" />
+         </font>
+      </Label>
+      <Circle fill="WHITE" layoutX="653.0" layoutY="163.0" radius="45.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <ImageView fitHeight="73.0" fitWidth="51.0" layoutX="628.0" layoutY="130.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@image/pngfind.com-marge-simpson-png-1354638.png" />
+         </image>
+      </ImageView>
+      <TextField layoutX="710.0" layoutY="140.0" prefHeight="41.0" prefWidth="239.0" styleClass="txtfld" stylesheets="@stylesheet.css" text="치킨 사와" />
+      <TextField layoutX="818.0" layoutY="241.0" prefHeight="41.0" prefWidth="239.0" styleClass="txtfld_me" stylesheets="@stylesheet.css" text="ㅇㅋㅇㅋ" />
+      <Circle fill="WHITE" layoutX="653.0" layoutY="343.0" radius="45.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <ImageView fitHeight="73.0" fitWidth="51.0" layoutX="628.0" layoutY="307.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@image/pngfind.com-marge-simpson-png-1354638.png" />
+         </image>
+      </ImageView>
+      <TextField layoutX="710.0" layoutY="320.0" prefHeight="41.0" prefWidth="239.0" styleClass="txtfld" stylesheets="@stylesheet.css" text="빨리와" />
+      <Circle fill="WHITE" layoutX="653.0" layoutY="460.0" radius="45.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <ImageView fitHeight="73.0" fitWidth="51.0" layoutX="628.0" layoutY="427.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@image/pngfind.com-marge-simpson-png-1354638.png" />
+         </image>
+      </ImageView>
+      <TextField layoutX="710.0" layoutY="437.0" prefHeight="41.0" prefWidth="239.0" styleClass="txtfld" stylesheets="@stylesheet.css" text="~~~~" />
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="628.0" layoutY="388.0" prefHeight="30.0" prefWidth="51.0" text="18:02" textAlignment="CENTER" textFill="#a19f9f" textOverrun="CENTER_ELLIPSIS">
+         <font>
+            <Font name="Calibri Bold Italic" size="12.0" />
+         </font>
+      </Label>
+      <HBox alignment="CENTER_LEFT" focusTraversable="true" layoutX="628.0" layoutY="558.0" nodeOrientation="LEFT_TO_RIGHT" prefHeight="108.0" prefWidth="435.0">
+         <children>
+            <ImageView fitHeight="39.0" fitWidth="44.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@image/pngfind.com-plus-sign-png-523304.png" />
+               </image>
+            </ImageView>
+            <TextField prefHeight="50.0" prefWidth="337.0" promptText="메시지를 입력하세요..">
+               <HBox.margin>
+                  <Insets left="10.0" />
+               </HBox.margin>
+            </TextField>
+            <ImageView fitHeight="39.0" fitWidth="44.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@image/pngfind.com-donut-png-559890.png" />
+               </image>
+               <HBox.margin>
+                  <Insets left="10.0" />
+               </HBox.margin>
+            </ImageView>
+         </children>
+      </HBox>
+      <SplitMenuButton layoutX="959.0" layoutY="535.0" mnemonicParsing="false" text="Emoji">
+        <items>
+          <MenuItem mnemonicParsing="false" text="Action 1" />
+          <MenuItem mnemonicParsing="false" text="Action 2" />
+        </items>
+      </SplitMenuButton>
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="635.0" layoutY="219.0" prefHeight="30.0" prefWidth="51.0" text="18:00" textAlignment="CENTER" textFill="#a19f9f" textOverrun="CENTER_ELLIPSIS">
+         <font>
+            <Font name="Calibri Bold Italic" size="12.0" />
+         </font>
+      </Label>
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="628.0" layoutY="505.0" prefHeight="30.0" prefWidth="51.0" text="18:02" textAlignment="CENTER" textFill="#a19f9f" textOverrun="CENTER_ELLIPSIS">
+         <font>
+            <Font name="Calibri Bold Italic" size="12.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

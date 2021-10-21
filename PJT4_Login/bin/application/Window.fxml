@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.net.URL?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.TextFlow?>
+
+<AnchorPane xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.WindowController">
+   <children>
+      <Pane prefHeight="680.0" prefWidth="200.0" styleClass="side-bar">
+         <children>
+            <Circle fill="WHITE" layoutX="103.0" layoutY="90.0" radius="54.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+            <Label fx:id="w_name_m" alignment="CENTER" contentDisplay="CENTER" layoutX="73.0" layoutY="144.0" prefHeight="41.0" prefWidth="65.0" text="Bart" textAlignment="CENTER" textFill="#f8f6f6" textOverrun="CENTER_ELLIPSIS">
+               <font>
+                  <Font name="Calibri Bold Italic" size="24.0" />
+               </font>
+            </Label>
+            <ImageView fx:id="w_pic_m" fitHeight="89.0" fitWidth="91.0" layoutX="49.0" layoutY="46.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../image/Bart_Simpson_01_-_512.png" />
+               </image>
+            </ImageView>
+         </children>
+         <stylesheets>
+            <URL value="@../../../javawork/Chat_1/src/application/application.css" />
+            <URL value="@application.css" />
+         </stylesheets>
+      </Pane>
+      <AnchorPane prefHeight="680.0" prefWidth="846.0">
+         <children>
+            <TextArea fx:id="chat_area" layoutX="233.0" layoutY="101.0" prefHeight="482.0" prefWidth="402.0" />
+            <Button fx:id="logout_w" mnemonicParsing="false" onAction="#logoutw" prefHeight="50.0" prefWidth="125.0" styleClass="logout" stylesheets="@application.css" text="LogOut" textFill="#1b1c1e" AnchorPane.leftAnchor="40.0" AnchorPane.topAnchor="600.0">
+               <font>
+                  <Font name="Impact" size="16.0" />
+               </font>
+            </Button>
+            <Pane layoutX="612.0" layoutY="6.0" prefHeight="170.0" prefWidth="440.0" stylesheets="@application.css" />
+            <TextFlow prefHeight="200.0" prefWidth="200.0" stylesheets="@application.css" />
+            <Pane layoutX="199.0" prefHeight="108.0" prefWidth="440.0" stylesheets="@application.css">
+               <children>
+                  <Label alignment="CENTER" contentDisplay="CENTER" layoutX="14.0" layoutY="14.0" prefHeight="41.0" prefWidth="65.0" stylesheets="@application.css" text="Chat" textAlignment="CENTER" textFill="#512525" textOverrun="CENTER_ELLIPSIS">
+                     <font>
+                        <Font name="Calibri Bold Italic" size="24.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="chat_member" contentDisplay="CENTER" layoutX="14.0" layoutY="64.0" prefHeight="30.0" prefWidth="185.0" text="from : Lisa" textAlignment="CENTER" textFill="#a19f9f" textOverrun="CENTER_ELLIPSIS">
+                     <font>
+                        <Font name="Calibri Bold Italic" size="18.0" />
+                     </font>
+                  </Label>
+               </children>
+            </Pane>
+            <HBox alignment="CENTER_LEFT" focusTraversable="true" layoutX="223.0" layoutY="563.0" nodeOrientation="LEFT_TO_RIGHT" prefHeight="108.0" prefWidth="435.0" stylesheets="@application.css">
+               <children>
+                  <Button fx:id="add_pic" mnemonicParsing="false" text="Button" />
+                  <TextField fx:id="input_txt" onAction="#sendMessage" prefHeight="50.0" prefWidth="337.0" promptText="메시지를 입력하세요..">
+                     <HBox.margin>
+                        <Insets left="6.0" />
+                     </HBox.margin>
+                  </TextField>
+                  <Button fx:id="send_mssg" mnemonicParsing="false" text="Button" />
+               </children>
+            </HBox>
+            <Pane layoutX="679.0" prefHeight="680.0" prefWidth="373.0" styleClass="side-bar" stylesheets="@application.css">
+               <children>
+                  <Circle fill="WHITE" layoutX="81.0" layoutY="169.0" radius="54.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+                  <Label alignment="CENTER" contentDisplay="CENTER" layoutX="180.0" layoutY="121.0" prefHeight="41.0" prefWidth="65.0" text="Bart" textAlignment="CENTER" textFill="#f8f6f6" textOverrun="CENTER_ELLIPSIS">
+                     <font>
+                        <Font name="Calibri Bold Italic" size="24.0" />
+                     </font>
+                  </Label>
+                  <ImageView fitHeight="89.0" fitWidth="91.0" layoutX="27.0" layoutY="125.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../image/Bart_Simpson_01_-_512.png" />
+                     </image>
+                  </ImageView>
+                  <Label alignment="CENTER" contentDisplay="CENTER" layoutX="153.0" layoutY="14.0" prefHeight="50.0" prefWidth="115.0" stylesheets="@application.css" text="명 접속" textAlignment="CENTER" textFill="WHITE" textOverrun="CENTER_ELLIPSIS">
+                     <font>
+                        <Font name="Calibri Bold Italic" size="24.0" />
+                     </font>
+                  </Label>
+                  <Label alignment="CENTER" contentDisplay="CENTER" layoutX="48.0" layoutY="14.0" prefHeight="50.0" prefWidth="115.0" stylesheets="@application.css" text="05" textAlignment="CENTER" textFill="WHITE" textOverrun="CENTER_ELLIPSIS">
+                     <font>
+                        <Font name="Calibri Bold Italic" size="24.0" />
+                     </font>
+                  </Label>
+                  <Button layoutX="185.0" layoutY="175.0" mnemonicParsing="false" styleClass="txtfld" stylesheets="@../../../javawork/Chat_1/src/application/application.css" text="profile" />
+                  <Circle fill="WHITE" layoutX="81.0" layoutY="292.0" radius="54.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+                  <Label alignment="CENTER" contentDisplay="CENTER" layoutX="180.0" layoutY="244.0" prefHeight="41.0" prefWidth="65.0" text="Bart" textAlignment="CENTER" textFill="#f8f6f6" textOverrun="CENTER_ELLIPSIS">
+                     <font>
+                        <Font name="Calibri Bold Italic" size="24.0" />
+                     </font>
+                  </Label>
+                  <Button layoutX="185.0" layoutY="298.0" mnemonicParsing="false" styleClass="txtfld" stylesheets="@../../../javawork/Chat_1/src/application/application.css" text="profile" />
+                  <Circle fill="WHITE" layoutX="81.0" layoutY="419.0" radius="54.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+                  <Label alignment="CENTER" contentDisplay="CENTER" layoutX="180.0" layoutY="371.0" prefHeight="41.0" prefWidth="65.0" text="Bart" textAlignment="CENTER" textFill="#f8f6f6" textOverrun="CENTER_ELLIPSIS">
+                     <font>
+                        <Font name="Calibri Bold Italic" size="24.0" />
+                     </font>
+                  </Label>
+                  <Button layoutX="185.0" layoutY="425.0" mnemonicParsing="false" styleClass="txtfld" stylesheets="@../../../javawork/Chat_1/src/application/application.css" text="profile" />
+                  <Circle fill="WHITE" layoutX="81.0" layoutY="538.0" radius="54.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+                  <Label alignment="CENTER" contentDisplay="CENTER" layoutX="180.0" layoutY="490.0" prefHeight="41.0" prefWidth="65.0" text="Bart" textAlignment="CENTER" textFill="#f8f6f6" textOverrun="CENTER_ELLIPSIS">
+                     <font>
+                        <Font name="Calibri Bold Italic" size="24.0" />
+                     </font>
+                  </Label>
+                  <Button layoutX="185.0" layoutY="544.0" mnemonicParsing="false" styleClass="txtfld" stylesheets="@../../../javawork/Chat_1/src/application/application.css" text="profile" />
+               </children>
+            </Pane>
+         </children>
+      </AnchorPane>
+      <Label fx:id="w_profile" contentDisplay="CENTER" layoutX="30.0" layoutY="256.0" prefHeight="41.0" prefWidth="115.0" styleClass="side-bar" stylesheets="@application.css" text="Profile" textFill="#f8f6f6" textOverrun="CENTER_ELLIPSIS">
+         <font>
+            <Font name="Calibri Bold" size="18.0" />
+         </font>
+         <padding>
+            <Insets left="3.0" right="8.0" />
+         </padding>
+      </Label>
+      <Label fx:id="w_savechat" contentDisplay="CENTER" layoutX="30.0" layoutY="309.0" prefHeight="41.0" prefWidth="115.0" text="Save chat" textFill="#f8f6f6" textOverrun="CENTER_ELLIPSIS">
+         <font>
+            <Font name="Calibri Bold" size="18.0" />
+         </font>
+         <padding>
+            <Insets left="3.0" right="8.0" />
+         </padding>
+      </Label>
+   </children>
+</AnchorPane>
