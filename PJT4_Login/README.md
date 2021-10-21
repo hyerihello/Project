@@ -14,17 +14,17 @@
 
 # 결과
 
-<img width="80%" src="https://user-images.githubusercontent.com/84650224/138237857-9923a361-21ce-4632-beb2-0641be21f1e7.jpg"/>
+<img width="70%" src="https://user-images.githubusercontent.com/84650224/138237857-9923a361-21ce-4632-beb2-0641be21f1e7.jpg"/>
 
-   -- 로그인 화면 
+    로그인 화면 
     
-<img width="80%" src="https://user-images.githubusercontent.com/84650224/138237994-cfc76582-069e-41d3-baf8-d9cbdfbd3f7b.jpg"/>
+<img width="70%" src="https://user-images.githubusercontent.com/84650224/138237994-cfc76582-069e-41d3-baf8-d9cbdfbd3f7b.jpg"/>
 
-   -- 회원가입 화면
+    회원가입 화면
 
-<img width="80%" src="https://user-images.githubusercontent.com/84650224/130755533-fe1fbab1-61f3-475d-a754-9a42f2c00b53.jpg"/>
+<img width="70%" src="https://user-images.githubusercontent.com/84650224/138238252-86cd6271-f3e3-40e0-9985-457d1bf65d6f.jpg"/>
 
-    크롤링된 데이터 (댓글) 긍부정 형태소 분석 진행
+    DB 저장 확인
 
 <img width="80%" src="https://user-images.githubusercontent.com/84650224/130755628-fe444668-3f47-4fe1-96e1-e9e713d7d4c4.jpg"/>
 
