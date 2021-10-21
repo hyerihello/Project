@@ -30,16 +30,11 @@
 
     DB 저장 확인
 
+<img width="80%" src="https://user-images.githubusercontent.com/84650224/138238907-b151fd8d-9c01-45a2-8137-7015c84b68b8.jpg"/>
 
+    로그인 성공
     
-<img width="80%" src="https://user-images.githubusercontent.com/84650224/130755719-0e715725-5982-4c5f-9778-9a26676d84fd.jpg"/>
+<img width="80%" src="https://user-images.githubusercontent.com/84650224/138239058-75a7d325-1bf7-4fdf-983c-1388aa2260f8.jpg"/>
 
-    별점별 기준
-    
-<img width="80%" src="https://user-images.githubusercontent.com/84650224/130755784-4a92265f-5505-4f99-b1f9-5693363676bd.jpg"/>
+    채팅 화면
 
-    날짜별 기준
-
-<img width="80%" src="https://user-images.githubusercontent.com/84650224/130755846-885da2f0-62ae-4973-b746-aa3199c7dcf8.jpg"/>
-
-    분위기별 기준 
