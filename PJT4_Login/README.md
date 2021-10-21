@@ -21,14 +21,16 @@
 <img width="70%" src="https://user-images.githubusercontent.com/84650224/138237994-cfc76582-069e-41d3-baf8-d9cbdfbd3f7b.jpg"/>
 
     회원가입 화면
+    
+<img width="80%" src="https://user-images.githubusercontent.com/84650224/138238632-173ed566-8201-4229-805d-e13fc1977fe1.jpg"/>
+
+    회원가입 완료 화면
 
 <img width="70%" src="https://user-images.githubusercontent.com/84650224/138238252-86cd6271-f3e3-40e0-9985-457d1bf65d6f.jpg"/>
 
     DB 저장 확인
 
-<img width="80%" src="https://user-images.githubusercontent.com/84650224/130755628-fe444668-3f47-4fe1-96e1-e9e713d7d4c4.jpg"/>
 
-    한줄평 기준
     
 <img width="80%" src="https://user-images.githubusercontent.com/84650224/130755719-0e715725-5982-4c5f-9778-9a26676d84fd.jpg"/>
 
